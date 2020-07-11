@@ -1,7 +1,14 @@
-# Scrape the website: https://www.medicineindia.org/
+# 
+"""
+Scrapes the website: https://www.medicineindia.org/
+
+collected 35k medicine details
+
+"""
 
 from bs4 import BeautifulSoup
 import csv
+import os
 import requests
 import string
 from urllib.parse import urljoin
@@ -24,29 +31,45 @@ def get_medicine_by_brandname():
 
 
 def scrape_url(url):
+    print ('============ Scraping URL %s ============' %url)
     response = requests.get(url=url)
+    alphabet = url[-1]
     soup = BeautifulSoup(response.content, 'html.parser')
     count = 0
     table = soup.find('table', attrs={'class': 'table table-striped table-bordered'})
+    table_data = []
     for table_row in table.findAll('tr', attrs={'class': 'medicine-brand-row'}):
-        print (table_row.td.a.span.text)
-        # name of medine
-        # url of medicine
-        # name of company
-        # url of company
-        # Package
-        # strength
-        # Price
-        
+        # print (table_row.td.a.span.text)
+        row_data = {}
+        row_data['medicine'] = table_row.td.a.span.text
+        row_data['description_url'] = table_row.td.a['href']
+        company_info = table_row.find('td', attrs = {'itemprop': 'manufacturer'})
+        row_data['company'] = company_info.a.span.text
+        row_data['company_url'] = company_info.a['href']
+        # row_data['package'] = table_row.td.text
+        # row_data['strength'] = table_row.td.text
+        row_data['price'] = table_row.find('td', attrs={'itemprop': 'offers'}).span.text
+        table_data.append(row_data)
         count += 1
-        if count == 10:
-            break
-    print (count)
-    return
+        # if count == 10:
+        #     break
+    save_scraped_data(table_data, alphabet=alphabet)
+    print ('COUNT OF ROWS %s' %count)
+    print ('============= completed scraping %s =============' %url)
 
 
-def save_scraped_data():
-    return 0
+def save_scraped_data(table_data, alphabet):
+    alphabet = alphabet + '.csv'
+    header_keys = table_data[0].keys()
+    store_location = os.path.join(os.getcwd(), 'ExtractedData', 'medicineIndia', alphabet)
+    print ('+++++++ Writing data to csv at %s +++++++' % store_location)
+
+    with open(store_location, 'w') as ofile:
+        dict_writer = csv.DictWriter(ofile, header_keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(table_data)
+    
+    print ('\n\n+++++++ Done writing data to CSV file +++++++\n')
 
 
 def get_alphabet_urls():
@@ -62,5 +85,4 @@ def get_alphabet_urls():
     return alphabet_urls
 
 
-# get_medicine_by_brandname()
-scrape_url(url='https://www.medicineindia.org/medicine-brands/a')
+get_medicine_by_brandname()

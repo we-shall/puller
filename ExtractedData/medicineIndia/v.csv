@@ -1,0 +1,716 @@
+medicine,description_url,company,company_url,price
+VBC-12,//www.medicineindia.org/medicine-brand-details/17461/vbc-12,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,5.40
+VENOFER,//www.medicineindia.org/medicine-brand-details/18123/venofer,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,350.00
+VASOCON,//www.medicineindia.org/medicine-brand-details/217/vasocon,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,13.00
+VARDOL,//www.medicineindia.org/medicine-brand-details/1340/vardol,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,25.00
+VASOPIN,//www.medicineindia.org/medicine-brand-details/15530/vasopin,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,600.00
+VARITECT-CP,//www.medicineindia.org/medicine-brand-details/104/varitect-cp,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,6815.00
+VECURON,//www.medicineindia.org/medicine-brand-details/11868/vecuron,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,76.80
+VESCUE,//www.medicineindia.org/medicine-brand-details/8400/vescue,Rusan Healthcare Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/53/rusan-healthcare-pvt-ltd,120.00
+VPL,//www.medicineindia.org/medicine-brand-details/386/vpl,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,20.70
+VOFANE,//www.medicineindia.org/medicine-brand-details/1413/vofane,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,14.31
+VAGIFEM,//www.medicineindia.org/medicine-brand-details/16832/vagifem,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,506.30
+VENT SF INHALER,//www.medicineindia.org/medicine-brand-details/11021/vent-sf-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,260.00
+VENT SF INHALER,//www.medicineindia.org/medicine-brand-details/11021/vent-sf-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,370.00
+VENTIPRA - MDI,//www.medicineindia.org/medicine-brand-details/10950/ventipra-mdi,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,170.00
+VENSY,//www.medicineindia.org/medicine-brand-details/10483/vensy,Aglowmed Limited,//www.medicineindia.org/medicine-manufacturing-company/247/aglowmed-limited,0.00
+VITCOFOL CAPS.,//www.medicineindia.org/medicine-brand-details/17957/vitcofol-caps,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,12.60
+VITAWIZ,//www.medicineindia.org/medicine-brand-details/17720/vitawiz,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,14.16
+VITAFOL-Z TR,//www.medicineindia.org/medicine-brand-details/18008/vitafol-z-tr,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,15.00
+VIZYLAC,//www.medicineindia.org/medicine-brand-details/17507/vizylac,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,15.50
+VIBELAN FORTE,//www.medicineindia.org/medicine-brand-details/17462/vibelan-forte,Allenburys,//www.medicineindia.org/medicine-manufacturing-company/82/allenburys,15.59
+VITAZINC,//www.medicineindia.org/medicine-brand-details/18150/vitazinc,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,15.80
+VITAUR PLUS CAP,//www.medicineindia.org/medicine-brand-details/17750/vitaur-plus-cap,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,19.80
+VITAZYME CAP,//www.medicineindia.org/medicine-brand-details/14249/vitazyme-cap,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,28.70
+VITOMIN-Z,//www.medicineindia.org/medicine-brand-details/18224/vitomin-z,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,35.00
+VELOZ-D,//www.medicineindia.org/medicine-brand-details/13176/veloz-d,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,76.30
+VALZAAR 80H,//www.medicineindia.org/medicine-brand-details/8161/valzaar-80h,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,77.00
+VALZAAR SM,//www.medicineindia.org/medicine-brand-details/8162/valzaar-sm,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,89.00
+VENT PLUS EASECAPS,//www.medicineindia.org/medicine-brand-details/10992/vent-plus-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,30.50
+VITAFOL-Z TR,//www.medicineindia.org/medicine-brand-details/18008/vitafol-z-tr,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,36.00
+VENT PLUS EASECAPS,//www.medicineindia.org/medicine-brand-details/10992/vent-plus-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,45.00
+VENTIPRA,//www.medicineindia.org/medicine-brand-details/10949/ventipra,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,55.00
+VENT SF EASECAPS,//www.medicineindia.org/medicine-brand-details/11020/vent-sf-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,98.00
+VENT SF EASECAPS,//www.medicineindia.org/medicine-brand-details/11020/vent-sf-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,196.00
+VENT SF EASECAPS,//www.medicineindia.org/medicine-brand-details/11020/vent-sf-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,230.00
+VIDOX,//www.medicineindia.org/medicine-brand-details/5951/vidox,Viva Laboratories,//www.medicineindia.org/medicine-manufacturing-company/649/viva-laboratories,25.00
+VORANIN,//www.medicineindia.org/medicine-brand-details/15399/voranin,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,109.90
+VAGESTON,//www.medicineindia.org/medicine-brand-details/15398/vageston,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,111.00
+VENTIFLO EASECAPS,//www.medicineindia.org/medicine-brand-details/11022/ventiflo-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,90.00
+VENT FB EASECAPS,//www.medicineindia.org/medicine-brand-details/11007/vent-fb-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,100.00
+VIVOCYCLINE,//www.medicineindia.org/medicine-brand-details/5952/vivocycline,Indian Drugs & Pharmaceuticals Ltd. (IDPL),//www.medicineindia.org/medicine-manufacturing-company/79/indian-drugs-pharmaceuticals-ltd-idpl,8.12
+VENLIFT-OD,//www.medicineindia.org/medicine-brand-details/9730/venlift-od,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,86.00
+VALZAAR,//www.medicineindia.org/medicine-brand-details/8111/valzaar,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,130.00
+VALENT,//www.medicineindia.org/medicine-brand-details/8110/valent,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,130.00
+VASOVIN,//www.medicineindia.org/medicine-brand-details/382/vasovin,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,77.00
+VIT-E,//www.medicineindia.org/medicine-brand-details/17612/vit-e,Zydus Medica,//www.medicineindia.org/medicine-manufacturing-company/120/zydus-medica,12.47
+VORANIN,//www.medicineindia.org/medicine-brand-details/15399/voranin,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,185.00
+VAGESTON,//www.medicineindia.org/medicine-brand-details/15398/vageston,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,203.55
+VITEOLIN,//www.medicineindia.org/medicine-brand-details/17613/viteolin,Allenburys,//www.medicineindia.org/medicine-manufacturing-company/82/allenburys,0.00
+VENT EASECAPS,//www.medicineindia.org/medicine-brand-details/11042/vent-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,16.50
+VENT FB EASECAPS,//www.medicineindia.org/medicine-brand-details/11007/vent-fb-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,121.00
+VITCHOL,//www.medicineindia.org/medicine-brand-details/6039/vitchol,FRANKLIN LAB,//www.medicineindia.org/medicine-manufacturing-company/367/franklin-lab,22.00
+V-BACT,//www.medicineindia.org/medicine-brand-details/3318/v-bact,Vision Medlink,//www.medicineindia.org/medicine-manufacturing-company/264/vision-medlink,32.00
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,35.95
+VIATRIX,//www.medicineindia.org/medicine-brand-details/11409/viatrix,EWF Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/692/ewf-pharmaceuticals-pvt-ltd,50.00
+VICEF,//www.medicineindia.org/medicine-brand-details/3704/vicef,Vision Medlink,//www.medicineindia.org/medicine-manufacturing-company/264/vision-medlink,62.00
+VERCEF,//www.medicineindia.org/medicine-brand-details/4016/vercef,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,58.25
+VENTIFLO EASECAPS,//www.medicineindia.org/medicine-brand-details/11022/ventiflo-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,180.00
+VIROSINE-DR,//www.medicineindia.org/medicine-brand-details/18423/virosine-dr,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,1250.00
+VIGNIR LB,//www.medicineindia.org/medicine-brand-details/4324/vignir-lb,Madhav Biotech Pvt.Ltd,//www.medicineindia.org/medicine-manufacturing-company/610/madhav-biotech-pvtltd,400.00
+VENLIFT-OD,//www.medicineindia.org/medicine-brand-details/9730/venlift-od,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,26.40
+VALENT,//www.medicineindia.org/medicine-brand-details/8110/valent,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,49.20
+VIT-E,//www.medicineindia.org/medicine-brand-details/17612/vit-e,Zydus Medica,//www.medicineindia.org/medicine-manufacturing-company/120/zydus-medica,22.11
+VAGESTON,//www.medicineindia.org/medicine-brand-details/15398/vageston,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,462.75
+VITEOLIN,//www.medicineindia.org/medicine-brand-details/17613/viteolin,Allenburys,//www.medicineindia.org/medicine-manufacturing-company/82/allenburys,0.00
+VENT FB EASECAPS,//www.medicineindia.org/medicine-brand-details/11007/vent-fb-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,99.00
+VIROSINE-DR,//www.medicineindia.org/medicine-brand-details/18423/virosine-dr,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,1950.00
+VINGRAF,//www.medicineindia.org/medicine-brand-details/17136/vingraf,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,1796.00
+VENTIFLO EASECAPS,//www.medicineindia.org/medicine-brand-details/11022/ventiflo-easecaps,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,60.00
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,63.85
+VIATRIX,//www.medicineindia.org/medicine-brand-details/11409/viatrix,EWF Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/692/ewf-pharmaceuticals-pvt-ltd,80.00
+VEINCURE,//www.medicineindia.org/medicine-brand-details/9099/veincure,ALPHA LAB,//www.medicineindia.org/medicine-manufacturing-company/588/alpha-lab,95.35
+VITAMIN A (USV),//www.medicineindia.org/medicine-brand-details/17591/vitamin-a-usv,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,37.54
+VASOVIN,//www.medicineindia.org/medicine-brand-details/382/vasovin,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,114.00
+VENLIFT-OD,//www.medicineindia.org/medicine-brand-details/9730/venlift-od,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,44.00
+VALZAAR,//www.medicineindia.org/medicine-brand-details/8111/valzaar,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,69.00
+VALENT,//www.medicineindia.org/medicine-brand-details/8110/valent,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,75.60
+VENTORLIN,//www.medicineindia.org/medicine-brand-details/333/ventorlin,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,7.04
+VENTORLIN,//www.medicineindia.org/medicine-brand-details/333/ventorlin,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,9.00
+VENIZ XR,//www.medicineindia.org/medicine-brand-details/9726/veniz-xr,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,93.00
+VENIZ XR,//www.medicineindia.org/medicine-brand-details/9726/veniz-xr,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,28.00
+VENIZ XR,//www.medicineindia.org/medicine-brand-details/9726/veniz-xr,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,50.00
+VENLOR XR,//www.medicineindia.org/medicine-brand-details/9732/venlor-xr,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,93.75
+VENLOR XR,//www.medicineindia.org/medicine-brand-details/9732/venlor-xr,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,24.25
+VENLOR XR,//www.medicineindia.org/medicine-brand-details/9732/venlor-xr,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,48.00
+VULCIN,//www.medicineindia.org/medicine-brand-details/6668/vulcin,Rusan Healthcare Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/53/rusan-healthcare-pvt-ltd,37.50
+VALBET,//www.medicineindia.org/medicine-brand-details/16387/valbet,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,17.50
+VIDIN,//www.medicineindia.org/medicine-brand-details/16145/vidin,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,32.00
+VENUSIA,//www.medicineindia.org/medicine-brand-details/16007/venusia,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,114.00
+VIVORAX,//www.medicineindia.org/medicine-brand-details/7015/vivorax,Le Sante,//www.medicineindia.org/medicine-manufacturing-company/443/le-sante,40.00
+VOMISTOP,//www.medicineindia.org/medicine-brand-details/2518/vomistop,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,24.00
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,11.26
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,19.37
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,18.20
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,29.15
+VIREXIIM,//www.medicineindia.org/medicine-brand-details/4536/virexiim,East African (I) Remedies Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/187/east-african-i-remedies-pvt-ltd,68.00
+VER OPV,//www.medicineindia.org/medicine-brand-details/8/ver-opv,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,72.79
+VITOMIN-Z DROPS,//www.medicineindia.org/medicine-brand-details/18233/vitomin-z-drops,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,20.19
+VITCOFOL DPS.,//www.medicineindia.org/medicine-brand-details/17564/vitcofol-dps,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,11.80
+VISYNERAL DPS.,//www.medicineindia.org/medicine-brand-details/17715/visyneral-dps,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,23.48
+VIDAYLIN DPS.,//www.medicineindia.org/medicine-brand-details/17707/vidaylin-dps,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,24.05
+VITON-Z,//www.medicineindia.org/medicine-brand-details/17721/viton-z,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,25.00
+VITAZYME DROPS,//www.medicineindia.org/medicine-brand-details/14302/vitazyme-drops,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,28.25
+VISYNERAL ZINC DPS.,//www.medicineindia.org/medicine-brand-details/17718/visyneral-zinc-dps,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,35.00
+VI-MAGNA DPS.,//www.medicineindia.org/medicine-brand-details/17710/vi-magna-dps,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,9.51
+VISIFLUR,//www.medicineindia.org/medicine-brand-details/15806/visiflur,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,14.00
+VORAC,//www.medicineindia.org/medicine-brand-details/18745/vorac,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,17.50
+VANMYCETIN EYE,//www.medicineindia.org/medicine-brand-details/15570/vanmycetin-eye,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,11.00
+VIGAMOX,//www.medicineindia.org/medicine-brand-details/19082/vigamox,Alcon,//www.medicineindia.org/medicine-manufacturing-company/772/alcon,0.00
+VOMISTOP,//www.medicineindia.org/medicine-brand-details/2518/vomistop,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,24.00
+VOLTAREN,//www.medicineindia.org/medicine-brand-details/19074/voltaren,Endo Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/782/endo-pharmaceuticals,0.00
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,13.59
+VISCOMAC - PFS,//www.medicineindia.org/medicine-brand-details/15971/viscomac-pfs,Centaur Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/60/centaur-laboratories-p-ltd,90.00
+VISCID GEL,//www.medicineindia.org/medicine-brand-details/13271/viscid-gel,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,24.10
+VAH GEL,//www.medicineindia.org/medicine-brand-details/11574/vah-gel,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,39.90
+VOLINI GEL,//www.medicineindia.org/medicine-brand-details/11540/volini-gel,Crosland Research Laboratories,//www.medicineindia.org/medicine-manufacturing-company/371/crosland-research-laboratories,62.04
+VOVERAN EMULGEL,//www.medicineindia.org/medicine-brand-details/11541/voveran-emulgel,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,73.00
+VOLTAREN,//www.medicineindia.org/medicine-brand-details/19074/voltaren,Endo Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/782/endo-pharmaceuticals,0.00
+VOVERAN EMULGEL,//www.medicineindia.org/medicine-brand-details/11541/voveran-emulgel,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,98.90
+VALDONE GEL,//www.medicineindia.org/medicine-brand-details/11575/valdone-gel,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,50.00
+VENT FB INHALER,//www.medicineindia.org/medicine-brand-details/11008/vent-fb-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,133.00
+VENT PLUS INHALER,//www.medicineindia.org/medicine-brand-details/10993/vent-plus-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,111.18
+VENT FB INHALER,//www.medicineindia.org/medicine-brand-details/11008/vent-fb-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,175.00
+VENT INHALER,//www.medicineindia.org/medicine-brand-details/11043/vent-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,76.86
+VENT INHALER,//www.medicineindia.org/medicine-brand-details/11043/vent-inhaler,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,90.00
+VENTORLIN INHALER,//www.medicineindia.org/medicine-brand-details/11044/ventorlin-inhaler,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,105.65
+VARILRIX,//www.medicineindia.org/medicine-brand-details/34/varilrix,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,1345.00
+VITAUR INJ.,//www.medicineindia.org/medicine-brand-details/17464/vitaur-inj,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,5.50
+VITCOFOL INJ.,//www.medicineindia.org/medicine-brand-details/17565/vitcofol-inj,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,29.75
+VALAMATE,//www.medicineindia.org/medicine-brand-details/2848/valamate,Mercury Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/140/mercury-laboratories-pvt-ltd,8.50
+VITNEURIN,//www.medicineindia.org/medicine-brand-details/17559/vitneurin,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,4.77
+VITAUR,//www.medicineindia.org/medicine-brand-details/17749/vitaur,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,5.50
+VISCOMET-KIT,//www.medicineindia.org/medicine-brand-details/15974/viscomet-kit,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,61.90
+VALDIXX INJ,//www.medicineindia.org/medicine-brand-details/2117/valdixx-inj,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,65.00
+VISCOMET-PF,//www.medicineindia.org/medicine-brand-details/15975/viscomet-pf,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,110.00
+VIVOGESIC PLUS INJ,//www.medicineindia.org/medicine-brand-details/1985/vivogesic-plus-inj,Bestochem Formulations (I) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/259/bestochem-formulations-i-ltd,12.95
+VIVOGESIC INJ.,//www.medicineindia.org/medicine-brand-details/1563/vivogesic-inj,Bestochem Formulations (I) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/259/bestochem-formulations-i-ltd,7.95
+VAGOLATE,//www.medicineindia.org/medicine-brand-details/2853/vagolate,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,9.25
+VANTOX-CP,//www.medicineindia.org/medicine-brand-details/6082/vantox-cp,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,750.00
+VCR,//www.medicineindia.org/medicine-brand-details/16965/vcr,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,48.00
+VINSTIN,//www.medicineindia.org/medicine-brand-details/16966/vinstin,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,63.00
+VECREDIL,//www.medicineindia.org/medicine-brand-details/16814/vecredil,Jagsonpal Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/151/jagsonpal-pharmaceuticals-ltd,110.00
+VINELBINE,//www.medicineindia.org/medicine-brand-details/16968/vinelbine,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,2617.00
+VINBINE,//www.medicineindia.org/medicine-brand-details/16967/vinbine,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,13000.00
+VORANIN INJ.,//www.medicineindia.org/medicine-brand-details/15400/voranin-inj,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,64.00
+VERGLOB,//www.medicineindia.org/medicine-brand-details/118/verglob,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,1190.00
+VOMIKIND,//www.medicineindia.org/medicine-brand-details/10175/vomikind,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,25.00
+VOMIOF,//www.medicineindia.org/medicine-brand-details/10176/vomiof,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,12.00
+VOMIZ,//www.medicineindia.org/medicine-brand-details/10180/vomiz,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,32.21
+VOMIOF,//www.medicineindia.org/medicine-brand-details/10176/vomiof,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,25.00
+VOMIZ,//www.medicineindia.org/medicine-brand-details/10180/vomiz,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,46.80
+VELOZ,//www.medicineindia.org/medicine-brand-details/12842/veloz,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,59.00
+VINELBINE,//www.medicineindia.org/medicine-brand-details/16968/vinelbine,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,11125.00
+VOVERAN,//www.medicineindia.org/medicine-brand-details/1541/voveran,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,9.00
+VERGLOB,//www.medicineindia.org/medicine-brand-details/118/verglob,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,2925.00
+VASOTOP,//www.medicineindia.org/medicine-brand-details/7774/vasotop,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,105.00
+VIBOLIV,//www.medicineindia.org/medicine-brand-details/7262/viboliv,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,26.00
+VOMIKIND,//www.medicineindia.org/medicine-brand-details/10175/vomikind,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,7.99
+VALCOX INJ.,//www.medicineindia.org/medicine-brand-details/2143/valcox-inj,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,65.00
+VALDIXX INJ.,//www.medicineindia.org/medicine-brand-details/2144/valdixx-inj,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,65.00
+VASODILAN,//www.medicineindia.org/medicine-brand-details/8759/vasodilan,Lark Laboratories India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/93/lark-laboratories-india-ltd,5.95
+VORANIN INJ.,//www.medicineindia.org/medicine-brand-details/15400/voranin-inj,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,37.00
+VANCOGEN,//www.medicineindia.org/medicine-brand-details/6075/vancogen,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,255.00
+VERGLOB,//www.medicineindia.org/medicine-brand-details/118/verglob,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,690.00
+VANTOX-CP,//www.medicineindia.org/medicine-brand-details/6082/vantox-cp,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,350.00
+VANCOTECH CP,//www.medicineindia.org/medicine-brand-details/6078/vancotech-cp,United Biotech,//www.medicineindia.org/medicine-manufacturing-company/49/united-biotech,360.00
+VITAMIN A (USV),//www.medicineindia.org/medicine-brand-details/17591/vitamin-a-usv,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,7.60
+VALOSIN,//www.medicineindia.org/medicine-brand-details/2849/valosin,Svizera Health Care (Sigma Division),//www.medicineindia.org/medicine-manufacturing-company/244/svizera-health-care-sigma-division,9.00
+VALTO-P,//www.medicineindia.org/medicine-brand-details/2149/valto-p,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,63.85
+VANCOCIN CP,//www.medicineindia.org/medicine-brand-details/6073/vancocin-cp,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,365.00
+VAXIGRIP,//www.medicineindia.org/medicine-brand-details/28/vaxigrip,Aventis Pasteur,//www.medicineindia.org/medicine-manufacturing-company/1/aventis-pasteur,660.00
+VISIAL INJ.,//www.medicineindia.org/medicine-brand-details/15990/visial-inj,Le Sante,//www.medicineindia.org/medicine-manufacturing-company/443/le-sante,728.13
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,10.27
+VG KIT,//www.medicineindia.org/medicine-brand-details/6667/vg-kit,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,38.00
+VOMILEX,//www.medicineindia.org/medicine-brand-details/17321/vomilex,Lexica Drugs & Formulations Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/672/lexica-drugs-formulations-pvt-ltd,27.00
+VENTISOL EXP.,//www.medicineindia.org/medicine-brand-details/10762/ventisol-exp,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,28.85
+VENTABROM,//www.medicineindia.org/medicine-brand-details/10760/ventabrom,P & B Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/54/p-b-laboratories-p-ltd,21.97
+VENTORLIN EXP.,//www.medicineindia.org/medicine-brand-details/10585/ventorlin-exp,Allenburys,//www.medicineindia.org/medicine-manufacturing-company/82/allenburys,21.69
+VISCO,//www.medicineindia.org/medicine-brand-details/13225/visco,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,30.68
+VITAZYME,//www.medicineindia.org/medicine-brand-details/14301/vitazyme,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,39.25
+VIPRO-FE,//www.medicineindia.org/medicine-brand-details/17265/vipro-fe,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,48.50
+VITAZYME,//www.medicineindia.org/medicine-brand-details/14301/vitazyme,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,60.90
+VOMILEX,//www.medicineindia.org/medicine-brand-details/17321/vomilex,Lexica Drugs & Formulations Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/672/lexica-drugs-formulations-pvt-ltd,19.00
+VICON,//www.medicineindia.org/medicine-brand-details/5778/vicon,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,99.78
+VICON,//www.medicineindia.org/medicine-brand-details/5778/vicon,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,59.21
+VIDIN MT,//www.medicineindia.org/medicine-brand-details/16146/vidin-mt,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,64.00
+VERAPAB LOTION,//www.medicineindia.org/medicine-brand-details/16678/verapab-lotion,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,75.00
+VIRUCID OINT.,//www.medicineindia.org/medicine-brand-details/15767/virucid-oint,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,24.58
+VIRODERM,//www.medicineindia.org/medicine-brand-details/7014/viroderm,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,35.00
+VANMYCETIN EYE,//www.medicineindia.org/medicine-brand-details/15570/vanmycetin-eye,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,22.75
+VALTEC,//www.medicineindia.org/medicine-brand-details/2803/valtec,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,47.50
+VENT,//www.medicineindia.org/medicine-brand-details/10903/vent,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,21.50
+VENTIPHYLLINE,//www.medicineindia.org/medicine-brand-details/10904/ventiphylline,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,15.00
+VAGID VAGINAL PESSARY,//www.medicineindia.org/medicine-brand-details/16259/vagid-vaginal-pessary,Bliss Chemicals & Pharmaceuticals India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/196/bliss-chemicals-pharmaceuticals-india-ltd,35.00
+VI-GUT,//www.medicineindia.org/medicine-brand-details/14214/vi-gut,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,5.95
+VIZYLAC DRY POWDER,//www.medicineindia.org/medicine-brand-details/17508/vizylac-dry-powder,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,21.50
+VIATRIX,//www.medicineindia.org/medicine-brand-details/11409/viatrix,EWF Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/692/ewf-pharmaceuticals-pvt-ltd,22.00
+VIDRAL,//www.medicineindia.org/medicine-brand-details/12196/vidral,Cadila Newgen,//www.medicineindia.org/medicine-manufacturing-company/20/cadila-newgen,4.00
+VITALPHA,//www.medicineindia.org/medicine-brand-details/11938/vitalpha,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,55.50
+VAMIN.G,//www.medicineindia.org/medicine-brand-details/17313/vaming,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,315.00
+VAMIN.G,//www.medicineindia.org/medicine-brand-details/17313/vaming,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,533.00
+VITILINE,//www.medicineindia.org/medicine-brand-details/16635/vitiline,Skymax Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/385/skymax-laboratories-pvt-ltd,27.00
+VITILEN,//www.medicineindia.org/medicine-brand-details/16631/vitilen,Mediwin Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/175/mediwin-pharmaceuticals,29.50
+VISTADINE,//www.medicineindia.org/medicine-brand-details/16098/vistadine,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,135.00
+VENT MATE,//www.medicineindia.org/medicine-brand-details/11061/vent-mate,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,150.00
+VOLUMATIC,//www.medicineindia.org/medicine-brand-details/11062/volumatic,Allenburys,//www.medicineindia.org/medicine-manufacturing-company/82/allenburys,295.00
+VENCOF,//www.medicineindia.org/medicine-brand-details/10638/vencof,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,22.50
+VERCEF,//www.medicineindia.org/medicine-brand-details/4016/vercef,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,78.00
+VOSTRIM,//www.medicineindia.org/medicine-brand-details/5996/vostrim,VOSTOK&WILCURE,//www.medicineindia.org/medicine-manufacturing-company/296/vostokwilcure,12.00
+VIMISTAL,//www.medicineindia.org/medicine-brand-details/2516/vimistal,Eden Healthcare,//www.medicineindia.org/medicine-manufacturing-company/262/eden-healthcare,21.00
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,14.81
+VERCEF,//www.medicineindia.org/medicine-brand-details/4016/vercef,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,62.00
+VERMITEL,//www.medicineindia.org/medicine-brand-details/7171/vermitel,Astra Zeneca,//www.medicineindia.org/medicine-manufacturing-company/83/astra-zeneca,14.00
+VORMOUT,//www.medicineindia.org/medicine-brand-details/7172/vormout,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,15.50
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,19.62
+VENAXIN-SR,//www.medicineindia.org/medicine-brand-details/9722/venaxin-sr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,86.00
+VENAXIN-SR,//www.medicineindia.org/medicine-brand-details/9722/venaxin-sr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,24.00
+VENAXIN-SR,//www.medicineindia.org/medicine-brand-details/9722/venaxin-sr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,46.00
+VBC SYRUP,//www.medicineindia.org/medicine-brand-details/17460/vbc-syrup,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,54.00
+VENTILATE,//www.medicineindia.org/medicine-brand-details/10664/ventilate,Mapra Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/340/mapra-labs-ltd,16.73
+VITAUR SYR,//www.medicineindia.org/medicine-brand-details/17466/vitaur-syr,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,21.50
+VENTIREX PLUS,//www.medicineindia.org/medicine-brand-details/10905/ventirex-plus,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,21.50
+VENTIPHYLLINE,//www.medicineindia.org/medicine-brand-details/10904/ventiphylline,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,23.00
+VENT,//www.medicineindia.org/medicine-brand-details/10903/vent,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,23.50
+VIFEX,//www.medicineindia.org/medicine-brand-details/10732/vifex,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,29.00
+VENTAKOF,//www.medicineindia.org/medicine-brand-details/10761/ventakof,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,29.00
+VISCOF-S,//www.medicineindia.org/medicine-brand-details/10734/viscof-s,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,29.50
+VENTOSOL-BR EXP,//www.medicineindia.org/medicine-brand-details/10665/ventosol-br-exp,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,30.00
+VISTADEX,//www.medicineindia.org/medicine-brand-details/10703/vistadex,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,30.00
+VISCOF-DP SYR,//www.medicineindia.org/medicine-brand-details/10692/viscof-dp-syr,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,33.50
+VENTIREX-MB,//www.medicineindia.org/medicine-brand-details/10652/ventirex-mb,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,34.00
+VISCODYNE EXP.,//www.medicineindia.org/medicine-brand-details/10828/viscodyne-exp,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,34.80
+VENTIREX-C,//www.medicineindia.org/medicine-brand-details/10827/ventirex-c,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,35.00
+VISCOF-D,//www.medicineindia.org/medicine-brand-details/10528/viscof-d,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,35.00
+VENTOSOL-AX EXP,//www.medicineindia.org/medicine-brand-details/10653/ventosol-ax-exp,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,36.00
+VISYNERAL Z SYR.,//www.medicineindia.org/medicine-brand-details/17717/visyneral-z-syr,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,38.00
+VENTIREX-BR,//www.medicineindia.org/medicine-brand-details/10778/ventirex-br,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,39.00
+VENTRYL EXP,//www.medicineindia.org/medicine-brand-details/10779/ventryl-exp,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,45.00
+VISCODYNE-S,//www.medicineindia.org/medicine-brand-details/10733/viscodyne-s,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,45.25
+VISCODYNE-D,//www.medicineindia.org/medicine-brand-details/10695/viscodyne-d,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,47.50
+VIDAYLIN-L,//www.medicineindia.org/medicine-brand-details/17709/vidaylin-l,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,53.27
+VI-MAGNA SYR.,//www.medicineindia.org/medicine-brand-details/17711/vi-magna-syr,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,15.67
+VITAMINDON,//www.medicineindia.org/medicine-brand-details/17494/vitamindon,Indon,//www.medicineindia.org/medicine-manufacturing-company/703/indon,12.01
+VITCOFOL.COM,//www.medicineindia.org/medicine-brand-details/18092/vitcofolcom,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,46.50
+VISTAMINA SYRUP,//www.medicineindia.org/medicine-brand-details/17713/vistamina-syrup,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,49.00
+VEBA.,//www.medicineindia.org/medicine-brand-details/12205/veba,Blue Cross Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/67/blue-cross-laboratories-ltd,45.00
+VITOMIN-Z SYR,//www.medicineindia.org/medicine-brand-details/18262/vitomin-z-syr,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,63.00
+VYTEL SYRUP,//www.medicineindia.org/medicine-brand-details/17722/vytel-syrup,KWALITY PHARMACEUTICALS (P) LTD.,//www.medicineindia.org/medicine-manufacturing-company/203/kwality-pharmaceuticals-p-ltd,65.00
+VISYNERAL SYR.,//www.medicineindia.org/medicine-brand-details/17716/visyneral-syr,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,37.00
+VIVADASE,//www.medicineindia.org/medicine-brand-details/14272/vivadase,Cachet Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/452/cachet-pharmaceuticals-ltd,38.00
+VITAUR SYR,//www.medicineindia.org/medicine-brand-details/17466/vitaur-syr,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,46.90
+VIDAYLIN SYR.,//www.medicineindia.org/medicine-brand-details/17708/vidaylin-syr,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,47.60
+VITCAL,//www.medicineindia.org/medicine-brand-details/17467/vitcal,Moraceae Lab Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/173/moraceae-lab-pvt-ltd,48.00
+VITAGEN SYP.,//www.medicineindia.org/medicine-brand-details/17463/vitagen-syp,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,51.00
+VOMIKIND PLUS,//www.medicineindia.org/medicine-brand-details/10193/vomikind-plus,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,27.95
+VITAMINDON,//www.medicineindia.org/medicine-brand-details/17494/vitamindon,Indon,//www.medicineindia.org/medicine-manufacturing-company/703/indon,34.79
+VISCODYNE EXP.,//www.medicineindia.org/medicine-brand-details/10828/viscodyne-exp,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,22.25
+VENTAKOF,//www.medicineindia.org/medicine-brand-details/10761/ventakof,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,16.00
+VITAUR LB,//www.medicineindia.org/medicine-brand-details/17465/vitaur-lb,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,18.50
+VISCOF-S,//www.medicineindia.org/medicine-brand-details/10734/viscof-s,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,19.80
+VISCOF-D,//www.medicineindia.org/medicine-brand-details/10528/viscof-d,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,22.00
+VENTRYL EXP,//www.medicineindia.org/medicine-brand-details/10779/ventryl-exp,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,28.00
+VENTORLIN,//www.medicineindia.org/medicine-brand-details/333/ventorlin,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,13.61
+VENTIREX,//www.medicineindia.org/medicine-brand-details/332/ventirex,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,14.20
+VOMIKIND,//www.medicineindia.org/medicine-brand-details/10175/vomikind,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,19.90
+VOMIOF,//www.medicineindia.org/medicine-brand-details/10176/vomiof,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,27.00
+VALPARIN,//www.medicineindia.org/medicine-brand-details/2798/valparin,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,70.51
+VERMISOL,//www.medicineindia.org/medicine-brand-details/7048/vermisol,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,14.00
+VDM KIT,//www.medicineindia.org/medicine-brand-details/6676/vdm-kit,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,90.00
+VENTILATE,//www.medicineindia.org/medicine-brand-details/10664/ventilate,Mapra Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/340/mapra-labs-ltd,1.42
+VENTILATE,//www.medicineindia.org/medicine-brand-details/10664/ventilate,Mapra Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/340/mapra-labs-ltd,2.25
+VENTIPHYLLINE,//www.medicineindia.org/medicine-brand-details/10904/ventiphylline,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,5.50
+VENTIREX PLUS,//www.medicineindia.org/medicine-brand-details/10905/ventirex-plus,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,5.50
+VENT TAB,//www.medicineindia.org/medicine-brand-details/10934/vent-tab,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,5.66
+VENTIPHYLLINE,//www.medicineindia.org/medicine-brand-details/10904/ventiphylline,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,7.20
+VENTIPHYLLINE-T,//www.medicineindia.org/medicine-brand-details/10861/ventiphylline-t,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,7.36
+VENT TAB,//www.medicineindia.org/medicine-brand-details/10934/vent-tab,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,7.66
+VENTEX,//www.medicineindia.org/medicine-brand-details/10809/ventex,CAPLET INDIA,//www.medicineindia.org/medicine-manufacturing-company/520/caplet-india,8.00
+VISCOF-DT TAB,//www.medicineindia.org/medicine-brand-details/721/viscof-dt-tab,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,12.00
+VENTIREX TAB,//www.medicineindia.org/medicine-brand-details/10612/ventirex-tab,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,13.00
+VASOPRIN SD,//www.medicineindia.org/medicine-brand-details/8291/vasoprin-sd,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,14.00
+VOMICARE,//www.medicineindia.org/medicine-brand-details/10114/vomicare,PRG PHARMA,//www.medicineindia.org/medicine-manufacturing-company/281/prg-pharma,19.00
+VOMIKIND PLUS,//www.medicineindia.org/medicine-brand-details/10193/vomikind-plus,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,19.90
+VOMIPREG,//www.medicineindia.org/medicine-brand-details/10115/vomipreg,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,21.80
+VOMCID-DV,//www.medicineindia.org/medicine-brand-details/12387/vomcid-dv,HELAX H.CARE,//www.medicineindia.org/medicine-manufacturing-company/419/helax-hcare,24.00
+VICAL,//www.medicineindia.org/medicine-brand-details/12119/vical,RAVIAN H. CARE,//www.medicineindia.org/medicine-manufacturing-company/382/ravian-h-care,24.00
+VOLFLAM PLUS,//www.medicineindia.org/medicine-brand-details/1986/volflam-plus,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,25.00
+VOVERAN-D,//www.medicineindia.org/medicine-brand-details/1542/voveran-d,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,26.20
+VORTH-AP,//www.medicineindia.org/medicine-brand-details/1734/vorth-ap,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,27.50
+VIVIRIL-D,//www.medicineindia.org/medicine-brand-details/7952/viviril-d,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,27.75
+VARFEN-PLUS,//www.medicineindia.org/medicine-brand-details/1731/varfen-plus,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,28.00
+VALUS AP,//www.medicineindia.org/medicine-brand-details/1730/valus-ap,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,28.90
+VASONORM-H,//www.medicineindia.org/medicine-brand-details/7951/vasonorm-h,Kopran Limited,//www.medicineindia.org/medicine-manufacturing-company/172/kopran-limited,29.00
+VISTAMINA TAB.,//www.medicineindia.org/medicine-brand-details/17714/vistamina-tab,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,29.50
+VASOGRAIN,//www.medicineindia.org/medicine-brand-details/2819/vasograin,Le Sante,//www.medicineindia.org/medicine-manufacturing-company/443/le-sante,30.80
+VITCOFOL.COM,//www.medicineindia.org/medicine-brand-details/18092/vitcofolcom,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,32.00
+VOLTANEC-PR,//www.medicineindia.org/medicine-brand-details/1733/voltanec-pr,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,32.10
+VALLET-P,//www.medicineindia.org/medicine-brand-details/2179/vallet-p,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,35.00
+VAZORTAN-H,//www.medicineindia.org/medicine-brand-details/8075/vazortan-h,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,39.50
+VALERON PLUS,//www.medicineindia.org/medicine-brand-details/2178/valeron-plus,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,40.00
+VAHFLAM,//www.medicineindia.org/medicine-brand-details/2175/vahflam,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,42.00
+VOLFLAM-MR,//www.medicineindia.org/medicine-brand-details/11670/volflam-mr,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,42.50
+VERTIDOM,//www.medicineindia.org/medicine-brand-details/10356/vertidom,Geno Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/69/geno-pharmaceuticals-ltd,44.00
+VASAFE-MR,//www.medicineindia.org/medicine-brand-details/11861/vasafe-mr,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,45.00
+VIGYL-N,//www.medicineindia.org/medicine-brand-details/13711/vigyl-n,Vision Medlink,//www.medicineindia.org/medicine-manufacturing-company/264/vision-medlink,46.00
+VARDOL-PLUS,//www.medicineindia.org/medicine-brand-details/951/vardol-plus,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,50.00
+VALERON MR,//www.medicineindia.org/medicine-brand-details/11860/valeron-mr,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,55.00
+VELSIDER,//www.medicineindia.org/medicine-brand-details/2180/velsider,Skymax Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/385/skymax-laboratories-pvt-ltd,55.00
+VITALPHA-C,//www.medicineindia.org/medicine-brand-details/11977/vitalpha-c,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,56.00
+VOLFLAM-D,//www.medicineindia.org/medicine-brand-details/1828/volflam-d,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,58.00
+VEVO-OZ,//www.medicineindia.org/medicine-brand-details/14175/vevo-oz,ALPHA LAB,//www.medicineindia.org/medicine-manufacturing-company/588/alpha-lab,60.05
+VARCOLD,//www.medicineindia.org/medicine-brand-details/671/varcold,LINCOLN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/207/lincoln-pharma,63.50
+VASTEZE,//www.medicineindia.org/medicine-brand-details/9024/vasteze,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,68.00
+VALAC,//www.medicineindia.org/medicine-brand-details/18618/valac,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,75.00
+VELOZ M,//www.medicineindia.org/medicine-brand-details/13179/veloz-m,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,77.30
+VALDINE,//www.medicineindia.org/medicine-brand-details/11859/valdine,IND-SWIFT LIMITED (BIO SCIENCES),//www.medicineindia.org/medicine-manufacturing-company/89/ind-swift-limited-bio-sciences,80.00
+VALENT-H,//www.medicineindia.org/medicine-brand-details/8160/valent-h,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,87.04
+VIROLIS,//www.medicineindia.org/medicine-brand-details/18422/virolis,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,115.00
+VASOLIP-EZ,//www.medicineindia.org/medicine-brand-details/9023/vasolip-ez,J.B Chemicals & Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/124/jb-chemicals-pharmaceuticals-limited,120.00
+VELTAM PLUS,//www.medicineindia.org/medicine-brand-details/22720/veltam-plus,Intas (Arron),//www.medicineindia.org/medicine-manufacturing-company/1031/intas-arron,122.50
+VIROCOMB,//www.medicineindia.org/medicine-brand-details/18418/virocomb,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,212.00
+VEBA,//www.medicineindia.org/medicine-brand-details/12140/veba,Blue Cross Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/67/blue-cross-laboratories-ltd,28.00
+VOSTAZOLE,//www.medicineindia.org/medicine-brand-details/13650/vostazole,Vision Medlink,//www.medicineindia.org/medicine-manufacturing-company/264/vision-medlink,23.00
+VOMCIZ,//www.medicineindia.org/medicine-brand-details/10358/vomciz,ALPHA LAB,//www.medicineindia.org/medicine-manufacturing-company/588/alpha-lab,79.00
+VIVOGESIC- MR,//www.medicineindia.org/medicine-brand-details/11662/vivogesic-mr,Bestochem Formulations (I) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/259/bestochem-formulations-i-ltd,12.00
+VERTIGIL,//www.medicineindia.org/medicine-brand-details/10357/vertigil,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,30.00
+VIVOGESIC PLUS,//www.medicineindia.org/medicine-brand-details/1793/vivogesic-plus,Bestochem Formulations (I) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/259/bestochem-formulations-i-ltd,12.80
+V- LETRA,//www.medicineindia.org/medicine-brand-details/6975/v-letra,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,4500.00
+VELTAM,//www.medicineindia.org/medicine-brand-details/22719/veltam,Intas (Arron),//www.medicineindia.org/medicine-manufacturing-company/1031/intas-arron,27.30
+VOCARB,//www.medicineindia.org/medicine-brand-details/15059/vocarb,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,55.00
+VOGLITOR,//www.medicineindia.org/medicine-brand-details/15060/voglitor,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,55.00
+VOLIBO,//www.medicineindia.org/medicine-brand-details/18744/volibo,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,64.00
+VOLIX,//www.medicineindia.org/medicine-brand-details/15061/volix,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,64.10
+VOGLITOR,//www.medicineindia.org/medicine-brand-details/15060/voglitor,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,72.00
+VOCARB,//www.medicineindia.org/medicine-brand-details/15059/vocarb,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,72.50
+VOLIX,//www.medicineindia.org/medicine-brand-details/15061/volix,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,83.00
+VOLIBO,//www.medicineindia.org/medicine-brand-details/18744/volibo,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,84.00
+VICARD-T,//www.medicineindia.org/medicine-brand-details/7308/vicard-t,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,82.50
+VALEST,//www.medicineindia.org/medicine-brand-details/15316/valest,Walter Bushnell,//www.medicineindia.org/medicine-manufacturing-company/224/walter-bushnell,55.00
+VALCIVIR,//www.medicineindia.org/medicine-brand-details/7018/valcivir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,127.33
+VEGAZ OD,//www.medicineindia.org/medicine-brand-details/18864/vegaz-od,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,220.00
+VARIACE,//www.medicineindia.org/medicine-brand-details/7910/variace,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,74.00
+VASODILAN,//www.medicineindia.org/medicine-brand-details/8759/vasodilan,Lark Laboratories India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/93/lark-laboratories-india-ltd,10.00
+VOMITRAN,//www.medicineindia.org/medicine-brand-details/564/vomitran,Kentreck Labs Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/76/kentreck-labs-pvt-ltd,10.00
+VASOTRATE,//www.medicineindia.org/medicine-brand-details/8273/vasotrate,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,12.00
+VITILEN,//www.medicineindia.org/medicine-brand-details/16631/vitilen,Mediwin Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/175/mediwin-pharmaceuticals,13.00
+VASONIT,//www.medicineindia.org/medicine-brand-details/8271/vasonit,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,14.00
+VALTIC,//www.medicineindia.org/medicine-brand-details/2128/valtic,Wisdom Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/423/wisdom-pharma-pvt-ltd,15.00
+VALDIFF,//www.medicineindia.org/medicine-brand-details/2115/valdiff,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,15.00
+VALDY,//www.medicineindia.org/medicine-brand-details/2120/valdy,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,17.50
+VONO,//www.medicineindia.org/medicine-brand-details/2519/vono,NORDIC PHARMA,//www.medicineindia.org/medicine-manufacturing-company/408/nordic-pharma,19.00
+VALZ,//www.medicineindia.org/medicine-brand-details/2131/valz,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,19.00
+VAL-BCD,//www.medicineindia.org/medicine-brand-details/2111/val-bcd,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,19.00
+VALZ BCD,//www.medicineindia.org/medicine-brand-details/2132/valz-bcd,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,19.00
+VOMISAFE,//www.medicineindia.org/medicine-brand-details/10116/vomisafe,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,19.00
+VALDONE,//www.medicineindia.org/medicine-brand-details/2119/valdone,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,19.04
+VAH,//www.medicineindia.org/medicine-brand-details/2110/vah,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,19.08
+VALDIFLAM,//www.medicineindia.org/medicine-brand-details/2116/valdiflam,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,19.50
+VALOXIB,//www.medicineindia.org/medicine-brand-details/2126/valoxib,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,19.50
+VALCOX BCD,//www.medicineindia.org/medicine-brand-details/2113/valcox-bcd,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,19.50
+VALTO,//www.medicineindia.org/medicine-brand-details/2129/valto,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,19.50
+VALDEZ,//www.medicineindia.org/medicine-brand-details/2114/valdez,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.50
+VALEY,//www.medicineindia.org/medicine-brand-details/2123/valey,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,19.90
+VARDOM DT,//www.medicineindia.org/medicine-brand-details/2515/vardom-dt,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,20.00
+VALERON,//www.medicineindia.org/medicine-brand-details/2122/valeron,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,20.00
+VALSAFE,//www.medicineindia.org/medicine-brand-details/2127/valsafe,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,20.50
+VALCOX,//www.medicineindia.org/medicine-brand-details/2112/valcox,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,21.45
+VASTA,//www.medicineindia.org/medicine-brand-details/8933/vasta,Sunij Pharma Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/123/sunij-pharma-pvt-ltd,23.76
+VOMISTOP,//www.medicineindia.org/medicine-brand-details/2518/vomistop,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,24.00
+VISKEN,//www.medicineindia.org/medicine-brand-details/7323/visken,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,24.05
+VOMISAFE PLUS,//www.medicineindia.org/medicine-brand-details/10126/vomisafe-plus,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,25.00
+VIVIAN-A,//www.medicineindia.org/medicine-brand-details/1732/vivian-a,LINCOLN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/207/lincoln-pharma,26.00
+VIVIRIL,//www.medicineindia.org/medicine-brand-details/7818/viviril,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,26.97
+VCD,//www.medicineindia.org/medicine-brand-details/2133/vcd,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,27.00
+VALED`,//www.medicineindia.org/medicine-brand-details/18491/valed,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,28.00
+VABRA,//www.medicineindia.org/medicine-brand-details/2109/vabra,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,28.00
+VALIUM,//www.medicineindia.org/medicine-brand-details/495/valium,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,28.00
+VALUS,//www.medicineindia.org/medicine-brand-details/2130/valus,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,29.00
+VORTH,//www.medicineindia.org/medicine-brand-details/2136/vorth,Gracewell (A Division of Glenmark Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/167/gracewell-a-division-of-glenmark-pharmaceuticals-ltd,29.00
+VXZ,//www.medicineindia.org/medicine-brand-details/2137/vxz,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,29.50
+VAMLO,//www.medicineindia.org/medicine-brand-details/7521/vamlo,Ranbaxy Global Consumer Healthcare,//www.medicineindia.org/medicine-manufacturing-company/21/ranbaxy-global-consumer-healthcare,34.35
+VASTATIN,//www.medicineindia.org/medicine-brand-details/9043/vastatin,Argus,//www.medicineindia.org/medicine-manufacturing-company/688/argus,40.00
+VASOLIP,//www.medicineindia.org/medicine-brand-details/8932/vasolip,J.B Chemicals & Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/124/jb-chemicals-pharmaceuticals-limited,40.00
+VASC,//www.medicineindia.org/medicine-brand-details/8931/vasc,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,76.50
+VENTAIR,//www.medicineindia.org/medicine-brand-details/10976/ventair,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,178.20
+VELOZ,//www.medicineindia.org/medicine-brand-details/12842/veloz,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,33.00
+VICET,//www.medicineindia.org/medicine-brand-details/11161/vicet,Vision Medlink,//www.medicineindia.org/medicine-manufacturing-company/264/vision-medlink,25.00
+VOMISTAL,//www.medicineindia.org/medicine-brand-details/2517/vomistal,Eden Healthcare,//www.medicineindia.org/medicine-manufacturing-company/262/eden-healthcare,40.00
+VARIACE,//www.medicineindia.org/medicine-brand-details/7910/variace,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,294.00
+VALODEX,//www.medicineindia.org/medicine-brand-details/15251/valodex,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,18.00
+VERSITOL,//www.medicineindia.org/medicine-brand-details/1402/versitol,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,9.41
+VARFEN,//www.medicineindia.org/medicine-brand-details/1639/varfen,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,22.90
+VORTH-A,//www.medicineindia.org/medicine-brand-details/1640/vorth-a,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,23.30
+VALUS A,//www.medicineindia.org/medicine-brand-details/1638/valus-a,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,23.30
+VANSPAR,//www.medicineindia.org/medicine-brand-details/5328/vanspar,Vanguard Therapeutics,//www.medicineindia.org/medicine-manufacturing-company/481/vanguard-therapeutics,50.00
+VIROLAM,//www.medicineindia.org/medicine-brand-details/18421/virolam,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,76.00
+VOXAMIN,//www.medicineindia.org/medicine-brand-details/9716/voxamin,Syncro (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/524/syncro-a-div-of-microlabs,165.00
+VIRAMID-100,//www.medicineindia.org/medicine-brand-details/6940/viramid-100,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,240.00
+VIRAZIDE,//www.medicineindia.org/medicine-brand-details/6991/virazide,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,290.00
+VIGREKS,//www.medicineindia.org/medicine-brand-details/14535/vigreks,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,108.00
+VENIGRA-50,//www.medicineindia.org/medicine-brand-details/14534/venigra-50,KWALITY PHARMACEUTICALS (P) LTD.,//www.medicineindia.org/medicine-manufacturing-company/203/kwality-pharmaceuticals-p-ltd,106.00
+VIBACIN,//www.medicineindia.org/medicine-brand-details/5949/vibacin,ARMOUR,//www.medicineindia.org/medicine-manufacturing-company/407/armour,53.00
+VEPAN AX,//www.medicineindia.org/medicine-brand-details/3885/vepan-ax,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,9.16
+VALANCE,//www.medicineindia.org/medicine-brand-details/2763/valance,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,19.69
+VISKEN,//www.medicineindia.org/medicine-brand-details/7323/visken,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,25.20
+VERMISOL,//www.medicineindia.org/medicine-brand-details/7048/vermisol,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,16.50
+VASOPRIN 150,//www.medicineindia.org/medicine-brand-details/8289/vasoprin-150,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,15.00
+VEEROX,//www.medicineindia.org/medicine-brand-details/5680/veerox,ALTAR HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/358/altar-healthcare,60.00
+VIROLAM,//www.medicineindia.org/medicine-brand-details/18421/virolam,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,101.00
+VAPAL,//www.medicineindia.org/medicine-brand-details/7047/vapal,ROWAN BIOCEUTICALS,//www.medicineindia.org/medicine-manufacturing-company/651/rowan-bioceuticals,135.00
+VEN-OD,//www.medicineindia.org/medicine-brand-details/9733/ven-od,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,150.00
+VENUSMIN,//www.medicineindia.org/medicine-brand-details/8563/venusmin,Walter Bushnell,//www.medicineindia.org/medicine-manufacturing-company/224/walter-bushnell,36.51
+VERTISTAR,//www.medicineindia.org/medicine-brand-details/10365/vertistar,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,58.00
+VERTIN,//www.medicineindia.org/medicine-brand-details/10364/vertin,Solvay Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/365/solvay-pharma-india-ltd,63.00
+VASONORM,//www.medicineindia.org/medicine-brand-details/7817/vasonorm,Kopran Limited,//www.medicineindia.org/medicine-manufacturing-company/172/kopran-limited,12.00
+VALIUM,//www.medicineindia.org/medicine-brand-details/495/valium,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,14.00
+VICARD-T,//www.medicineindia.org/medicine-brand-details/7308/vicard-t,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,132.00
+VOMIRAN,//www.medicineindia.org/medicine-brand-details/10178/vomiran,REDSON LAB,//www.medicineindia.org/medicine-manufacturing-company/78/redson-lab,36.00
+VALEST,//www.medicineindia.org/medicine-brand-details/15316/valest,Walter Bushnell,//www.medicineindia.org/medicine-manufacturing-company/224/walter-bushnell,90.00
+VIVIRIL,//www.medicineindia.org/medicine-brand-details/7818/viviril,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,9.66
+VAMLO,//www.medicineindia.org/medicine-brand-details/7521/vamlo,Ranbaxy Global Consumer Healthcare,//www.medicineindia.org/medicine-manufacturing-company/21/ranbaxy-global-consumer-healthcare,12.45
+VARIACE,//www.medicineindia.org/medicine-brand-details/7910/variace,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,133.00
+VASODILAN,//www.medicineindia.org/medicine-brand-details/8759/vasodilan,Lark Laboratories India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/93/lark-laboratories-india-ltd,18.00
+VALTIC,//www.medicineindia.org/medicine-brand-details/2128/valtic,Wisdom Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/423/wisdom-pharma-pvt-ltd,20.00
+VASOTRATE,//www.medicineindia.org/medicine-brand-details/8273/vasotrate,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,22.90
+VALDIFF,//www.medicineindia.org/medicine-brand-details/2115/valdiff,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,25.00
+VASONIT,//www.medicineindia.org/medicine-brand-details/8271/vasonit,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,26.00
+VALZ BCD,//www.medicineindia.org/medicine-brand-details/2132/valz-bcd,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,29.00
+VALDIFLAM,//www.medicineindia.org/medicine-brand-details/2116/valdiflam,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,29.00
+VALZ,//www.medicineindia.org/medicine-brand-details/2131/valz,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,29.00
+VALLET,//www.medicineindia.org/medicine-brand-details/2125/vallet,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,29.50
+VALOXIB,//www.medicineindia.org/medicine-brand-details/2126/valoxib,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,29.50
+VALIDAY,//www.medicineindia.org/medicine-brand-details/2124/validay,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,29.90
+VALSAFE,//www.medicineindia.org/medicine-brand-details/2127/valsafe,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,31.00
+VALDY,//www.medicineindia.org/medicine-brand-details/2120/valdy,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,33.00
+VELYCOX,//www.medicineindia.org/medicine-brand-details/2134/velycox,Finecure Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/179/finecure-pharmaceuticals,34.00
+VALEY,//www.medicineindia.org/medicine-brand-details/2123/valey,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,34.90
+VABRA,//www.medicineindia.org/medicine-brand-details/2109/vabra,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,35.00
+VALDEZ,//www.medicineindia.org/medicine-brand-details/2114/valdez,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,35.00
+VALCOX PLUS,//www.medicineindia.org/medicine-brand-details/2176/valcox-plus,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,35.00
+VALCOX,//www.medicineindia.org/medicine-brand-details/2112/valcox,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,35.00
+VALERON,//www.medicineindia.org/medicine-brand-details/2122/valeron,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,35.00
+VCD,//www.medicineindia.org/medicine-brand-details/2133/vcd,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,35.00
+VALTO,//www.medicineindia.org/medicine-brand-details/2129/valto,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,35.00
+VAL-BCD,//www.medicineindia.org/medicine-brand-details/2111/val-bcd,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,35.02
+VALDONE,//www.medicineindia.org/medicine-brand-details/2119/valdone,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,35.06
+VALCOX BCD,//www.medicineindia.org/medicine-brand-details/2113/valcox-bcd,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,35.40
+VALDONE PLUS,//www.medicineindia.org/medicine-brand-details/2177/valdone-plus,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,36.00
+VAH,//www.medicineindia.org/medicine-brand-details/2110/vah,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,38.15
+VASTA,//www.medicineindia.org/medicine-brand-details/8933/vasta,Sunij Pharma Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/123/sunij-pharma-pvt-ltd,43.00
+VALED`,//www.medicineindia.org/medicine-brand-details/18491/valed,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,50.00
+VILID,//www.medicineindia.org/medicine-brand-details/18619/vilid,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,52.00
+VORTH,//www.medicineindia.org/medicine-brand-details/2136/vorth,Gracewell (A Division of Glenmark Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/167/gracewell-a-division-of-glenmark-pharmaceuticals-ltd,52.00
+VIVI,//www.medicineindia.org/medicine-brand-details/2135/vivi,Sanjeevani Bio-Tech (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/74/sanjeevani-bio-tech-p-ltd,52.00
+VXZ,//www.medicineindia.org/medicine-brand-details/2137/vxz,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,56.00
+VASTATIN,//www.medicineindia.org/medicine-brand-details/9043/vastatin,Argus,//www.medicineindia.org/medicine-manufacturing-company/688/argus,80.00
+VASOLIP,//www.medicineindia.org/medicine-brand-details/8932/vasolip,J.B Chemicals & Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/124/jb-chemicals-pharmaceuticals-limited,90.00
+VELOZ,//www.medicineindia.org/medicine-brand-details/12842/veloz,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,67.05
+VALODEX,//www.medicineindia.org/medicine-brand-details/15251/valodex,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,30.00
+VERSIZUR,//www.medicineindia.org/medicine-brand-details/1403/versizur,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,10.00
+VERSITOL,//www.medicineindia.org/medicine-brand-details/1402/versitol,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,16.30
+VALPOOL,//www.medicineindia.org/medicine-brand-details/2800/valpool,Ontario Organics Pvt Ltd,//www.medicineindia.org/medicine-manufacturing-company/276/ontario-organics-pvt-ltd,18.90
+VALATE,//www.medicineindia.org/medicine-brand-details/2795/valate,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,20.00
+VALTEC,//www.medicineindia.org/medicine-brand-details/2803/valtec,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,24.00
+VALEP CHRONO,//www.medicineindia.org/medicine-brand-details/2777/valep-chrono,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,24.40
+VELZE,//www.medicineindia.org/medicine-brand-details/2805/velze,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,25.00
+VALCOT-CR,//www.medicineindia.org/medicine-brand-details/2797/valcot-cr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,26.50
+VIREXIIM,//www.medicineindia.org/medicine-brand-details/4536/virexiim,East African (I) Remedies Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/187/east-african-i-remedies-pvt-ltd,28.00
+VALPARIN,//www.medicineindia.org/medicine-brand-details/2798/valparin,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,28.07
+VALPARIN CHRONO,//www.medicineindia.org/medicine-brand-details/2799/valparin-chrono,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,34.93
+VANSPAR,//www.medicineindia.org/medicine-brand-details/5328/vanspar,Vanguard Therapeutics,//www.medicineindia.org/medicine-manufacturing-company/481/vanguard-therapeutics,85.00
+VALPRET-CR,//www.medicineindia.org/medicine-brand-details/2768/valpret-cr,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,59.00
+VEXIM,//www.medicineindia.org/medicine-brand-details/4535/vexim,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,196.00
+VALCEF,//www.medicineindia.org/medicine-brand-details/4534/valcef,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,120.00
+VENLA,//www.medicineindia.org/medicine-brand-details/9727/venla,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,9.00
+VERGO,//www.medicineindia.org/medicine-brand-details/8782/vergo,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,12.00
+VENLOR,//www.medicineindia.org/medicine-brand-details/9731/venlor,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,12.50
+VENAXIN-SR,//www.medicineindia.org/medicine-brand-details/9722/venaxin-sr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,15.00
+VENISH,//www.medicineindia.org/medicine-brand-details/9725/venish,CONSERN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/506/consern-pharma,15.00
+VERTIGON,//www.medicineindia.org/medicine-brand-details/8784/vertigon,Geno Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/69/geno-pharmaceuticals-ltd,18.00
+VAZORTAN,//www.medicineindia.org/medicine-brand-details/8035/vazortan,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,19.50
+VIDA 25,//www.medicineindia.org/medicine-brand-details/8036/vida-25,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,24.00
+VINICOR-XL,//www.medicineindia.org/medicine-brand-details/2682/vinicor-xl,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,32.00
+VITILINE,//www.medicineindia.org/medicine-brand-details/16635/vitiline,Skymax Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/385/skymax-laboratories-pvt-ltd,65.00
+VOLTAFLAM,//www.medicineindia.org/medicine-brand-details/1565/voltaflam,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,60.00
+VERTILAS,//www.medicineindia.org/medicine-brand-details/8785/vertilas,DALLAS PHARMA,//www.medicineindia.org/medicine-manufacturing-company/400/dallas-pharma,29.00
+VERTIRON,//www.medicineindia.org/medicine-brand-details/8786/vertiron,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,45.00
+VIGREKS,//www.medicineindia.org/medicine-brand-details/14535/vigreks,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,48.00
+VIRAHA,//www.medicineindia.org/medicine-brand-details/14536/viraha,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,71.40
+VEPAN AX,//www.medicineindia.org/medicine-brand-details/3885/vepan-ax,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,17.34
+VIZA,//www.medicineindia.org/medicine-brand-details/4852/viza,MALACHITE GOLD LAB,//www.medicineindia.org/medicine-manufacturing-company/466/malachite-gold-lab,30.00
+VEVO,//www.medicineindia.org/medicine-brand-details/5173/vevo,ALPHA LAB,//www.medicineindia.org/medicine-manufacturing-company/588/alpha-lab,33.75
+VALANCE,//www.medicineindia.org/medicine-brand-details/2763/valance,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,40.00
+VALP-ER,//www.medicineindia.org/medicine-brand-details/2766/valp-er,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,48.00
+VITACURE,//www.medicineindia.org/medicine-brand-details/17371/vitacure,Curewell (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/736/curewell-india-ltd,120.00
+VOXIN,//www.medicineindia.org/medicine-brand-details/5175/voxin,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,51.00
+VIROVIR,//www.medicineindia.org/medicine-brand-details/7020/virovir,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,185.00
+VICON,//www.medicineindia.org/medicine-brand-details/5778/vicon,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,234.89
+VED,//www.medicineindia.org/medicine-brand-details/7409/ved,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,12.00
+VASOTOP,//www.medicineindia.org/medicine-brand-details/7774/vasotop,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,60.00
+VALATE CHRONO,//www.medicineindia.org/medicine-brand-details/2776/valate-chrono,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,0.00
+VENEX,//www.medicineindia.org/medicine-brand-details/8562/venex,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,26.00
+VALTEC,//www.medicineindia.org/medicine-brand-details/2803/valtec,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,34.00
+VALEP CHRONO,//www.medicineindia.org/medicine-brand-details/2777/valep-chrono,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,34.20
+VALCOT-CR,//www.medicineindia.org/medicine-brand-details/2797/valcot-cr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,37.00
+VALPARIN CHRONO,//www.medicineindia.org/medicine-brand-details/2799/valparin-chrono,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,50.99
+VIROL,//www.medicineindia.org/medicine-brand-details/18420/virol,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,2350.00
+VENUSMIN,//www.medicineindia.org/medicine-brand-details/8563/venusmin,Walter Bushnell,//www.medicineindia.org/medicine-manufacturing-company/224/walter-bushnell,79.38
+VENLA,//www.medicineindia.org/medicine-brand-details/9727/venla,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,13.50
+VENLOR,//www.medicineindia.org/medicine-brand-details/9731/venlor,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,24.25
+VEN-OD,//www.medicineindia.org/medicine-brand-details/9733/ven-od,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,45.00
+VEXOR,//www.medicineindia.org/medicine-brand-details/9734/vexor,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,45.00
+VENLIFT,//www.medicineindia.org/medicine-brand-details/9729/venlift,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,50.00
+VERCLAV TAB.,//www.medicineindia.org/medicine-brand-details/3471/verclav-tab,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,215.00
+VOMIPAR,//www.medicineindia.org/medicine-brand-details/10177/vomipar,PAREX PHARMA,//www.medicineindia.org/medicine-manufacturing-company/153/parex-pharma,3.20
+VOMIOF,//www.medicineindia.org/medicine-brand-details/10176/vomiof,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,19.50
+VOMIRID,//www.medicineindia.org/medicine-brand-details/10179/vomirid,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,45.00
+VOMIGO,//www.medicineindia.org/medicine-brand-details/10174/vomigo,IND-SWIFT LIMITED (BIO SCIENCES),//www.medicineindia.org/medicine-manufacturing-company/89/ind-swift-limited-bio-sciences,65.00
+VENTAIR,//www.medicineindia.org/medicine-brand-details/10976/ventair,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,89.00
+VOMIZ,//www.medicineindia.org/medicine-brand-details/10180/vomiz,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,48.48
+VASONIT,//www.medicineindia.org/medicine-brand-details/8271/vasonit,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,32.00
+VALTIC,//www.medicineindia.org/medicine-brand-details/2128/valtic,Wisdom Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/423/wisdom-pharma-pvt-ltd,35.00
+VALTO,//www.medicineindia.org/medicine-brand-details/2129/valto,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,49.50
+VAL-BCD,//www.medicineindia.org/medicine-brand-details/2111/val-bcd,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,50.04
+VALDONE,//www.medicineindia.org/medicine-brand-details/2119/valdone,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,52.10
+VALERON,//www.medicineindia.org/medicine-brand-details/2122/valeron,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,55.00
+VAH,//www.medicineindia.org/medicine-brand-details/2110/vah,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,57.68
+VERMITEL,//www.medicineindia.org/medicine-brand-details/7171/vermitel,Astra Zeneca,//www.medicineindia.org/medicine-manufacturing-company/83/astra-zeneca,12.00
+VORMOUT,//www.medicineindia.org/medicine-brand-details/7172/vormout,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,12.00
+VALBASON,//www.medicineindia.org/medicine-brand-details/7170/valbason,ADISON LAB,//www.medicineindia.org/medicine-manufacturing-company/401/adison-lab,13.00
+VIRODIN,//www.medicineindia.org/medicine-brand-details/18419/virodin,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,250.00
+VENUSMIN,//www.medicineindia.org/medicine-brand-details/8563/venusmin,Walter Bushnell,//www.medicineindia.org/medicine-manufacturing-company/224/walter-bushnell,63.95
+VOMETIL,//www.medicineindia.org/medicine-brand-details/2532/vometil,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,9.00
+VESTIL-5,//www.medicineindia.org/medicine-brand-details/2531/vestil-5,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,13.00
+VIVIRIL,//www.medicineindia.org/medicine-brand-details/7818/viviril,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,14.14
+VAMLO,//www.medicineindia.org/medicine-brand-details/7521/vamlo,Ranbaxy Global Consumer Healthcare,//www.medicineindia.org/medicine-manufacturing-company/21/ranbaxy-global-consumer-healthcare,17.95
+VASONORM,//www.medicineindia.org/medicine-brand-details/7817/vasonorm,Kopran Limited,//www.medicineindia.org/medicine-manufacturing-company/172/kopran-limited,19.00
+VALIUM,//www.medicineindia.org/medicine-brand-details/495/valium,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,23.00
+VOTZ,//www.medicineindia.org/medicine-brand-details/11215/votz,Wallace Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/148/wallace-pharmaceuticals-ltd,25.00
+VITILINE,//www.medicineindia.org/medicine-brand-details/16635/vitiline,Skymax Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/385/skymax-laboratories-pvt-ltd,25.00
+VEROMON,//www.medicineindia.org/medicine-brand-details/11262/veromon,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,35.00
+VITH,//www.medicineindia.org/medicine-brand-details/18821/vith,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,45.00
+VIBZI,//www.medicineindia.org/medicine-brand-details/11470/vibzi,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,67.00
+VENTAIR,//www.medicineindia.org/medicine-brand-details/10976/ventair,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,98.10
+VOZET-5MG,//www.medicineindia.org/medicine-brand-details/11216/vozet-5mg,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,10.00
+VARIACE,//www.medicineindia.org/medicine-brand-details/7910/variace,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,221.00
+VERMISOL,//www.medicineindia.org/medicine-brand-details/7048/vermisol,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,8.20
+VOLINI TAB.,//www.medicineindia.org/medicine-brand-details/1564/volini-tab,Crosland Research Laboratories,//www.medicineindia.org/medicine-manufacturing-company/371/crosland-research-laboratories,14.53
+VOLTAFLAM,//www.medicineindia.org/medicine-brand-details/1565/voltaflam,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,26.00
+VAZORTAN,//www.medicineindia.org/medicine-brand-details/8035/vazortan,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,38.00
+VIDA 25,//www.medicineindia.org/medicine-brand-details/8036/vida-25,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,48.00
+VINICOR-XL,//www.medicineindia.org/medicine-brand-details/2682/vinicor-xl,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,50.00
+VEERADOL,//www.medicineindia.org/medicine-brand-details/1341/veeradol,PRG PHARMA,//www.medicineindia.org/medicine-manufacturing-company/281/prg-pharma,59.00
+VOXAMIN,//www.medicineindia.org/medicine-brand-details/9716/voxamin,Syncro (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/524/syncro-a-div-of-microlabs,98.00
+VIRECTA,//www.medicineindia.org/medicine-brand-details/14537/virecta,Seagull Labs (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/473/seagull-labs-i-pvt-ltd,180.00
+VOVERAN,//www.medicineindia.org/medicine-brand-details/1541/voveran,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,34.70
+VIGREKS,//www.medicineindia.org/medicine-brand-details/14535/vigreks,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,64.00
+VISTAGRA,//www.medicineindia.org/medicine-brand-details/14538/vistagra,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,72.00
+VENIGRA-50,//www.medicineindia.org/medicine-brand-details/14534/venigra-50,KWALITY PHARMACEUTICALS (P) LTD.,//www.medicineindia.org/medicine-manufacturing-company/203/kwality-pharmaceuticals-p-ltd,70.00
+VIRAHA,//www.medicineindia.org/medicine-brand-details/14536/viraha,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,107.40
+VALATE CHRONO,//www.medicineindia.org/medicine-brand-details/2776/valate-chrono,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,0.00
+VEPAN AX,//www.medicineindia.org/medicine-brand-details/3885/vepan-ax,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,31.70
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,36.69
+VENEX,//www.medicineindia.org/medicine-brand-details/8562/venex,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,44.72
+VALPOOL,//www.medicineindia.org/medicine-brand-details/2800/valpool,Ontario Organics Pvt Ltd,//www.medicineindia.org/medicine-manufacturing-company/276/ontario-organics-pvt-ltd,46.90
+VALTEC,//www.medicineindia.org/medicine-brand-details/2803/valtec,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,58.00
+VALCOT-CR,//www.medicineindia.org/medicine-brand-details/2797/valcot-cr,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,59.40
+VALEP CHRONO,//www.medicineindia.org/medicine-brand-details/2777/valep-chrono,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,60.40
+VALPARIN,//www.medicineindia.org/medicine-brand-details/2798/valparin,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,68.66
+VALANCE,//www.medicineindia.org/medicine-brand-details/2763/valance,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,69.19
+VOFY,//www.medicineindia.org/medicine-brand-details/5174/vofy,CADEX,//www.medicineindia.org/medicine-manufacturing-company/450/cadex,83.00
+VALPARIN CHRONO,//www.medicineindia.org/medicine-brand-details/2799/valparin-chrono,Sanofi Synthelabo (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/114/sanofi-synthelabo-india-ltd,85.54
+VIBOLIV,//www.medicineindia.org/medicine-brand-details/7262/viboliv,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,90.00
+VALCIVIR,//www.medicineindia.org/medicine-brand-details/7018/valcivir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,79.18
+VIROVIR,//www.medicineindia.org/medicine-brand-details/7020/virovir,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,181.00
+VICON,//www.medicineindia.org/medicine-brand-details/5778/vicon,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,234.89
+VALATE,//www.medicineindia.org/medicine-brand-details/2795/valate,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,27.60
+VALP-ER,//www.medicineindia.org/medicine-brand-details/2766/valp-er,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,45.00
+VOXIN,//www.medicineindia.org/medicine-brand-details/5175/voxin,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,87.00
+VED,//www.medicineindia.org/medicine-brand-details/7409/ved,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,21.00
+VERCLAV TAB.,//www.medicineindia.org/medicine-brand-details/3471/verclav-tab,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,250.00
+VOLTAREN,//www.medicineindia.org/medicine-brand-details/19074/voltaren,Endo Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/782/endo-pharmaceuticals,0.00
+VENLA,//www.medicineindia.org/medicine-brand-details/9727/venla,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,26.50
+VERGO,//www.medicineindia.org/medicine-brand-details/8782/vergo,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,28.00
+VERTICIN,//www.medicineindia.org/medicine-brand-details/8783/verticin,Elite Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/136/elite-pharma-pvt-ltd,30.00
+VENLOR,//www.medicineindia.org/medicine-brand-details/9731/venlor,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,34.50
+VEXOR,//www.medicineindia.org/medicine-brand-details/9734/vexor,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,36.00
+VERTIGON,//www.medicineindia.org/medicine-brand-details/8784/vertigon,Geno Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/69/geno-pharmaceuticals-ltd,37.80
+VEN-OD,//www.medicineindia.org/medicine-brand-details/9733/ven-od,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,80.00
+VENLIFT,//www.medicineindia.org/medicine-brand-details/9729/venlift,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,80.00
+VERTISTAR,//www.medicineindia.org/medicine-brand-details/10365/vertistar,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,31.50
+VEZE-8,//www.medicineindia.org/medicine-brand-details/10366/veze-8,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,32.00
+VERTIN,//www.medicineindia.org/medicine-brand-details/10364/vertin,Solvay Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/365/solvay-pharma-india-ltd,37.00
+VOMIOF,//www.medicineindia.org/medicine-brand-details/10176/vomiof,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,52.00
+VALDONE-MR,//www.medicineindia.org/medicine-brand-details/18459/valdone-mr,CADILA H,//www.medicineindia.org/medicine-manufacturing-company/155/cadila-h,42.00
+VIDA-H,//www.medicineindia.org/medicine-brand-details/8076/vida-h,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,50.00
+VALDIXX-MD,//www.medicineindia.org/medicine-brand-details/2118/valdixx-md,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,19.00
+VALDIXX-MD,//www.medicineindia.org/medicine-brand-details/2118/valdixx-md,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,35.00
+VOMIKIND,//www.medicineindia.org/medicine-brand-details/10175/vomikind,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,15.00
+VISCO TAB,//www.medicineindia.org/medicine-brand-details/13221/visco-tab,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,6.24
+VITAMIN C,//www.medicineindia.org/medicine-brand-details/17423/vitamin-c,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,12.45
+VITAJOY CHEW TABS,//www.medicineindia.org/medicine-brand-details/17719/vitajoy-chew-tabs,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,19.34
+VITAJOY CHEW TABS,//www.medicineindia.org/medicine-brand-details/17719/vitajoy-chew-tabs,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,57.95
+VITAMIN C,//www.medicineindia.org/medicine-brand-details/17423/vitamin-c,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,0.00
+VITAMIN A (NPIL),//www.medicineindia.org/medicine-brand-details/17590/vitamin-a-npil,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,7.08
+VALRATE-CR 200mg,//www.medicineindia.org/medicine-brand-details/2778/valrate-cr-200mg,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,24.00
+VALPROL CR,//www.medicineindia.org/medicine-brand-details/2802/valprol-cr,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,26.00
+VALTEC-CR 200mg,//www.medicineindia.org/medicine-brand-details/2781/valtec-cr-200mg,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,26.65
+VALPRID-CR,//www.medicineindia.org/medicine-brand-details/2801/valprid-cr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,31.00
+VALCONTIN,//www.medicineindia.org/medicine-brand-details/2796/valcontin,Modi-Mundi Pharma Limited,//www.medicineindia.org/medicine-manufacturing-company/51/modi-mundi-pharma-limited,37.00
+VALPEX CR,//www.medicineindia.org/medicine-brand-details/2767/valpex-cr,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,25.00
+VALRATE-CR 300mg,//www.medicineindia.org/medicine-brand-details/2779/valrate-cr-300mg,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,34.00
+VALPEX CR,//www.medicineindia.org/medicine-brand-details/2767/valpex-cr,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,34.00
+VALTEC-CR 300mg,//www.medicineindia.org/medicine-brand-details/2782/valtec-cr-300mg,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,36.65
+VALPROL CR,//www.medicineindia.org/medicine-brand-details/2802/valprol-cr,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,37.00
+VALPRID-CR,//www.medicineindia.org/medicine-brand-details/2801/valprid-cr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,48.00
+VALCONTIN,//www.medicineindia.org/medicine-brand-details/2796/valcontin,Modi-Mundi Pharma Limited,//www.medicineindia.org/medicine-manufacturing-company/51/modi-mundi-pharma-limited,52.00
+VALPROL CR,//www.medicineindia.org/medicine-brand-details/2802/valprol-cr,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,57.00
+VALPEX CR,//www.medicineindia.org/medicine-brand-details/2767/valpex-cr,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,60.00
+VALRATE-CR 500mg,//www.medicineindia.org/medicine-brand-details/2780/valrate-cr-500mg,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,60.00
+VALTEC-CR 500mg,//www.medicineindia.org/medicine-brand-details/2783/valtec-cr-500mg,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,64.00
+VALPRID-CR,//www.medicineindia.org/medicine-brand-details/2801/valprid-cr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,70.00
+VALCONTIN,//www.medicineindia.org/medicine-brand-details/2796/valcontin,Modi-Mundi Pharma Limited,//www.medicineindia.org/medicine-manufacturing-company/51/modi-mundi-pharma-limited,84.00
+VIREXIIM,//www.medicineindia.org/medicine-brand-details/4536/virexiim,East African (I) Remedies Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/187/east-african-i-remedies-pvt-ltd,14.50
+VALCEF,//www.medicineindia.org/medicine-brand-details/4534/valcef,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,105.00
+VEXIM,//www.medicineindia.org/medicine-brand-details/4535/vexim,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,270.00
+VIBAZINE DT,//www.medicineindia.org/medicine-brand-details/5950/vibazine-dt,Medibios Labs,//www.medicineindia.org/medicine-manufacturing-company/647/medibios-labs,56.86
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,18.20
+VERCEF,//www.medicineindia.org/medicine-brand-details/4016/vercef,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,88.00
+VIBAZINE DT,//www.medicineindia.org/medicine-brand-details/5950/vibazine-dt,Medibios Labs,//www.medicineindia.org/medicine-manufacturing-company/647/medibios-labs,105.13
+VEPAN,//www.medicineindia.org/medicine-brand-details/3866/vepan,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,21.50
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,35.98
+VERCEF,//www.medicineindia.org/medicine-brand-details/4016/vercef,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,174.00
+VALCEF,//www.medicineindia.org/medicine-brand-details/4534/valcef,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,55.00
+VISTADROX,//www.medicineindia.org/medicine-brand-details/3867/vistadrox,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,67.56
+VIVALOL,//www.medicineindia.org/medicine-brand-details/18860/vivalol,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,66.00
+VIVALOL,//www.medicineindia.org/medicine-brand-details/18860/vivalol,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,35.00
+VENDEP XR,//www.medicineindia.org/medicine-brand-details/9723/vendep-xr,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,99.00
+VIVALOL,//www.medicineindia.org/medicine-brand-details/18860/vivalol,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,49.00
+VALKEM OD,//www.medicineindia.org/medicine-brand-details/2765/valkem-od,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,69.50
+VASOPRIN LS,//www.medicineindia.org/medicine-brand-details/8290/vasoprin-ls,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,10.50
+VALDY MD,//www.medicineindia.org/medicine-brand-details/2121/valdy-md,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,19.50
+VALDY MD,//www.medicineindia.org/medicine-brand-details/2121/valdy-md,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,35.00
+VERCEF AF,//www.medicineindia.org/medicine-brand-details/4017/vercef-af,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,198.85
+VALANCE-OD,//www.medicineindia.org/medicine-brand-details/2764/valance-od,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,48.66
+VALANCE-OD,//www.medicineindia.org/medicine-brand-details/2764/valance-od,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,91.00
+VALANCE-OD,//www.medicineindia.org/medicine-brand-details/2764/valance-od,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,92.00
+VENFAX-PR,//www.medicineindia.org/medicine-brand-details/9724/venfax-pr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,98.00
+VENFAX-PR,//www.medicineindia.org/medicine-brand-details/9724/venfax-pr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,25.00
+VENFAX-PR,//www.medicineindia.org/medicine-brand-details/9724/venfax-pr,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,49.00
+VERSITOL,//www.medicineindia.org/medicine-brand-details/1402/versitol,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,19.15
+VERSITOL,//www.medicineindia.org/medicine-brand-details/1402/versitol,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,36.99
+VOLFLAM-SR,//www.medicineindia.org/medicine-brand-details/1540/volflam-sr,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,13.50
+VIRON-SR,//www.medicineindia.org/medicine-brand-details/1539/viron-sr,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,15.00
+VALDONE SR,//www.medicineindia.org/medicine-brand-details/1637/valdone-sr,CADILA H,//www.medicineindia.org/medicine-manufacturing-company/155/cadila-h,16.00
+VOVERAN,//www.medicineindia.org/medicine-brand-details/1541/voveran,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,61.00
+VORTH-SR,//www.medicineindia.org/medicine-brand-details/1641/vorth-sr,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,31.20
+VASONIT-OD,//www.medicineindia.org/medicine-brand-details/8272/vasonit-od,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,26.00
+VOMISTOP,//www.medicineindia.org/medicine-brand-details/2518/vomistop,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,60.00
+VASOTRATE OD,//www.medicineindia.org/medicine-brand-details/8274/vasotrate-od,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,23.00
+VENT-T,//www.medicineindia.org/medicine-brand-details/10884/vent-t,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,680.00
+VASONIT-OD,//www.medicineindia.org/medicine-brand-details/8272/vasonit-od,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,41.90
+VASOTRATE OD,//www.medicineindia.org/medicine-brand-details/8274/vasotrate-od,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,36.00
+VOVERAN,//www.medicineindia.org/medicine-brand-details/1541/voveran,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,35.60
+VENLA-XR,//www.medicineindia.org/medicine-brand-details/9728/venla-xr,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,75.00
+VEXOR,//www.medicineindia.org/medicine-brand-details/9734/vexor,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,75.00
+VENLA-XR,//www.medicineindia.org/medicine-brand-details/9728/venla-xr,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,20.00
+VEXOR,//www.medicineindia.org/medicine-brand-details/9734/vexor,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,38.00
+VENLA-XR,//www.medicineindia.org/medicine-brand-details/9728/venla-xr,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,40.00
+VARIVAX,//www.medicineindia.org/medicine-brand-details/35/varivax,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,1420.00
+VERORAB,//www.medicineindia.org/medicine-brand-details/69/verorab,Ranbaxy Global Consumer Healthcare,//www.medicineindia.org/medicine-manufacturing-company/21/ranbaxy-global-consumer-healthcare,304.00
+VAXIRAB,//www.medicineindia.org/medicine-brand-details/68/vaxirab,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,294.00
+VIATRAN,//www.medicineindia.org/medicine-brand-details/18953/viatran,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,395.00
+VAXEM HIB,//www.medicineindia.org/medicine-brand-details/25/vaxem-hib,Aventis Pharma,//www.medicineindia.org/medicine-manufacturing-company/10/aventis-pharma,440.00
+VERCLAV INJ.,//www.medicineindia.org/medicine-brand-details/3405/verclav-inj,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,50.00
+VACTYPH,//www.medicineindia.org/medicine-brand-details/61/vactyph,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,185.00
+VERCLAV INJ.,//www.medicineindia.org/medicine-brand-details/3405/verclav-inj,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,85.00
+VEGAPIME,//www.medicineindia.org/medicine-brand-details/4593/vegapime,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,160.00
+VANCO-CP,//www.medicineindia.org/medicine-brand-details/6074/vanco-cp,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,760.00
+VANSAFE-CP,//www.medicineindia.org/medicine-brand-details/6081/vansafe-cp,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,760.00
+VERCLAV INJ.,//www.medicineindia.org/medicine-brand-details/3405/verclav-inj,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,160.00
+VINORELBINE,//www.medicineindia.org/medicine-brand-details/16970/vinorelbine,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VINILEX,//www.medicineindia.org/medicine-brand-details/16969/vinilex,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VINOTEL,//www.medicineindia.org/medicine-brand-details/16971/vinotel,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VINOBULIN,//www.medicineindia.org/medicine-brand-details/117/vinobulin,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,978.00
+VISCOMET,//www.medicineindia.org/medicine-brand-details/15972/viscomet,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,48.80
+VISCOMET-HV,//www.medicineindia.org/medicine-brand-details/15973/viscomet-hv,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,99.00
+VISCOMET,//www.medicineindia.org/medicine-brand-details/15972/viscomet,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,61.90
+VOLUMIN,//www.medicineindia.org/medicine-brand-details/209/volumin,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,3990.00
+VINTOR,//www.medicineindia.org/medicine-brand-details/18130/vintor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,550.00
+VIR INJ.,//www.medicineindia.org/medicine-brand-details/7013/vir-inj,Troikaa Parenterals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/104/troikaa-parenterals-ltd,400.00
+VEGACEF,//www.medicineindia.org/medicine-brand-details/4293/vegacef,ADLEY LAB,//www.medicineindia.org/medicine-manufacturing-company/302/adley-lab,36.95
+V-PARIN,//www.medicineindia.org/medicine-brand-details/465/v-parin,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,90.00
+VINOBULIN,//www.medicineindia.org/medicine-brand-details/117/vinobulin,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,2299.50
+VINTOR,//www.medicineindia.org/medicine-brand-details/18130/vintor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,820.00
+VECURON,//www.medicineindia.org/medicine-brand-details/11868/vecuron,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,69.00
+VALZ INJ,//www.medicineindia.org/medicine-brand-details/2150/valz-inj,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,65.00
+VALSAFE INJ.,//www.medicineindia.org/medicine-brand-details/2148/valsafe-inj,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,65.00
+VALERON INJ.,//www.medicineindia.org/medicine-brand-details/2147/valeron-inj,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,65.00
+VORTH-P,//www.medicineindia.org/medicine-brand-details/2151/vorth-p,Gracewell (A Division of Glenmark Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/167/gracewell-a-division-of-glenmark-pharmaceuticals-ltd,65.00
+VALDONE-P,//www.medicineindia.org/medicine-brand-details/2145/valdone-p,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,65.00
+VINTOR,//www.medicineindia.org/medicine-brand-details/18130/vintor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,1090.00
+VACTYPH,//www.medicineindia.org/medicine-brand-details/61/vactyph,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,1800.00
+VINORELBINE,//www.medicineindia.org/medicine-brand-details/16970/vinorelbine,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VINOTEL,//www.medicineindia.org/medicine-brand-details/16971/vinotel,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VINILEX,//www.medicineindia.org/medicine-brand-details/16969/vinilex,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,0.00
+VEGAPIME,//www.medicineindia.org/medicine-brand-details/4593/vegapime,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,95.00
+VANCORIN,//www.medicineindia.org/medicine-brand-details/6077/vancorin,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,250.00
+VANCO-CP,//www.medicineindia.org/medicine-brand-details/6074/vanco-cp,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,275.00
+VANSAFE-CP,//www.medicineindia.org/medicine-brand-details/6081/vansafe-cp,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,355.00
+VANCOGRAM-500,//www.medicineindia.org/medicine-brand-details/6076/vancogram-500,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,360.00
+VANMYCOS-CP,//www.medicineindia.org/medicine-brand-details/6080/vanmycos-cp,SGPharma Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/109/sgpharma-pvt-ltd,360.00
+VANLID,//www.medicineindia.org/medicine-brand-details/6079/vanlid,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,365.00
+V-PARIN,//www.medicineindia.org/medicine-brand-details/465/v-parin,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,50.00
+VINTOR,//www.medicineindia.org/medicine-brand-details/18130/vintor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,1590.00
+VEROVAX-R,//www.medicineindia.org/medicine-brand-details/70/verovax-r,Aventis Pasteur,//www.medicineindia.org/medicine-manufacturing-company/1/aventis-pasteur,296.00

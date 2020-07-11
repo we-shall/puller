@@ -1,0 +1,877 @@
+medicine,description_url,company,company_url,price
+ZOTADOL,//www.medicineindia.org/medicine-brand-details/1342/zotadol,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,25.00
+ZYCALCIT,//www.medicineindia.org/medicine-brand-details/11875/zycalcit,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,141.00
+ZYSTRONE,//www.medicineindia.org/medicine-brand-details/15402/zystrone,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,49.00
+ZOCIN.,//www.medicineindia.org/medicine-brand-details/1263/zocin,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,5.75
+ZONDA,//www.medicineindia.org/medicine-brand-details/10183/zonda,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,14.00
+ZUPAR,//www.medicineindia.org/medicine-brand-details/1254/zupar,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,6.51
+ZUCOX -2,//www.medicineindia.org/medicine-brand-details/6262/zucox-2,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,55.35
+ZUCOX PLUS,//www.medicineindia.org/medicine-brand-details/6263/zucox-plus,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,63.47
+ZENBEX-T,//www.medicineindia.org/medicine-brand-details/18144/zenbex-t,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,8.65
+ZINFEX-C,//www.medicineindia.org/medicine-brand-details/17734/zinfex-c,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,10.14
+ZYRTEC-D,//www.medicineindia.org/medicine-brand-details/10413/zyrtec-d,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,11.84
+ZETOP DUOLET,//www.medicineindia.org/medicine-brand-details/10411/zetop-duolet,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,17.00
+ZIVAST-ASP,//www.medicineindia.org/medicine-brand-details/8975/zivast-asp,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,20.00
+ZIFERRIN-TR,//www.medicineindia.org/medicine-brand-details/17948/ziferrin-tr,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,20.44
+ZIFOL-12,//www.medicineindia.org/medicine-brand-details/17949/zifol-12,Eros Pharma Ltd. (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/97/eros-pharma-ltd-a-div-of-microlabs,21.50
+ZIRAM-AM,//www.medicineindia.org/medicine-brand-details/7938/ziram-am,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,22.00
+ZECLOX-L,//www.medicineindia.org/medicine-brand-details/3545/zeclox-l,Menarini Raunaq Pharma Limited,//www.medicineindia.org/medicine-manufacturing-company/472/menarini-raunaq-pharma-limited,24.23
+Z & B,//www.medicineindia.org/medicine-brand-details/18152/z-b,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,25.00
+ZOMEP-D,//www.medicineindia.org/medicine-brand-details/12738/zomep-d,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,29.90
+ZACE D3,//www.medicineindia.org/medicine-brand-details/17724/zace-d3,Mimec Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/313/mimec-pharma-pvt-ltd,30.00
+ZIDON-O,//www.medicineindia.org/medicine-brand-details/12736/zidon-o,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,39.90
+ZINFE-SR,//www.medicineindia.org/medicine-brand-details/18015/zinfe-sr,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,40.95
+ZOSEC-PRO,//www.medicineindia.org/medicine-brand-details/12740/zosec-pro,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,44.00
+ZIFERRIN,//www.medicineindia.org/medicine-brand-details/17839/ziferrin,Recon Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/128/recon-healthcare-ltd,44.54
+ZIFOL,//www.medicineindia.org/medicine-brand-details/17832/zifol,Eros Pharma Ltd. (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/97/eros-pharma-ltd-a-div-of-microlabs,45.00
+ZAXIAL PLUS,//www.medicineindia.org/medicine-brand-details/11978/zaxial-plus,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,45.00
+ZOOM-D,//www.medicineindia.org/medicine-brand-details/12739/zoom-d,ACTIVE H.CARE,//www.medicineindia.org/medicine-manufacturing-company/178/active-hcare,45.00
+ZES-30,//www.medicineindia.org/medicine-brand-details/12478/zes-30,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,45.00
+ZECLOX,//www.medicineindia.org/medicine-brand-details/3544/zeclox,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,48.00
+ZOMITAC-DSR,//www.medicineindia.org/medicine-brand-details/13177/zomitac-dsr,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,55.00
+ZONISEP,//www.medicineindia.org/medicine-brand-details/10269/zonisep,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,82.00
+ZINCOA TAB,//www.medicineindia.org/medicine-brand-details/17729/zincoa-tab,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,12.44
+ZENGLOBIN.,//www.medicineindia.org/medicine-brand-details/17954/zenglobin,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,25.89
+ZEENATAL,//www.medicineindia.org/medicine-brand-details/17885/zeenatal,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,57.50
+ZECID DM,//www.medicineindia.org/medicine-brand-details/12735/zecid-dm,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,65.00
+ZENBEX-T,//www.medicineindia.org/medicine-brand-details/18144/zenbex-t,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,25.95
+ZICOMPLEX,//www.medicineindia.org/medicine-brand-details/18145/zicomplex,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,26.33
+ZEVIT.,//www.medicineindia.org/medicine-brand-details/18151/zevit,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,33.99
+ZESTAZ,//www.medicineindia.org/medicine-brand-details/18021/zestaz,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,44.85
+ZESTCAL,//www.medicineindia.org/medicine-brand-details/12190/zestcal,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,90.00
+ZAXIAL,//www.medicineindia.org/medicine-brand-details/11939/zaxial,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,45.00
+ZIRAM,//www.medicineindia.org/medicine-brand-details/7912/ziram,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,14.00
+ZAVEDOS,//www.medicineindia.org/medicine-brand-details/16909/zavedos,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,2883.46
+ZOSEC,//www.medicineindia.org/medicine-brand-details/12637/zosec,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,20.00
+ZOLCER,//www.medicineindia.org/medicine-brand-details/12633/zolcer,AUROBINDO,//www.medicineindia.org/medicine-manufacturing-company/316/aurobindo,23.00
+ZALPILO,//www.medicineindia.org/medicine-brand-details/9161/zalpilo,Syncro (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/524/syncro-a-div-of-microlabs,58.00
+ZANLOP,//www.medicineindia.org/medicine-brand-details/9149/zanlop,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,60.00
+ZALEP,//www.medicineindia.org/medicine-brand-details/9160/zalep,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,60.00
+ZAPLON,//www.medicineindia.org/medicine-brand-details/9162/zaplon,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,60.00
+ZASO,//www.medicineindia.org/medicine-brand-details/9163/zaso,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,39.20
+ZECOXIB,//www.medicineindia.org/medicine-brand-details/2085/zecoxib,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,20.00
+ZYCEL,//www.medicineindia.org/medicine-brand-details/2086/zycel,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,52.00
+ZIDOVIR,//www.medicineindia.org/medicine-brand-details/6926/zidovir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,58.00
+ZIDOMAX,//www.medicineindia.org/medicine-brand-details/6925/zidomax,Cytomed (Alkem Laboratories Ltd.),//www.medicineindia.org/medicine-manufacturing-company/667/cytomed-alkem-laboratories-ltd,60.00
+ZONICARE,//www.medicineindia.org/medicine-brand-details/20612/zonicare,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,94.00
+ZYSTRONE,//www.medicineindia.org/medicine-brand-details/15402/zystrone,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,99.00
+ZEDOTT,//www.medicineindia.org/medicine-brand-details/13611/zedott,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,104.90
+ZENDOL,//www.medicineindia.org/medicine-brand-details/15528/zendol,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,157.50
+ZEDOX,//www.medicineindia.org/medicine-brand-details/5953/zedox,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,91.00
+ZIDOVIR,//www.medicineindia.org/medicine-brand-details/6926/zidovir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,700.00
+ZINCOLAK,//www.medicineindia.org/medicine-brand-details/18134/zincolak,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,9.50
+ZAPACID,//www.medicineindia.org/medicine-brand-details/12476/zapacid,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,26.00
+ZOLCAN,//www.medicineindia.org/medicine-brand-details/6621/zolcan,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,29.00
+ZECON,//www.medicineindia.org/medicine-brand-details/6619/zecon,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,660.00
+ZIRAM,//www.medicineindia.org/medicine-brand-details/7912/ziram,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZEEPAIN,//www.medicineindia.org/medicine-brand-details/2050/zeepain,Lark Laboratories India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/93/lark-laboratories-india-ltd,9.32
+ZOMEP,//www.medicineindia.org/medicine-brand-details/12635/zomep,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,19.90
+ZIPSYDON,//www.medicineindia.org/medicine-brand-details/9998/zipsydon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,32.00
+ZOLSEC,//www.medicineindia.org/medicine-brand-details/12634/zolsec,Aarpik Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/636/aarpik-pharmaceuticals-pvt-ltd,33.00
+ZOLCER,//www.medicineindia.org/medicine-brand-details/12633/zolcer,AUROBINDO,//www.medicineindia.org/medicine-manufacturing-company/316/aurobindo,34.00
+ZOOM,//www.medicineindia.org/medicine-brand-details/12636/zoom,ACTIVE H.CARE,//www.medicineindia.org/medicine-manufacturing-company/178/active-hcare,35.00
+ZAPCER,//www.medicineindia.org/medicine-brand-details/12631/zapcer,Elite Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/136/elite-pharma-pvt-ltd,38.00
+ZOSEC,//www.medicineindia.org/medicine-brand-details/12637/zosec,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,39.00
+ZECID,//www.medicineindia.org/medicine-brand-details/12632/zecid,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,40.00
+ZIDON-RD,//www.medicineindia.org/medicine-brand-details/12737/zidon-rd,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,49.00
+ZECOXIB,//www.medicineindia.org/medicine-brand-details/2085/zecoxib,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,39.75
+ZYCEL,//www.medicineindia.org/medicine-brand-details/2086/zycel,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,91.00
+ZENDOL,//www.medicineindia.org/medicine-brand-details/15528/zendol,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,261.50
+ZAVEDOS,//www.medicineindia.org/medicine-brand-details/16909/zavedos,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,6494.21
+ZECLOR,//www.medicineindia.org/medicine-brand-details/6041/zeclor,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,30.00
+ZOVAX-LB 250,//www.medicineindia.org/medicine-brand-details/3578/zovax-lb-250,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,34.00
+ZYCILIN,//www.medicineindia.org/medicine-brand-details/18909/zycilin,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,90.00
+ZYCIN,//www.medicineindia.org/medicine-brand-details/5787/zycin,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,63.10
+ZAPACID,//www.medicineindia.org/medicine-brand-details/12476/zapacid,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,45.00
+ZEFDINIR,//www.medicineindia.org/medicine-brand-details/4325/zefdinir,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,155.00
+ZOLCER,//www.medicineindia.org/medicine-brand-details/12633/zolcer,AUROBINDO,//www.medicineindia.org/medicine-manufacturing-company/316/aurobindo,50.00
+ZIPSYDON,//www.medicineindia.org/medicine-brand-details/9998/zipsydon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,60.00
+ZOSEC,//www.medicineindia.org/medicine-brand-details/12637/zosec,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,39.00
+ZAVEDOS,//www.medicineindia.org/medicine-brand-details/16909/zavedos,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,1596.62
+ZALPILO,//www.medicineindia.org/medicine-brand-details/9161/zalpilo,Syncro (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/524/syncro-a-div-of-microlabs,30.00
+ZIRAM,//www.medicineindia.org/medicine-brand-details/7912/ziram,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,34.00
+ZALEP,//www.medicineindia.org/medicine-brand-details/9160/zalep,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,35.00
+ZAPLON,//www.medicineindia.org/medicine-brand-details/9162/zaplon,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,35.00
+ZANLOP,//www.medicineindia.org/medicine-brand-details/9149/zanlop,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,35.00
+ZASO,//www.medicineindia.org/medicine-brand-details/9163/zaso,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,23.80
+ZOLCAN,//www.medicineindia.org/medicine-brand-details/6621/zolcan,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,19.00
+ZONICARE,//www.medicineindia.org/medicine-brand-details/20612/zonicare,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,57.00
+ZENDOL,//www.medicineindia.org/medicine-brand-details/15528/zendol,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,80.50
+ZECLOR,//www.medicineindia.org/medicine-brand-details/6041/zeclor,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,30.00
+ZOVAX-LB 500,//www.medicineindia.org/medicine-brand-details/3579/zovax-lb-500,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,62.00
+ZYCILIN,//www.medicineindia.org/medicine-brand-details/18909/zycilin,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,116.00
+ZIPSYDON,//www.medicineindia.org/medicine-brand-details/9998/zipsydon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,87.00
+ZIPSYDON,//www.medicineindia.org/medicine-brand-details/9998/zipsydon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,118.00
+ZIPANT - D,//www.medicineindia.org/medicine-brand-details/13125/zipant-d,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,39.00
+ZIMIG CREAM,//www.medicineindia.org/medicine-brand-details/6654/zimig-cream,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,62.75
+ZAD-G,//www.medicineindia.org/medicine-brand-details/16138/zad-g,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,81.00
+ZINCODERM-G,//www.medicineindia.org/medicine-brand-details/16178/zincoderm-g,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,10.31
+ZOVATE-GN,//www.medicineindia.org/medicine-brand-details/16435/zovate-gn,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,14.61
+ZAD-G,//www.medicineindia.org/medicine-brand-details/16138/zad-g,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,26.50
+ZOLE-F CREAM,//www.medicineindia.org/medicine-brand-details/16317/zole-f-cream,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,34.00
+ZINCODERM,//www.medicineindia.org/medicine-brand-details/16459/zincoderm,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,40.00
+ZINCODERM-M,//www.medicineindia.org/medicine-brand-details/16410/zincoderm-m,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,41.50
+ZINCODERM-GM,//www.medicineindia.org/medicine-brand-details/16409/zincoderm-gm,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,42.85
+ZOVATE-M,//www.medicineindia.org/medicine-brand-details/16340/zovate-m,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,24.35
+ZOVATE-S,//www.medicineindia.org/medicine-brand-details/16556/zovate-s,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,35.85
+ZOVATE CREAM,//www.medicineindia.org/medicine-brand-details/16647/zovate-cream,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,20.40
+ZOFLUT,//www.medicineindia.org/medicine-brand-details/16485/zoflut,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,57.00
+ZOFLUT,//www.medicineindia.org/medicine-brand-details/16485/zoflut,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,32.25
+ZODERM,//www.medicineindia.org/medicine-brand-details/16272/zoderm,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,52.01
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZIPOD-CV,//www.medicineindia.org/medicine-brand-details/18966/zipod-cv,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,69.90
+ZIMNIC-CV,//www.medicineindia.org/medicine-brand-details/18948/zimnic-cv,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,57.00
+ZEDOTT DT,//www.medicineindia.org/medicine-brand-details/13612/zedott-dt,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,40.00
+ZITIS,//www.medicineindia.org/medicine-brand-details/5786/zitis,SCORTIS LABS,//www.medicineindia.org/medicine-manufacturing-company/575/scortis-labs,25.00
+ZIMNIC,//www.medicineindia.org/medicine-brand-details/18946/zimnic,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,49.00
+ZIPOD DT,//www.medicineindia.org/medicine-brand-details/18965/zipod-dt,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,86.75
+ZEDOCEF,//www.medicineindia.org/medicine-brand-details/18396/zedocef,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,117.00
+ZIMNIC,//www.medicineindia.org/medicine-brand-details/18946/zimnic,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,89.00
+ZEDOTT DT,//www.medicineindia.org/medicine-brand-details/13612/zedott-dt,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,70.00
+ZIMNIC,//www.medicineindia.org/medicine-brand-details/18946/zimnic,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,29.00
+ZIPOD DT,//www.medicineindia.org/medicine-brand-details/18965/zipod-dt,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,42.75
+ZEDOCEF,//www.medicineindia.org/medicine-brand-details/18396/zedocef,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,54.32
+ZECLOR D,//www.medicineindia.org/medicine-brand-details/15709/zeclor-d,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,18.00
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,14.00
+ZIMNIC-CV,//www.medicineindia.org/medicine-brand-details/18948/zimnic-cv,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,59.90
+ZIPOD-CV,//www.medicineindia.org/medicine-brand-details/18966/zipod-cv,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,62.50
+ZIPRAX,//www.medicineindia.org/medicine-brand-details/4541/ziprax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,62.06
+ZIPOD,//www.medicineindia.org/medicine-brand-details/18964/zipod,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,98.00
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,120.00
+ZOVAX,//www.medicineindia.org/medicine-brand-details/3323/zovax,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,14.00
+ZYCIN,//www.medicineindia.org/medicine-brand-details/5787/zycin,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,25.00
+ZOVAX,//www.medicineindia.org/medicine-brand-details/3323/zovax,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,24.50
+ZIPRAX,//www.medicineindia.org/medicine-brand-details/4541/ziprax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,37.45
+ZIFI,//www.medicineindia.org/medicine-brand-details/4539/zifi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,38.00
+ZIPOD,//www.medicineindia.org/medicine-brand-details/18964/zipod,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,48.00
+ZYLOAD,//www.medicineindia.org/medicine-brand-details/15440/zyload,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,271.95
+ZYRTEC,//www.medicineindia.org/medicine-brand-details/11168/zyrtec,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,0.00
+ZOXAN-D,//www.medicineindia.org/medicine-brand-details/15726/zoxan-d,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZINCOREN,//www.medicineindia.org/medicine-brand-details/15545/zincoren,Warren Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/58/warren-pharmaceuticals-pvt-ltd,24.40
+ZO-D,//www.medicineindia.org/medicine-brand-details/15725/zo-d,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,29.50
+ZINCOA DPS.,//www.medicineindia.org/medicine-brand-details/17727/zincoa-dps,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,19.00
+ZEST,//www.medicineindia.org/medicine-brand-details/17268/zest,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,22.50
+ZINCOVIT DROPS,//www.medicineindia.org/medicine-brand-details/17731/zincovit-drops,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,28.50
+ZEVIT,//www.medicineindia.org/medicine-brand-details/18147/zevit,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,27.00
+ZENFLOX-D,//www.medicineindia.org/medicine-brand-details/15724/zenflox-d,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,0.00
+ZOXAN-D,//www.medicineindia.org/medicine-brand-details/15726/zoxan-d,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,12.35
+ZOAMET EYE DPS.,//www.medicineindia.org/medicine-brand-details/15841/zoamet-eye-dps,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,22.30
+ZOAMET NASAL DROPS,//www.medicineindia.org/medicine-brand-details/16758/zoamet-nasal-drops,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,25.52
+ZENFLOX EYE DPS,//www.medicineindia.org/medicine-brand-details/15632/zenflox-eye-dps,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,21.00
+ZYMAR,//www.medicineindia.org/medicine-brand-details/18383/zymar,Allergan India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/721/allergan-india-ltd,39.12
+ZOXAN EYE,//www.medicineindia.org/medicine-brand-details/15601/zoxan-eye,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,7.10
+ZEFLOX DPS.,//www.medicineindia.org/medicine-brand-details/15614/zeflox-dps,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,11.80
+ZANOVID DPS,//www.medicineindia.org/medicine-brand-details/15631/zanovid-dps,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,18.00
+ZO EYE DPS,//www.medicineindia.org/medicine-brand-details/15633/zo-eye-dps,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.90
+ZENGAT DPS.,//www.medicineindia.org/medicine-brand-details/15652/zengat-dps,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,19.92
+ZOSPAR DPS,//www.medicineindia.org/medicine-brand-details/15643/zospar-dps,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,24.75
+ZOCON EYE DROPS,//www.medicineindia.org/medicine-brand-details/15759/zocon-eye-drops,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,29.50
+ZYRTEC,//www.medicineindia.org/medicine-brand-details/11168/zyrtec,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,0.00
+ZANOCIN EYE,//www.medicineindia.org/medicine-brand-details/15630/zanocin-eye,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,22.00
+ZIGAT DPS,//www.medicineindia.org/medicine-brand-details/15653/zigat-dps,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,25.00
+ZYTEE,//www.medicineindia.org/medicine-brand-details/18367/zytee,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,35.00
+ZOBID GEL,//www.medicineindia.org/medicine-brand-details/11542/zobid-gel,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,31.00
+ZERODOL GEL,//www.medicineindia.org/medicine-brand-details/11544/zerodol-gel,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,50.10
+ZOLANDIN GEL,//www.medicineindia.org/medicine-brand-details/11569/zolandin-gel,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,25.40
+ZOKEN GEL,//www.medicineindia.org/medicine-brand-details/11580/zoken-gel,Sigma Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/66/sigma-laboratories-ltd,30.00
+ZOKEN GEL,//www.medicineindia.org/medicine-brand-details/11580/zoken-gel,Sigma Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/66/sigma-laboratories-ltd,10.00
+ZO,//www.medicineindia.org/medicine-brand-details/5088/zo,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,38.00
+ZENFLOX,//www.medicineindia.org/medicine-brand-details/5085/zenflox,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,39.90
+ZANOVID,//www.medicineindia.org/medicine-brand-details/5084/zanovid,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,59.00
+ZOCON,//www.medicineindia.org/medicine-brand-details/6620/zocon,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,69.00
+ZANOCIN,//www.medicineindia.org/medicine-brand-details/5082/zanocin,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,103.00
+ZOVIRAX I.V,//www.medicineindia.org/medicine-brand-details/7017/zovirax-iv,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,685.00
+ZYQUIN,//www.medicineindia.org/medicine-brand-details/5423/zyquin,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,125.48
+ZUBACEF,//www.medicineindia.org/medicine-brand-details/4549/zubacef,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,41.30
+ZUBACEF,//www.medicineindia.org/medicine-brand-details/4549/zubacef,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,73.00
+ZUBACEF,//www.medicineindia.org/medicine-brand-details/4549/zubacef,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,132.30
+ZEBOL,//www.medicineindia.org/medicine-brand-details/15485/zebol,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,190.00
+ZEXATE,//www.medicineindia.org/medicine-brand-details/11471/zexate,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,48.00
+ZYNAC,//www.medicineindia.org/medicine-brand-details/1647/zynac,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,75.00
+ZEEDRON,//www.medicineindia.org/medicine-brand-details/10181/zeedron,Guruchem Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/648/guruchem-laboratories-pvt-ltd,2.70
+ZOFER,//www.medicineindia.org/medicine-brand-details/10182/zofer,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,28.00
+ZONDAN,//www.medicineindia.org/medicine-brand-details/10184/zondan,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,33.50
+ZEEDRON,//www.medicineindia.org/medicine-brand-details/10181/zeedron,Guruchem Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/648/guruchem-laboratories-pvt-ltd,3.80
+ZOFER,//www.medicineindia.org/medicine-brand-details/10182/zofer,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,40.00
+ZONDAN,//www.medicineindia.org/medicine-brand-details/10184/zondan,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,57.60
+ZENOTIC KIT,//www.medicineindia.org/medicine-brand-details/5457/zenotic-kit,Plethico Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/227/plethico-pharmaceuticals,7.96
+ZEBOL,//www.medicineindia.org/medicine-brand-details/15485/zebol,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,52.00
+ZORAN,//www.medicineindia.org/medicine-brand-details/12307/zoran,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,2.58
+ZINETAC,//www.medicineindia.org/medicine-brand-details/12306/zinetac,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,2.67
+ZOBID,//www.medicineindia.org/medicine-brand-details/1543/zobid,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,5.80
+ZECEF,//www.medicineindia.org/medicine-brand-details/4065/zecef,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,15.00
+ZAVINEX,//www.medicineindia.org/medicine-brand-details/6988/zavinex,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,99.03
+ZOLADEX,//www.medicineindia.org/medicine-brand-details/17085/zoladex,Astra Zeneca,//www.medicineindia.org/medicine-manufacturing-company/83/astra-zeneca,8910.00
+ZOROVON,//www.medicineindia.org/medicine-brand-details/1454/zorovon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,12.50
+ZAVINEX,//www.medicineindia.org/medicine-brand-details/6988/zavinex,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,1498.03
+ZEBOL,//www.medicineindia.org/medicine-brand-details/15485/zebol,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,98.00
+ZEXATE,//www.medicineindia.org/medicine-brand-details/11471/zexate,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,60.50
+ZECEF,//www.medicineindia.org/medicine-brand-details/4065/zecef,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,24.00
+ZENOTIC KIT,//www.medicineindia.org/medicine-brand-details/5457/zenotic-kit,Plethico Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/227/plethico-pharmaceuticals,8.97
+ZOLPANZ IV,//www.medicineindia.org/medicine-brand-details/13000/zolpanz-iv,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,49.00
+ZOSYN,//www.medicineindia.org/medicine-brand-details/3607/zosyn,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,967.71
+ZITHROCIN,//www.medicineindia.org/medicine-brand-details/5784/zithrocin,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,19.98
+ZEDOXIL,//www.medicineindia.org/medicine-brand-details/3870/zedoxil,Acron Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/75/acron-pharmaceuticals,20.95
+ZOSEC-PRO KIT,//www.medicineindia.org/medicine-brand-details/12741/zosec-pro-kit,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,6.00
+ZUCOX-3,//www.medicineindia.org/medicine-brand-details/6289/zucox-3,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,9.08
+ZUCOX-4 KIT,//www.medicineindia.org/medicine-brand-details/6375/zucox-4-kit,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,14.79
+ZUCOX KIT,//www.medicineindia.org/medicine-brand-details/6340/zucox-kit,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,16.50
+ZOCON-T KIT,//www.medicineindia.org/medicine-brand-details/6669/zocon-t-kit,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,37.75
+ZOCON-AS KIT,//www.medicineindia.org/medicine-brand-details/6677/zocon-as-kit,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,79.00
+ZOVANTA KIT,//www.medicineindia.org/medicine-brand-details/13208/zovanta-kit,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,36.00
+ZINCOFER,//www.medicineindia.org/medicine-brand-details/17906/zincofer,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,61.07
+ZIMBA,//www.medicineindia.org/medicine-brand-details/10557/zimba,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,24.90
+ZITHROCIN,//www.medicineindia.org/medicine-brand-details/5784/zithrocin,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,27.00
+ZITHROCIN,//www.medicineindia.org/medicine-brand-details/5784/zithrocin,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,41.40
+ZOLE-F,//www.medicineindia.org/medicine-brand-details/16316/zole-f,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,25.50
+ZOFLUT,//www.medicineindia.org/medicine-brand-details/16485/zoflut,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,57.75
+ZODERM,//www.medicineindia.org/medicine-brand-details/16272/zoderm,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,71.11
+ZOLE,//www.medicineindia.org/medicine-brand-details/16270/zole,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,21.00
+ZISPER-LS,//www.medicineindia.org/medicine-brand-details/18824/zisper-ls,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,33.00
+ZISPER PLUS,//www.medicineindia.org/medicine-brand-details/18823/zisper-plus,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,37.00
+ZISPER FORTE,//www.medicineindia.org/medicine-brand-details/18822/zisper-forte,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,38.50
+ZOLE-F,//www.medicineindia.org/medicine-brand-details/16316/zole-f,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,41.25
+ZINCODERM-S,//www.medicineindia.org/medicine-brand-details/16554/zincoderm-s,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,48.00
+ZOFLUT,//www.medicineindia.org/medicine-brand-details/16485/zoflut,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,45.00
+ZOXAN EYE,//www.medicineindia.org/medicine-brand-details/15601/zoxan-eye,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,4.26
+ZOLE,//www.medicineindia.org/medicine-brand-details/16270/zole,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,32.60
+ZOVIRAX OPHTHALMIC OINT.,//www.medicineindia.org/medicine-brand-details/15768/zovirax-ophthalmic-oint,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,37.04
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,75.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,20.70
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,110.00
+ZIDOVIR,//www.medicineindia.org/medicine-brand-details/6926/zidovir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,71.28
+ZOLE OVULES,//www.medicineindia.org/medicine-brand-details/16271/zole-ovules,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,35.30
+ZOAMET NASAL DROPS,//www.medicineindia.org/medicine-brand-details/16758/zoamet-nasal-drops,East India Pharmaceuticals Works Ltd.,//www.medicineindia.org/medicine-manufacturing-company/103/east-india-pharmaceuticals-works-ltd,23.24
+ZEFRICH,//www.medicineindia.org/medicine-brand-details/17267/zefrich,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,60.00
+ZEFRICH,//www.medicineindia.org/medicine-brand-details/17267/zefrich,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,110.00
+ZEST,//www.medicineindia.org/medicine-brand-details/17268/zest,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,96.25
+ZOLE,//www.medicineindia.org/medicine-brand-details/16270/zole,Rexcel Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/165/rexcel-pharmaceuticals,18.50
+ZETANOL,//www.medicineindia.org/medicine-brand-details/18678/zetanol,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,50.00
+ZOMATRIL,//www.medicineindia.org/medicine-brand-details/13613/zomatril,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,5.00
+ZOMATRIL,//www.medicineindia.org/medicine-brand-details/13613/zomatril,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,9.00
+ZYREM,//www.medicineindia.org/medicine-brand-details/20637/zyrem,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,74.17
+ZINFEX-AO,//www.medicineindia.org/medicine-brand-details/18203/zinfex-ao,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,257.00
+ZEVA SOFTULE,//www.medicineindia.org/medicine-brand-details/17725/zeva-softule,Wander Pvt. Limited,//www.medicineindia.org/medicine-manufacturing-company/212/wander-pvt-limited,29.50
+ZYTEE,//www.medicineindia.org/medicine-brand-details/18367/zytee,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,35.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,53.60
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,230.40
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,1722.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,32.40
+ZYMMUNE,//www.medicineindia.org/medicine-brand-details/11451/zymmune,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,6170.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,32.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,1020.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,128.00
+ZYLO-P,//www.medicineindia.org/medicine-brand-details/16102/zylo-p,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,19.60
+ZEROSTAT V SPACER,//www.medicineindia.org/medicine-brand-details/11063/zerostat-v-spacer,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,180.00
+ZESTCAL,//www.medicineindia.org/medicine-brand-details/12190/zestcal,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,28.00
+ZOAC-M,//www.medicineindia.org/medicine-brand-details/13712/zoac-m,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,25.00
+ZENOTIN SUSP.,//www.medicineindia.org/medicine-brand-details/14076/zenotin-susp,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,28.95
+ZENFLOX-OZ,//www.medicineindia.org/medicine-brand-details/14165/zenflox-oz,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,29.95
+ZIFI - LB,//www.medicineindia.org/medicine-brand-details/4571/zifi-lb,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,48.00
+ZOCOLD,//www.medicineindia.org/medicine-brand-details/673/zocold,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,23.90
+ZUPAR,//www.medicineindia.org/medicine-brand-details/1254/zupar,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,10.49
+ZITHROX,//www.medicineindia.org/medicine-brand-details/18395/zithrox,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,18.70
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZITHIUM,//www.medicineindia.org/medicine-brand-details/18492/zithium,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,20.00
+ZADY,//www.medicineindia.org/medicine-brand-details/5780/zady,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,21.00
+ZENTEL,//www.medicineindia.org/medicine-brand-details/7184/zentel,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,16.00
+ZOXIL,//www.medicineindia.org/medicine-brand-details/3871/zoxil,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,20.36
+ZEFDINIR,//www.medicineindia.org/medicine-brand-details/4325/zefdinir,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,95.00
+ZEROWORM,//www.medicineindia.org/medicine-brand-details/7185/zeroworm,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,13.90
+ZENTEL,//www.medicineindia.org/medicine-brand-details/7184/zentel,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,25.00
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,29.00
+ZENTEL,//www.medicineindia.org/medicine-brand-details/7184/zentel,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,53.50
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,21.00
+ZEDOXIL,//www.medicineindia.org/medicine-brand-details/3870/zedoxil,Acron Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/75/acron-pharmaceuticals,29.40
+ZOXIL,//www.medicineindia.org/medicine-brand-details/3871/zoxil,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,30.34
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,236.40
+ZYNCET,//www.medicineindia.org/medicine-brand-details/11167/zyncet,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,28.00
+ZEDOCEF,//www.medicineindia.org/medicine-brand-details/18396/zedocef,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,54.32
+ZYDOL,//www.medicineindia.org/medicine-brand-details/1158/zydol,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,13.95
+ZEOF,//www.medicineindia.org/medicine-brand-details/5086/zeof,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,24.00
+ZOLANDIN.,//www.medicineindia.org/medicine-brand-details/1156/zolandin,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,14.70
+ZEGA,//www.medicineindia.org/medicine-brand-details/1154/zega,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,14.95
+ZENFLOX,//www.medicineindia.org/medicine-brand-details/5085/zenflox,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,26.95
+ZEET LINCTUS,//www.medicineindia.org/medicine-brand-details/10694/zeet-linctus,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,29.00
+ZINFEX,//www.medicineindia.org/medicine-brand-details/17733/zinfex,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,30.53
+ZOCOB,//www.medicineindia.org/medicine-brand-details/10705/zocob,Guruchem Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/648/guruchem-laboratories-pvt-ltd,32.40
+ZEVIT,//www.medicineindia.org/medicine-brand-details/18147/zevit,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,36.00
+ZEET EXP.,//www.medicineindia.org/medicine-brand-details/10819/zeet-exp,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,42.00
+ZEVA SYRUP,//www.medicineindia.org/medicine-brand-details/17726/zeva-syrup,Wander Pvt. Limited,//www.medicineindia.org/medicine-manufacturing-company/212/wander-pvt-limited,48.25
+ZEDEX,//www.medicineindia.org/medicine-brand-details/10704/zedex,Tridoss Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/445/tridoss-laboratories-pvt-ltd,49.35
+ZENGLOBIN,//www.medicineindia.org/medicine-brand-details/17907/zenglobin,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,60.00
+ZINCOA SYR.,//www.medicineindia.org/medicine-brand-details/17728/zincoa-syr,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,40.95
+ZENTOP,//www.medicineindia.org/medicine-brand-details/18263/zentop,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,41.00
+ZYP,//www.medicineindia.org/medicine-brand-details/17269/zyp,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,45.00
+ZINCOVIT SYR,//www.medicineindia.org/medicine-brand-details/17732/zincovit-syr,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,58.00
+ZEST,//www.medicineindia.org/medicine-brand-details/17268/zest,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,65.00
+ZICOLD SYR,//www.medicineindia.org/medicine-brand-details/740/zicold-syr,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,20.00
+ZEDEX-P,//www.medicineindia.org/medicine-brand-details/10833/zedex-p,Wockhardt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/13/wockhardt-ltd,24.50
+ZIRLON-AH,//www.medicineindia.org/medicine-brand-details/10593/zirlon-ah,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,34.90
+ZEROSMA,//www.medicineindia.org/medicine-brand-details/10961/zerosma,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,56.10
+ZYRTEC,//www.medicineindia.org/medicine-brand-details/11168/zyrtec,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,0.00
+ZIPCET,//www.medicineindia.org/medicine-brand-details/11220/zipcet,Liva Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/195/liva-healthcare-ltd,25.00
+ZINCRIS,//www.medicineindia.org/medicine-brand-details/18526/zincris,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,24.00
+ZOTER,//www.medicineindia.org/medicine-brand-details/11270/zoter,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,22.98
+ZIMAT,//www.medicineindia.org/medicine-brand-details/11165/zimat,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,24.25
+ZYRTEC,//www.medicineindia.org/medicine-brand-details/11168/zyrtec,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,30.83
+ZADINE,//www.medicineindia.org/medicine-brand-details/11310/zadine,Fulford (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/111/fulford-india-ltd,38.00
+ZARONTIN,//www.medicineindia.org/medicine-brand-details/10268/zarontin,Parke - Davis (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/144/parke-davis-india-ltd,49.00
+ZYDE-MF,//www.medicineindia.org/medicine-brand-details/14918/zyde-mf,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,0.00
+ZYMETS,//www.medicineindia.org/medicine-brand-details/13272/zymets,Parke - Davis (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/144/parke-davis-india-ltd,5.00
+ZEPRO-M,//www.medicineindia.org/medicine-brand-details/9385/zepro-m,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,10.00
+ZEDONAC,//www.medicineindia.org/medicine-brand-details/1987/zedonac,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,10.00
+ZEET EXP.T,//www.medicineindia.org/medicine-brand-details/10607/zeet-expt,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,11.00
+ZOPAX PLUS,//www.medicineindia.org/medicine-brand-details/9387/zopax-plus,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,11.00
+ZIMALGIN,//www.medicineindia.org/medicine-brand-details/2014/zimalgin,Rallis India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/47/rallis-india-ltd,12.91
+ZEPRO,//www.medicineindia.org/medicine-brand-details/9384/zepro,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,13.50
+ZICOLD TAB,//www.medicineindia.org/medicine-brand-details/713/zicold-tab,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,14.75
+ZOCOLD,//www.medicineindia.org/medicine-brand-details/673/zocold,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,15.00
+ZIDMIN,//www.medicineindia.org/medicine-brand-details/14858/zidmin,Wockhardt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/13/wockhardt-ltd,15.25
+ZONOR,//www.medicineindia.org/medicine-brand-details/13828/zonor,Bombay Tablet Mfg. Co. Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/199/bombay-tablet-mfg-co-pvt-ltd,16.00
+ZODAL,//www.medicineindia.org/medicine-brand-details/2881/zodal,MERIDIAN MEDICARE,//www.medicineindia.org/medicine-manufacturing-company/269/meridian-medicare,16.00
+ZE-SPAS,//www.medicineindia.org/medicine-brand-details/2921/ze-spas,Kee Pharma Ltd.,//www.medicineindia.org/medicine-manufacturing-company/335/kee-pharma-ltd,16.25
+ZINCOFER.,//www.medicineindia.org/medicine-brand-details/17955/zincofer,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,18.47
+ZILOS- AM,//www.medicineindia.org/medicine-brand-details/7674/zilos-am,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZIGLIM- M1,//www.medicineindia.org/medicine-brand-details/14989/ziglim-m1,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZYTONIN,//www.medicineindia.org/medicine-brand-details/9166/zytonin,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,19.15
+ZIDON-P,//www.medicineindia.org/medicine-brand-details/2444/zidon-p,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,22.50
+ZIDON PLUS,//www.medicineindia.org/medicine-brand-details/2443/zidon-plus,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,22.50
+ZIX-P,//www.medicineindia.org/medicine-brand-details/1739/zix-p,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,24.00
+ZELID PLUS,//www.medicineindia.org/medicine-brand-details/926/zelid-plus,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,24.00
+ZINCOVIT CAPS.,//www.medicineindia.org/medicine-brand-details/17730/zincovit-caps,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,25.00
+ZOMITAC,//www.medicineindia.org/medicine-brand-details/12382/zomitac,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,25.00
+ZAMOL,//www.medicineindia.org/medicine-brand-details/925/zamol,NORWEST PHARMA,//www.medicineindia.org/medicine-manufacturing-company/300/norwest-pharma,25.00
+ZILMET,//www.medicineindia.org/medicine-brand-details/14917/zilmet,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,26.00
+ZYNCET-D,//www.medicineindia.org/medicine-brand-details/10412/zyncet-d,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,26.50
+ZOXAPAR,//www.medicineindia.org/medicine-brand-details/11719/zoxapar,Mac Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/220/mac-laboratories-ltd,27.00
+ZUMY,//www.medicineindia.org/medicine-brand-details/11827/zumy,BIOCIN HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/379/biocin-healthcare,27.00
+ZOFEN-PLUS,//www.medicineindia.org/medicine-brand-details/1740/zofen-plus,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,29.00
+ZIGLIM- M2,//www.medicineindia.org/medicine-brand-details/14990/ziglim-m2,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,29.00
+ZABESTA-XLO,//www.medicineindia.org/medicine-brand-details/7375/zabesta-xlo,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,29.00
+ZIRLON-AH,//www.medicineindia.org/medicine-brand-details/10593/zirlon-ah,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,29.80
+ZOA FORTE,//www.medicineindia.org/medicine-brand-details/6798/zoa-forte,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,30.00
+ZOXIN,//www.medicineindia.org/medicine-brand-details/11721/zoxin,REMED H.CARE,//www.medicineindia.org/medicine-manufacturing-company/573/remed-hcare,30.00
+ZIVAST-AM,//www.medicineindia.org/medicine-brand-details/8964/zivast-am,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,30.00
+ZERODOL P,//www.medicineindia.org/medicine-brand-details/1738/zerodol-p,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,30.25
+ZOLRAN,//www.medicineindia.org/medicine-brand-details/9386/zolran,QUIXOTIC PHRAMA,//www.medicineindia.org/medicine-manufacturing-company/299/quixotic-phrama,31.00
+ZALIDE,//www.medicineindia.org/medicine-brand-details/11821/zalide,ACTIVE H.CARE,//www.medicineindia.org/medicine-manufacturing-company/178/active-hcare,35.00
+ZENOTIN FORTE,//www.medicineindia.org/medicine-brand-details/14049/zenotin-forte,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,35.94
+ZIX-S,//www.medicineindia.org/medicine-brand-details/1760/zix-s,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,37.90
+ZILMET,//www.medicineindia.org/medicine-brand-details/14917/zilmet,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,40.00
+ZEFORMIN XR,//www.medicineindia.org/medicine-brand-details/14916/zeformin-xr,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,40.00
+ZOREP 1,//www.medicineindia.org/medicine-brand-details/15144/zorep-1,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,40.00
+ZORYL-M1,//www.medicineindia.org/medicine-brand-details/14991/zoryl-m1,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,43.00
+ZABESTA-XLO,//www.medicineindia.org/medicine-brand-details/7375/zabesta-xlo,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,44.64
+ZONAPRIL H,//www.medicineindia.org/medicine-brand-details/7924/zonapril-h,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,45.00
+ZINASE-A,//www.medicineindia.org/medicine-brand-details/1766/zinase-a,Rapross Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/229/rapross-pharmaceuticals-pvt-ltd,45.00
+ZARLODIP,//www.medicineindia.org/medicine-brand-details/7673/zarlodip,Grandix Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/394/grandix-pharmaceuticals-ltd,45.00
+ZAPDASE,//www.medicineindia.org/medicine-brand-details/2231/zapdase,NORWEST PHARMA,//www.medicineindia.org/medicine-manufacturing-company/300/norwest-pharma,45.00
+ZACNASE,//www.medicineindia.org/medicine-brand-details/11342/zacnase,INSTANT REMEDIES,//www.medicineindia.org/medicine-manufacturing-company/542/instant-remedies,47.00
+ZERODOL S,//www.medicineindia.org/medicine-brand-details/1765/zerodol-s,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,47.75
+ZIPRIL-H,//www.medicineindia.org/medicine-brand-details/7981/zipril-h,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,49.00
+ZELID-TZ,//www.medicineindia.org/medicine-brand-details/11822/zelid-tz,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,49.00
+ZIDON-PZ,//www.medicineindia.org/medicine-brand-details/13124/zidon-pz,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,49.00
+ZINASE-AP,//www.medicineindia.org/medicine-brand-details/1759/zinase-ap,Rapross Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/229/rapross-pharmaceuticals-pvt-ltd,49.50
+ZOXAN-TZ,//www.medicineindia.org/medicine-brand-details/13963/zoxan-tz,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,49.67
+ZERODOL MR,//www.medicineindia.org/medicine-brand-details/1762/zerodol-mr,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,50.00
+ZOTADOL-PLUS,//www.medicineindia.org/medicine-brand-details/952/zotadol-plus,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,50.00
+ZAPDIC,//www.medicineindia.org/medicine-brand-details/11854/zapdic,NORWEST PHARMA,//www.medicineindia.org/medicine-manufacturing-company/300/norwest-pharma,50.00
+ZAART-H,//www.medicineindia.org/medicine-brand-details/8077/zaart-h,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,50.29
+ZOXAPHEN,//www.medicineindia.org/medicine-brand-details/11720/zoxaphen,CHEMO DRUGS,//www.medicineindia.org/medicine-manufacturing-company/268/chemo-drugs,51.00
+ZORNO,//www.medicineindia.org/medicine-brand-details/14169/zorno,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,51.00
+ZANOBID TZ,//www.medicineindia.org/medicine-brand-details/14045/zanobid-tz,THURS PHARMA,//www.medicineindia.org/medicine-manufacturing-company/440/thurs-pharma,52.00
+ZINASE-D,//www.medicineindia.org/medicine-brand-details/1890/zinase-d,Rapross Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/229/rapross-pharmaceuticals-pvt-ltd,52.50
+ZOFLEX,//www.medicineindia.org/medicine-brand-details/11663/zoflex,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,52.50
+ZOAC,//www.medicineindia.org/medicine-brand-details/13827/zoac,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,53.00
+ZOREP 2,//www.medicineindia.org/medicine-brand-details/15145/zorep-2,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,55.00
+ZEFLOX-TN,//www.medicineindia.org/medicine-brand-details/13826/zeflox-tn,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,55.00
+ZERO-M,//www.medicineindia.org/medicine-brand-details/14167/zero-m,REKVINA PHARMA,//www.medicineindia.org/medicine-manufacturing-company/240/rekvina-pharma,56.00
+ZEFORMIN XR,//www.medicineindia.org/medicine-brand-details/14916/zeformin-xr,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,56.50
+ZARGO-H,//www.medicineindia.org/medicine-brand-details/8078/zargo-h,Biocon Limited,//www.medicineindia.org/medicine-manufacturing-company/699/biocon-limited,58.00
+ZORYL-M2,//www.medicineindia.org/medicine-brand-details/14992/zoryl-m2,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,59.00
+ZULU V,//www.medicineindia.org/medicine-brand-details/11862/zulu-v,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,59.00
+ZOMAC-TZ,//www.medicineindia.org/medicine-brand-details/13962/zomac-tz,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,60.00
+ZEROBAC-TZ,//www.medicineindia.org/medicine-brand-details/14050/zerobac-tz,SYMBIOSIS LAB,//www.medicineindia.org/medicine-manufacturing-company/294/symbiosis-lab,60.00
+ZINASE-DP,//www.medicineindia.org/medicine-brand-details/1818/zinase-dp,Rapross Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/229/rapross-pharmaceuticals-pvt-ltd,63.00
+ZOLANDIN-MR,//www.medicineindia.org/medicine-brand-details/11823/zolandin-mr,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,64.99
+ZULU,//www.medicineindia.org/medicine-brand-details/11825/zulu,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,66.75
+ZITELMI-H,//www.medicineindia.org/medicine-brand-details/8152/zitelmi-h,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,68.00
+ZEOF-O,//www.medicineindia.org/medicine-brand-details/14166/zeof-o,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,68.00
+ZIPRON-TZ,//www.medicineindia.org/medicine-brand-details/13961/zipron-tz,PIFER PHARMA,//www.medicineindia.org/medicine-manufacturing-company/391/pifer-pharma,70.00
+ZULU FORTE,//www.medicineindia.org/medicine-brand-details/11826/zulu-forte,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,71.00
+ZIL-O,//www.medicineindia.org/medicine-brand-details/14168/zil-o,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,73.00
+ZANOFLOX-TZ,//www.medicineindia.org/medicine-brand-details/14048/zanoflox-tz,Mediwin Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/175/mediwin-pharmaceuticals,78.00
+ZOGRELL-A,//www.medicineindia.org/medicine-brand-details/8728/zogrell-a,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,79.00
+ZESTAT,//www.medicineindia.org/medicine-brand-details/9025/zestat,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,79.00
+ZOTHRA,//www.medicineindia.org/medicine-brand-details/5853/zothra,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,81.40
+ZESTOR,//www.medicineindia.org/medicine-brand-details/9026/zestor,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,85.00
+ZANOCIN TZ,//www.medicineindia.org/medicine-brand-details/14046/zanocin-tz,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,85.00
+ZETISTAT,//www.medicineindia.org/medicine-brand-details/9027/zetistat,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,95.00
+ZETITOR,//www.medicineindia.org/medicine-brand-details/9028/zetitor,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,100.00
+ZIPOD-CV,//www.medicineindia.org/medicine-brand-details/18966/zipod-cv,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,115.00
+ZESTAT,//www.medicineindia.org/medicine-brand-details/9025/zestat,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,150.00
+ZOGLI,//www.medicineindia.org/medicine-brand-details/15143/zogli,Ordain Health Care Pvt Ltd,//www.medicineindia.org/medicine-manufacturing-company/308/ordain-health-care-pvt-ltd,151.00
+ZIDOLAM,//www.medicineindia.org/medicine-brand-details/6956/zidolam,Genix Pharma,//www.medicineindia.org/medicine-manufacturing-company/589/genix-pharma,274.00
+ZINCOFER NURTURE,//www.medicineindia.org/medicine-brand-details/17867/zincofer-nurture,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,202.00
+ZINCOFER NURTURE,//www.medicineindia.org/medicine-brand-details/17867/zincofer-nurture,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,202.00
+ZINCOFER NURTURE,//www.medicineindia.org/medicine-brand-details/17867/zincofer-nurture,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,202.00
+ZANOCIN TZ (H),//www.medicineindia.org/medicine-brand-details/14047/zanocin-tz-h,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,65.50
+ZANOCIN TZ,//www.medicineindia.org/medicine-brand-details/14046/zanocin-tz,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,112.00
+ZO-T,//www.medicineindia.org/medicine-brand-details/14051/zo-t,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,27.00
+ZENFLOX-OZ,//www.medicineindia.org/medicine-brand-details/14165/zenflox-oz,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,37.50
+ZIVAST F,//www.medicineindia.org/medicine-brand-details/8992/zivast-f,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,62.30
+ZALLPAM,//www.medicineindia.org/medicine-brand-details/9329/zallpam,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,1.00
+ZOZO,//www.medicineindia.org/medicine-brand-details/9344/zozo,Globus,//www.medicineindia.org/medicine-manufacturing-company/659/globus,5.90
+ZOPIC,//www.medicineindia.org/medicine-brand-details/9342/zopic,Centaur Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/60/centaur-laboratories-p-ltd,6.39
+ZOTAM,//www.medicineindia.org/medicine-brand-details/9343/zotam,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,7.00
+ZENAX,//www.medicineindia.org/medicine-brand-details/9333/zenax,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,7.47
+ZOLOID,//www.medicineindia.org/medicine-brand-details/9339/zoloid,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,7.50
+ZAMITOL,//www.medicineindia.org/medicine-brand-details/9330/zamitol,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,8.00
+ZOPAX,//www.medicineindia.org/medicine-brand-details/9341/zopax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,8.00
+ZOLIN,//www.medicineindia.org/medicine-brand-details/9338/zolin,LINCOLN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/207/lincoln-pharma,8.50
+ZOMARK,//www.medicineindia.org/medicine-brand-details/9340/zomark,Unimarck Pharma (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/99/unimarck-pharma-india-ltd,9.00
+ZOCAM,//www.medicineindia.org/medicine-brand-details/9334/zocam,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,9.00
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,9.52
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,9.58
+ZOLDAC,//www.medicineindia.org/medicine-brand-details/9337/zoldac,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,10.00
+ZEFTRA,//www.medicineindia.org/medicine-brand-details/9332/zeftra,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,7.00
+ZOZO,//www.medicineindia.org/medicine-brand-details/9344/zozo,Globus,//www.medicineindia.org/medicine-manufacturing-company/659/globus,10.90
+ZOPIC,//www.medicineindia.org/medicine-brand-details/9342/zopic,Centaur Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/60/centaur-laboratories-p-ltd,11.57
+ZOTAM,//www.medicineindia.org/medicine-brand-details/9343/zotam,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,11.90
+ZENAX,//www.medicineindia.org/medicine-brand-details/9333/zenax,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,12.87
+ZOLOID,//www.medicineindia.org/medicine-brand-details/9339/zoloid,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,13.00
+ZAMITOL,//www.medicineindia.org/medicine-brand-details/9330/zamitol,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,13.36
+ZOLIN,//www.medicineindia.org/medicine-brand-details/9338/zolin,LINCOLN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/207/lincoln-pharma,15.00
+ZOPAX,//www.medicineindia.org/medicine-brand-details/9341/zopax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,15.00
+ZOCAM,//www.medicineindia.org/medicine-brand-details/9334/zocam,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,16.00
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,16.25
+ZOLDAC,//www.medicineindia.org/medicine-brand-details/9337/zoldac,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,16.50
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,16.94
+ZEPAM,//www.medicineindia.org/medicine-brand-details/9423/zepam,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,18.00
+ZEE,//www.medicineindia.org/medicine-brand-details/9422/zee,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,19.00
+ZICAM,//www.medicineindia.org/medicine-brand-details/9424/zicam,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,22.80
+ZYCOLCHIN,//www.medicineindia.org/medicine-brand-details/2823/zycolchin,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,33.03
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,34.00
+ZETIFFEN,//www.medicineindia.org/medicine-brand-details/18460/zetiffen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,0.00
+ZEPNAP,//www.medicineindia.org/medicine-brand-details/9205/zepnap,LA Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/139/la-pharmaceuticals,5.00
+ZISPER,//www.medicineindia.org/medicine-brand-details/9964/zisper,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,7.00
+ZEPID,//www.medicineindia.org/medicine-brand-details/9963/zepid,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,8.50
+ZIGLIM,//www.medicineindia.org/medicine-brand-details/14741/ziglim,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,10.00
+ZOPIC,//www.medicineindia.org/medicine-brand-details/9342/zopic,Centaur Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/60/centaur-laboratories-p-ltd,15.60
+ZOLOID,//www.medicineindia.org/medicine-brand-details/9339/zoloid,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,18.00
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,18.25
+ZAMITOL,//www.medicineindia.org/medicine-brand-details/9330/zamitol,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,18.81
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,20.26
+ZEROSMA,//www.medicineindia.org/medicine-brand-details/10961/zerosma,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,20.65
+ZOLIN,//www.medicineindia.org/medicine-brand-details/9338/zolin,LINCOLN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/207/lincoln-pharma,21.00
+ZEPAM,//www.medicineindia.org/medicine-brand-details/9423/zepam,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,28.00
+ZORYL,//www.medicineindia.org/medicine-brand-details/14742/zoryl,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,29.00
+ZICAM,//www.medicineindia.org/medicine-brand-details/9424/zicam,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,29.00
+ZADINE,//www.medicineindia.org/medicine-brand-details/11310/zadine,Fulford (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/111/fulford-india-ltd,29.45
+ZETPRIL,//www.medicineindia.org/medicine-brand-details/7913/zetpril,Genix Pharma,//www.medicineindia.org/medicine-manufacturing-company/589/genix-pharma,30.00
+ZEE,//www.medicineindia.org/medicine-brand-details/9422/zee,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,34.00
+ZYTRIN,//www.medicineindia.org/medicine-brand-details/7309/zytrin,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,80.17
+ZOACIDE,//www.medicineindia.org/medicine-brand-details/6725/zoacide,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,8.75
+ZIL,//www.medicineindia.org/medicine-brand-details/6724/zil,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,25.45
+ZIPRIL,//www.medicineindia.org/medicine-brand-details/7911/zipril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,22.50
+ZOR,//www.medicineindia.org/medicine-brand-details/9866/zor,PIFER PHARMA,//www.medicineindia.org/medicine-manufacturing-company/391/pifer-pharma,10.00
+ZOCOR,//www.medicineindia.org/medicine-brand-details/8843/zocor,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,0.00
+ZECET,//www.medicineindia.org/medicine-brand-details/11163/zecet,CHEMO DRUGS,//www.medicineindia.org/medicine-manufacturing-company/268/chemo-drugs,10.00
+Z-CET,//www.medicineindia.org/medicine-brand-details/11162/z-cet,Centaur Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/60/centaur-laboratories-p-ltd,14.09
+ZIRLON TAB.,//www.medicineindia.org/medicine-brand-details/11166/zirlon-tab,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,19.90
+ZETOP INSTAB,//www.medicineindia.org/medicine-brand-details/11164/zetop-instab,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,23.92
+ZIVAST,//www.medicineindia.org/medicine-brand-details/8935/zivast,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,24.00
+ZOLWAY,//www.medicineindia.org/medicine-brand-details/9157/zolway,LA Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/139/la-pharmaceuticals,25.00
+ZIRTIN,//www.medicineindia.org/medicine-brand-details/18551/zirtin,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,25.70
+ZOROVON,//www.medicineindia.org/medicine-brand-details/1454/zorovon,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,27.50
+ZYRTEC,//www.medicineindia.org/medicine-brand-details/11168/zyrtec,UCB India Private Ltd.,//www.medicineindia.org/medicine-manufacturing-company/686/ucb-india-private-ltd,30.00
+ZYNCET,//www.medicineindia.org/medicine-brand-details/11167/zyncet,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,32.50
+ZETALO,//www.medicineindia.org/medicine-brand-details/9666/zetalo,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,33.00
+ZOPHOST,//www.medicineindia.org/medicine-brand-details/11882/zophost,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,40.00
+ZENSER,//www.medicineindia.org/medicine-brand-details/2341/zenser,VOSTOK&WILCURE,//www.medicineindia.org/medicine-manufacturing-company/296/vostokwilcure,42.00
+ZEN-PRAZOLE,//www.medicineindia.org/medicine-brand-details/12844/zen-prazole,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,45.00
+ZYPINE,//www.medicineindia.org/medicine-brand-details/9925/zypine,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,47.50
+ZINASE FORTE,//www.medicineindia.org/medicine-brand-details/2342/zinase-forte,Rapross Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/229/rapross-pharmaceuticals-pvt-ltd,48.00
+ZEHIST,//www.medicineindia.org/medicine-brand-details/11307/zehist,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,50.00
+ZEM,//www.medicineindia.org/medicine-brand-details/9150/zem,PHARMA DRUGS & CHEMICALS,//www.medicineindia.org/medicine-manufacturing-company/521/pharma-drugs-chemicals,59.00
+ZOLDEM,//www.medicineindia.org/medicine-brand-details/9152/zoldem,Anglo- French Drugs & Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/169/anglo-french-drugs-industries-ltd,59.00
+ZETEZE,//www.medicineindia.org/medicine-brand-details/9074/zeteze,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,59.00
+ZLEEP,//www.medicineindia.org/medicine-brand-details/9151/zleep,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,59.00
+ZOLPID,//www.medicineindia.org/medicine-brand-details/9156/zolpid,Brown & Burk Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/348/brown-burk-pharmaceuticals-ltd,60.00
+ZOLFRESH,//www.medicineindia.org/medicine-brand-details/9153/zolfresh,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,67.00
+ZIVAST-E 10,//www.medicineindia.org/medicine-brand-details/9029/zivast-e-10,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,75.00
+ZOSTA,//www.medicineindia.org/medicine-brand-details/9044/zosta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,77.80
+ZONAPRIL,//www.medicineindia.org/medicine-brand-details/7862/zonapril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,83.00
+ZETICA,//www.medicineindia.org/medicine-brand-details/9075/zetica,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,125.00
+ZYROVA,//www.medicineindia.org/medicine-brand-details/8948/zyrova,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,150.00
+ZAC,//www.medicineindia.org/medicine-brand-details/10226/zac,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,53.00
+ZYDOM-DT,//www.medicineindia.org/medicine-brand-details/2521/zydom-dt,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,10.00
+ZELET,//www.medicineindia.org/medicine-brand-details/11244/zelet,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,50.00
+ZYNICOR,//www.medicineindia.org/medicine-brand-details/8300/zynicor,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,239.61
+ZYDALIS,//www.medicineindia.org/medicine-brand-details/14553/zydalis,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,72.00
+ZOLDEM,//www.medicineindia.org/medicine-brand-details/9152/zoldem,Anglo- French Drugs & Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/169/anglo-french-drugs-industries-ltd,33.00
+ZESTRIL,//www.medicineindia.org/medicine-brand-details/7861/zestril,ICI India Limited,//www.medicineindia.org/medicine-manufacturing-company/508/ici-india-limited,121.00
+ZEN,//www.medicineindia.org/medicine-brand-details/1404/zen,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,8.00
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,8.62
+ZEPCAR,//www.medicineindia.org/medicine-brand-details/1406/zepcar,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,9.00
+ZENFLOX,//www.medicineindia.org/medicine-brand-details/5085/zenflox,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,12.90
+ZULID MR,//www.medicineindia.org/medicine-brand-details/11824/zulid-mr,SIERRA PHARMA,//www.medicineindia.org/medicine-manufacturing-company/360/sierra-pharma,14.00
+ZULID,//www.medicineindia.org/medicine-brand-details/1157/zulid,SIERRA PHARMA,//www.medicineindia.org/medicine-manufacturing-company/360/sierra-pharma,14.00
+ZIX,//www.medicineindia.org/medicine-brand-details/1646/zix,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,17.90
+ZO,//www.medicineindia.org/medicine-brand-details/5088/zo,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,18.00
+ZELID,//www.medicineindia.org/medicine-brand-details/1155/zelid,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,19.00
+ZYNAC,//www.medicineindia.org/medicine-brand-details/1647/zynac,Zydus Alidac,//www.medicineindia.org/medicine-manufacturing-company/25/zydus-alidac,20.00
+ZOLANDIN.,//www.medicineindia.org/medicine-brand-details/1156/zolandin,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,20.00
+ZEGA,//www.medicineindia.org/medicine-brand-details/1154/zega,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,20.50
+ZERODOL,//www.medicineindia.org/medicine-brand-details/1644/zerodol,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,23.30
+ZEENEE-RR,//www.medicineindia.org/medicine-brand-details/1153/zeenee-rr,ALTAR HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/358/altar-healthcare,24.00
+ZYDOL,//www.medicineindia.org/medicine-brand-details/1158/zydol,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,27.00
+ZYLORIC,//www.medicineindia.org/medicine-brand-details/2833/zyloric,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,27.00
+ZANOBID,//www.medicineindia.org/medicine-brand-details/5081/zanobid,THURS PHARMA,//www.medicineindia.org/medicine-manufacturing-company/440/thurs-pharma,30.00
+ZANOCIN,//www.medicineindia.org/medicine-brand-details/5082/zanocin,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,48.00
+ZOPIN,//www.medicineindia.org/medicine-brand-details/9937/zopin,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,49.00
+ZERT-OD,//www.medicineindia.org/medicine-brand-details/9643/zert-od,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,57.00
+ZOTRAL,//www.medicineindia.org/medicine-brand-details/9646/zotral,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,68.00
+ZOSERT,//www.medicineindia.org/medicine-brand-details/9645/zosert,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,69.00
+ZIDDIVIR,//www.medicineindia.org/medicine-brand-details/6923/ziddivir,SAIN MEDICAMENTS,//www.medicineindia.org/medicine-manufacturing-company/519/sain-medicaments,79.00
+ZIME,//www.medicineindia.org/medicine-brand-details/4540/zime,SIOMOND PHARMA,//www.medicineindia.org/medicine-manufacturing-company/422/siomond-pharma,90.00
+ZILAST,//www.medicineindia.org/medicine-brand-details/8745/zilast,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,99.00
+ZYDOWIN,//www.medicineindia.org/medicine-brand-details/6929/zydowin,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,1000.00
+ZOCON,//www.medicineindia.org/medicine-brand-details/6620/zocon,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,80.00
+ZESTRIL,//www.medicineindia.org/medicine-brand-details/7861/zestril,ICI India Limited,//www.medicineindia.org/medicine-manufacturing-company/508/ici-india-limited,0.00
+ZITHROX,//www.medicineindia.org/medicine-brand-details/18395/zithrox,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,12.90
+ZYTHROL,//www.medicineindia.org/medicine-brand-details/5788/zythrol,NOVAGEN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/576/novagen-pharma,32.00
+ZOSPAR,//www.medicineindia.org/medicine-brand-details/5330/zospar,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,22.00
+ZIBLOK,//www.medicineindia.org/medicine-brand-details/2745/ziblok,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,2.90
+ZOTER,//www.medicineindia.org/medicine-brand-details/11270/zoter,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,41.79
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,93.00
+ZIPDEP,//www.medicineindia.org/medicine-brand-details/9533/zipdep,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,58.00
+ZOCON,//www.medicineindia.org/medicine-brand-details/6620/zocon,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,34.00
+ZINETAC,//www.medicineindia.org/medicine-brand-details/12306/zinetac,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,4.91
+ZORAN,//www.medicineindia.org/medicine-brand-details/12307/zoran,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,5.20
+ZYNOL,//www.medicineindia.org/medicine-brand-details/12308/zynol,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,7.60
+ZOSPRIN,//www.medicineindia.org/medicine-brand-details/8623/zosprin,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,7.90
+ZEDAN,//www.medicineindia.org/medicine-brand-details/5682/zedan,CHEMO DRUGS,//www.medicineindia.org/medicine-manufacturing-company/268/chemo-drugs,70.00
+ZECON,//www.medicineindia.org/medicine-brand-details/6619/zecon,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,99.00
+ZYBAN,//www.medicineindia.org/medicine-brand-details/18430/zyban,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,400.00
+ZEMPRED,//www.medicineindia.org/medicine-brand-details/2370/zempred,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,10.00
+ZISPER,//www.medicineindia.org/medicine-brand-details/9964/zisper,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,12.50
+ZEPID,//www.medicineindia.org/medicine-brand-details/9963/zepid,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,16.00
+ZIGLIM,//www.medicineindia.org/medicine-brand-details/14741/ziglim,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,20.00
+ZORDIL,//www.medicineindia.org/medicine-brand-details/10185/zordil,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,37.00
+ZEPAM,//www.medicineindia.org/medicine-brand-details/9423/zepam,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,38.00
+ZICAM,//www.medicineindia.org/medicine-brand-details/9424/zicam,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,40.00
+ZORYL,//www.medicineindia.org/medicine-brand-details/14742/zoryl,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,54.60
+ZETPRIL,//www.medicineindia.org/medicine-brand-details/7913/zetpril,Genix Pharma,//www.medicineindia.org/medicine-manufacturing-company/589/genix-pharma,56.00
+ZYTRIN,//www.medicineindia.org/medicine-brand-details/7309/zytrin,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,128.26
+ZEE,//www.medicineindia.org/medicine-brand-details/9422/zee,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,10.00
+ZYPINE,//www.medicineindia.org/medicine-brand-details/9925/zypine,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,14.00
+ZONAPRIL,//www.medicineindia.org/medicine-brand-details/7862/zonapril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,18.00
+ZINEBI,//www.medicineindia.org/medicine-brand-details/7348/zinebi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,32.00
+ZENEBI,//www.medicineindia.org/medicine-brand-details/7347/zenebi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,32.00
+ZEXATE,//www.medicineindia.org/medicine-brand-details/11471/zexate,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,33.00
+ZABESTA,//www.medicineindia.org/medicine-brand-details/7331/zabesta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,35.46
+ZIPRIL,//www.medicineindia.org/medicine-brand-details/7911/zipril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,42.00
+ZESTRIL,//www.medicineindia.org/medicine-brand-details/7861/zestril,ICI India Limited,//www.medicineindia.org/medicine-manufacturing-company/508/ici-india-limited,35.15
+ZOCOR,//www.medicineindia.org/medicine-brand-details/8843/zocor,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,0.00
+ZOLEX,//www.medicineindia.org/medicine-brand-details/12998/zolex,Excare Laboratories,//www.medicineindia.org/medicine-manufacturing-company/327/excare-laboratories,25.00
+ZOLPANZ,//www.medicineindia.org/medicine-brand-details/12999/zolpanz,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,26.50
+ZOSEC-S,//www.medicineindia.org/medicine-brand-details/12762/zosec-s,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,34.80
+ZOSEC-M,//www.medicineindia.org/medicine-brand-details/12638/zosec-m,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,39.60
+ZIVAST,//www.medicineindia.org/medicine-brand-details/8935/zivast,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,46.00
+ZETALO,//www.medicineindia.org/medicine-brand-details/9666/zetalo,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,60.50
+ZEN-PRAZOLE,//www.medicineindia.org/medicine-brand-details/12844/zen-prazole,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,65.00
+ZAC,//www.medicineindia.org/medicine-brand-details/10226/zac,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,79.00
+ZIVAST-E 20,//www.medicineindia.org/medicine-brand-details/9030/zivast-e-20,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,99.00
+ZOSTA,//www.medicineindia.org/medicine-brand-details/9044/zosta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,107.80
+ZYROVA,//www.medicineindia.org/medicine-brand-details/8948/zyrova,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,280.00
+ZYDALIS,//www.medicineindia.org/medicine-brand-details/14553/zydalis,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,128.00
+ZESTRIL,//www.medicineindia.org/medicine-brand-details/7861/zestril,ICI India Limited,//www.medicineindia.org/medicine-manufacturing-company/508/ici-india-limited,133.00
+ZINFATE,//www.medicineindia.org/medicine-brand-details/18135/zinfate,Yash Pharma Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/204/yash-pharma-laboratories-pvt-ltd,7.50
+ZEN,//www.medicineindia.org/medicine-brand-details/1404/zen,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,16.00
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,16.56
+ZELID,//www.medicineindia.org/medicine-brand-details/1155/zelid,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,19.00
+ZENFLOX,//www.medicineindia.org/medicine-brand-details/5085/zenflox,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,25.00
+ZEPTIN,//www.medicineindia.org/medicine-brand-details/5421/zeptin,Kentreck Labs Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/76/kentreck-labs-pvt-ltd,38.00
+ZO,//www.medicineindia.org/medicine-brand-details/5088/zo,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,40.00
+ZEROBAC,//www.medicineindia.org/medicine-brand-details/5087/zerobac,SYMBIOSIS LAB,//www.medicineindia.org/medicine-manufacturing-company/294/symbiosis-lab,45.00
+ZEOF,//www.medicineindia.org/medicine-brand-details/5086/zeof,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,50.00
+ZSTOP,//www.medicineindia.org/medicine-brand-details/7195/zstop,Svizera Health Care (Sigma Division),//www.medicineindia.org/medicine-manufacturing-company/244/svizera-health-care-sigma-division,53.00
+ZANOVID,//www.medicineindia.org/medicine-brand-details/5084/zanovid,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,65.00
+ZANOCIN,//www.medicineindia.org/medicine-brand-details/5082/zanocin,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,83.00
+ZIFI,//www.medicineindia.org/medicine-brand-details/4539/zifi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,147.50
+ZIPOD,//www.medicineindia.org/medicine-brand-details/18964/zipod,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,152.00
+ZITOTEC,//www.medicineindia.org/medicine-brand-details/13188/zitotec,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,40.00
+ZOCON,//www.medicineindia.org/medicine-brand-details/6620/zocon,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,89.00
+ZIGAT,//www.medicineindia.org/medicine-brand-details/5422/zigat,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,15.00
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,42.80
+ZOSPAR,//www.medicineindia.org/medicine-brand-details/5330/zospar,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,42.00
+ZOLOFT,//www.medicineindia.org/medicine-brand-details/18988/zoloft,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,0.00
+ZILOS,//www.medicineindia.org/medicine-brand-details/8040/zilos,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,11.00
+ZOPIN,//www.medicineindia.org/medicine-brand-details/9937/zopin,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,15.00
+ZERT-OD,//www.medicineindia.org/medicine-brand-details/9643/zert-od,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,17.00
+ZOTRAL,//www.medicineindia.org/medicine-brand-details/9646/zotral,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,20.00
+ZIFLAM,//www.medicineindia.org/medicine-brand-details/2098/ziflam,Kopran Limited,//www.medicineindia.org/medicine-manufacturing-company/172/kopran-limited,24.00
+ZAART,//www.medicineindia.org/medicine-brand-details/8037/zaart,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,25.68
+ZARGO,//www.medicineindia.org/medicine-brand-details/8038/zargo,Biocon Limited,//www.medicineindia.org/medicine-manufacturing-company/699/biocon-limited,27.00
+ZOSERT,//www.medicineindia.org/medicine-brand-details/9645/zosert,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,31.50
+ZEBAY,//www.medicineindia.org/medicine-brand-details/15054/zebay,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,39.00
+ZIBLOK,//www.medicineindia.org/medicine-brand-details/2745/ziblok,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,4.40
+ZEDIM,//www.medicineindia.org/medicine-brand-details/4172/zedim,UDIK PHARMA,//www.medicineindia.org/medicine-manufacturing-company/353/udik-pharma,98.00
+ZOLAMIDE,//www.medicineindia.org/medicine-brand-details/10374/zolamide,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,11.00
+ZENTOR,//www.medicineindia.org/medicine-brand-details/5177/zentor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,15.00
+ZOXAN,//www.medicineindia.org/medicine-brand-details/4859/zoxan,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.50
+ZIPRON,//www.medicineindia.org/medicine-brand-details/4858/zipron,PIFER PHARMA,//www.medicineindia.org/medicine-manufacturing-company/391/pifer-pharma,30.00
+ZONEMOX,//www.medicineindia.org/medicine-brand-details/3322/zonemox,MEDIZONE,//www.medicineindia.org/medicine-manufacturing-company/286/medizone,35.00
+ZITIS,//www.medicineindia.org/medicine-brand-details/5786/zitis,SCORTIS LABS,//www.medicineindia.org/medicine-manufacturing-company/575/scortis-labs,37.00
+ZYLATE,//www.medicineindia.org/medicine-brand-details/8476/zylate,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,40.00
+ZEECEF,//www.medicineindia.org/medicine-brand-details/3706/zeecef,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,60.00
+ZITHRO,//www.medicineindia.org/medicine-brand-details/5783/zithro,RITZ PHARMA,//www.medicineindia.org/medicine-manufacturing-company/415/ritz-pharma,125.00
+ZIFT,//www.medicineindia.org/medicine-brand-details/5782/zift,MEDICO H.CARE,//www.medicineindia.org/medicine-manufacturing-company/280/medico-hcare,125.00
+ZITICIN,//www.medicineindia.org/medicine-brand-details/5785/ziticin,ADLEY LAB,//www.medicineindia.org/medicine-manufacturing-company/302/adley-lab,132.00
+ZIPCIN,//www.medicineindia.org/medicine-brand-details/4857/zipcin,Gufic Limited,//www.medicineindia.org/medicine-manufacturing-company/158/gufic-limited,18.00
+ZENOXIM,//www.medicineindia.org/medicine-brand-details/3994/zenoxim,IND CHEMIE,//www.medicineindia.org/medicine-manufacturing-company/475/ind-chemie,130.00
+ZEFUR,//www.medicineindia.org/medicine-brand-details/3993/zefur,HEALTH CARE FORMULATIONS,//www.medicineindia.org/medicine-manufacturing-company/217/health-care-formulations,140.00
+ZILEE,//www.medicineindia.org/medicine-brand-details/5178/zilee,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,14.50
+ZITHIUM,//www.medicineindia.org/medicine-brand-details/18492/zithium,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,49.00
+ZADY,//www.medicineindia.org/medicine-brand-details/5780/zady,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,51.00
+ZITHROX,//www.medicineindia.org/medicine-brand-details/18395/zithrox,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,52.80
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,54.00
+ZITHROCIN,//www.medicineindia.org/medicine-brand-details/5784/zithrocin,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,59.94
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,174.00
+ZEMETRIL,//www.medicineindia.org/medicine-brand-details/4022/zemetril,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,197.50
+ZISPER,//www.medicineindia.org/medicine-brand-details/9964/zisper,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,19.00
+ZEPID,//www.medicineindia.org/medicine-brand-details/9963/zepid,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,22.00
+ZORYL,//www.medicineindia.org/medicine-brand-details/14742/zoryl,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,69.80
+ZOLOG,//www.medicineindia.org/medicine-brand-details/9138/zolog,Shreya Life Sciences Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/352/shreya-life-sciences-pvt-ltd,40.00
+ZEROCID,//www.medicineindia.org/medicine-brand-details/12477/zerocid,BIOGUARD ORGANICS,//www.medicineindia.org/medicine-manufacturing-company/221/bioguard-organics,50.00
+ZIPDEP,//www.medicineindia.org/medicine-brand-details/9533/zipdep,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,115.00
+ZANTID,//www.medicineindia.org/medicine-brand-details/12305/zantid,JARSON PHARMA,//www.medicineindia.org/medicine-manufacturing-company/77/jarson-pharma,8.00
+ZINETAC,//www.medicineindia.org/medicine-brand-details/12306/zinetac,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,8.56
+ZYNOL,//www.medicineindia.org/medicine-brand-details/12308/zynol,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,13.53
+ZIL,//www.medicineindia.org/medicine-brand-details/6724/zil,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,19.00
+ZIDOMAX,//www.medicineindia.org/medicine-brand-details/6925/zidomax,Cytomed (Alkem Laboratories Ltd.),//www.medicineindia.org/medicine-manufacturing-company/667/cytomed-alkem-laboratories-ltd,153.00
+ZIDINE,//www.medicineindia.org/medicine-brand-details/6924/zidine,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,160.00
+ZIDOVIR,//www.medicineindia.org/medicine-brand-details/6926/zidovir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,215.00
+ZILION,//www.medicineindia.org/medicine-brand-details/6927/zilion,Le Sante,//www.medicineindia.org/medicine-manufacturing-company/443/le-sante,218.00
+ZYDOWIN,//www.medicineindia.org/medicine-brand-details/6929/zydowin,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,2300.00
+ZYLORIC,//www.medicineindia.org/medicine-brand-details/2833/zyloric,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZIAGEN,//www.medicineindia.org/medicine-brand-details/18990/ziagen,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,0.00
+ZINIR,//www.medicineindia.org/medicine-brand-details/4326/zinir,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,92.00
+ZIDOVIR,//www.medicineindia.org/medicine-brand-details/6926/zidovir,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,1140.00
+ZEMPRED,//www.medicineindia.org/medicine-brand-details/2370/zempred,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,6.90
+ZEPID,//www.medicineindia.org/medicine-brand-details/9963/zepid,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,28.00
+ZONDA,//www.medicineindia.org/medicine-brand-details/10183/zonda,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,34.00
+ZORYL,//www.medicineindia.org/medicine-brand-details/14742/zoryl,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,86.00
+ZEEDRON,//www.medicineindia.org/medicine-brand-details/10181/zeedron,Guruchem Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/648/guruchem-laboratories-pvt-ltd,90.00
+ZOFER,//www.medicineindia.org/medicine-brand-details/10182/zofer,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,97.00
+ZONDAN,//www.medicineindia.org/medicine-brand-details/10184/zondan,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,69.84
+ZACTANE,//www.medicineindia.org/medicine-brand-details/12348/zactane,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,14.00
+ZIPANT,//www.medicineindia.org/medicine-brand-details/12997/zipant,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,19.00
+ZANPAN,//www.medicineindia.org/medicine-brand-details/12995/zanpan,Wallace Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/148/wallace-pharmaceuticals-ltd,39.00
+ZOLPANZ,//www.medicineindia.org/medicine-brand-details/12999/zolpanz,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,54.00
+ZOVANTA,//www.medicineindia.org/medicine-brand-details/13001/zovanta,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,59.40
+ZOSEC-S,//www.medicineindia.org/medicine-brand-details/12762/zosec-s,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,59.80
+ZITELMI,//www.medicineindia.org/medicine-brand-details/8131/zitelmi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,61.00
+ZETALO,//www.medicineindia.org/medicine-brand-details/9666/zetalo,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,115.50
+ZOSTA,//www.medicineindia.org/medicine-brand-details/9044/zosta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,144.00
+ZOCOR,//www.medicineindia.org/medicine-brand-details/8843/zocor,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,0.00
+ZEROWORM,//www.medicineindia.org/medicine-brand-details/7185/zeroworm,Talent Laboratories,//www.medicineindia.org/medicine-manufacturing-company/218/talent-laboratories,8.50
+ZOLOX,//www.medicineindia.org/medicine-brand-details/7186/zolox,RETEC FORMULATIONS,//www.medicineindia.org/medicine-manufacturing-company/456/retec-formulations,10.00
+ZENCID,//www.medicineindia.org/medicine-brand-details/7183/zencid,HELAX H.CARE,//www.medicineindia.org/medicine-manufacturing-company/419/helax-hcare,12.00
+ZENTEL,//www.medicineindia.org/medicine-brand-details/7184/zentel,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,17.00
+ZEFLOX,//www.medicineindia.org/medicine-brand-details/5232/zeflox,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,19.83
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,31.78
+ZENFLOX,//www.medicineindia.org/medicine-brand-details/5085/zenflox,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,49.50
+ZO,//www.medicineindia.org/medicine-brand-details/5088/zo,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,59.00
+ZANOCIN,//www.medicineindia.org/medicine-brand-details/5082/zanocin,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,110.00
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,156.60
+ZELBEND,//www.medicineindia.org/medicine-brand-details/18883/zelbend,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,40.00
+ZIPRAX-OD,//www.medicineindia.org/medicine-brand-details/4543/ziprax-od,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,179.20
+ZIGAT,//www.medicineindia.org/medicine-brand-details/5422/zigat,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,27.00
+ZYQUIN,//www.medicineindia.org/medicine-brand-details/5423/zyquin,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,41.00
+ZANOCIN-OD,//www.medicineindia.org/medicine-brand-details/5083/zanocin-od,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,93.06
+ZEOF,//www.medicineindia.org/medicine-brand-details/5086/zeof,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,60.00
+ZIPDEP,//www.medicineindia.org/medicine-brand-details/9533/zipdep,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,165.00
+ZIPCET,//www.medicineindia.org/medicine-brand-details/11220/zipcet,Liva Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/195/liva-healthcare-ltd,10.50
+ZIVAST,//www.medicineindia.org/medicine-brand-details/8935/zivast,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,14.00
+ZEPOSE,//www.medicineindia.org/medicine-brand-details/496/zepose,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,14.80
+ZOLWAY,//www.medicineindia.org/medicine-brand-details/9157/zolway,LA Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/139/la-pharmaceuticals,15.00
+ZYPINE,//www.medicineindia.org/medicine-brand-details/9925/zypine,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,24.00
+ZOLP,//www.medicineindia.org/medicine-brand-details/9155/zolp,Elite Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/136/elite-pharma-pvt-ltd,30.00
+ZOLIP,//www.medicineindia.org/medicine-brand-details/9154/zolip,CONSERN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/506/consern-pharma,30.00
+ZELIS,//www.medicineindia.org/medicine-brand-details/7860/zelis,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,33.00
+ZONAPRIL,//www.medicineindia.org/medicine-brand-details/7862/zonapril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,35.00
+ZLEEP,//www.medicineindia.org/medicine-brand-details/9151/zleep,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,35.00
+ZOLDEM,//www.medicineindia.org/medicine-brand-details/9152/zoldem,Anglo- French Drugs & Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/169/anglo-french-drugs-industries-ltd,35.00
+ZOLPID,//www.medicineindia.org/medicine-brand-details/9156/zolpid,Brown & Burk Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/348/brown-burk-pharmaceuticals-ltd,35.00
+ZOLFRESH,//www.medicineindia.org/medicine-brand-details/9153/zolfresh,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,41.00
+ZABESTA,//www.medicineindia.org/medicine-brand-details/7331/zabesta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,43.46
+ZINEBI,//www.medicineindia.org/medicine-brand-details/7348/zinebi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,49.00
+ZOSTA,//www.medicineindia.org/medicine-brand-details/9044/zosta,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,50.00
+ZENEBI,//www.medicineindia.org/medicine-brand-details/7347/zenebi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,52.00
+ZIPRIL,//www.medicineindia.org/medicine-brand-details/7911/zipril,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,69.00
+ZYROVA,//www.medicineindia.org/medicine-brand-details/8948/zyrova,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,90.00
+ZAC,//www.medicineindia.org/medicine-brand-details/10226/zac,ORCHID,//www.medicineindia.org/medicine-manufacturing-company/347/orchid,30.00
+ZOBET,//www.medicineindia.org/medicine-brand-details/2423/zobet,RHOMBUS PHARMA,//www.medicineindia.org/medicine-manufacturing-company/181/rhombus-pharma,62.00
+ZYNICOR,//www.medicineindia.org/medicine-brand-details/8300/zynicor,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,167.08
+ZOLDEM,//www.medicineindia.org/medicine-brand-details/9152/zoldem,Anglo- French Drugs & Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/169/anglo-french-drugs-industries-ltd,18.00
+ZESTRIL,//www.medicineindia.org/medicine-brand-details/7861/zestril,ICI India Limited,//www.medicineindia.org/medicine-manufacturing-company/508/ici-india-limited,66.00
+ZOLOFT,//www.medicineindia.org/medicine-brand-details/18988/zoloft,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,0.00
+ZILOS,//www.medicineindia.org/medicine-brand-details/8040/zilos,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,20.00
+ZOPIN,//www.medicineindia.org/medicine-brand-details/9937/zopin,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,29.00
+ZERT-OD,//www.medicineindia.org/medicine-brand-details/9643/zert-od,RPG Life Sciences Ltd.,//www.medicineindia.org/medicine-manufacturing-company/102/rpg-life-sciences-ltd,34.00
+ZOLINE,//www.medicineindia.org/medicine-brand-details/9644/zoline,CONSERN PHARMA,//www.medicineindia.org/medicine-manufacturing-company/506/consern-pharma,35.00
+ZARLO,//www.medicineindia.org/medicine-brand-details/8039/zarlo,Grandix Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/394/grandix-pharmaceuticals-ltd,35.00
+ZETO,//www.medicineindia.org/medicine-brand-details/13461/zeto,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,39.90
+ZOTRAL,//www.medicineindia.org/medicine-brand-details/9646/zotral,Synapse (A Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/396/synapse-a-div-of-microlabs,40.00
+ZOSERT,//www.medicineindia.org/medicine-brand-details/9645/zosert,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,47.00
+ZARGO,//www.medicineindia.org/medicine-brand-details/8038/zargo,Biocon Limited,//www.medicineindia.org/medicine-manufacturing-company/699/biocon-limited,48.00
+ZAART,//www.medicineindia.org/medicine-brand-details/8037/zaart,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,48.69
+ZILAST,//www.medicineindia.org/medicine-brand-details/8745/zilast,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,52.00
+ZYMURINE,//www.medicineindia.org/medicine-brand-details/11443/zymurine,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,67.50
+ZEAGRA,//www.medicineindia.org/medicine-brand-details/14539/zeagra,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,190.00
+ZYPURIN,//www.medicineindia.org/medicine-brand-details/13372/zypurin,Oncomed,//www.medicineindia.org/medicine-manufacturing-company/30/oncomed,800.00
+ZIBLOK,//www.medicineindia.org/medicine-brand-details/2745/ziblok,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,5.90
+ZOCON,//www.medicineindia.org/medicine-brand-details/6620/zocon,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,40.00
+ZOMET,//www.medicineindia.org/medicine-brand-details/14802/zomet,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,6.45
+ZETFOR,//www.medicineindia.org/medicine-brand-details/14801/zetfor,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,7.00
+ZYRULINA,//www.medicineindia.org/medicine-brand-details/17283/zyrulina,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,21.55
+ZACY-SR,//www.medicineindia.org/medicine-brand-details/1643/zacy-sr,Comed Chemicals Pvt. ltd.,//www.medicineindia.org/medicine-manufacturing-company/145/comed-chemicals-pvt-ltd,31.00
+ZOXAN,//www.medicineindia.org/medicine-brand-details/4859/zoxan,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,36.00
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,43.50
+ZIL,//www.medicineindia.org/medicine-brand-details/6724/zil,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,44.63
+ZOX-K,//www.medicineindia.org/medicine-brand-details/11664/zox-k,MACRON BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/343/macron-biotech,45.00
+ZENOXA,//www.medicineindia.org/medicine-brand-details/10215/zenoxa,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,49.00
+ZECIP,//www.medicineindia.org/medicine-brand-details/4855/zecip,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,59.00
+ZEFEX FORTE,//www.medicineindia.org/medicine-brand-details/4856/zefex-forte,ALPHA DRUGS & PHARMA,//www.medicineindia.org/medicine-manufacturing-company/275/alpha-drugs-pharma,60.00
+ZYLATE,//www.medicineindia.org/medicine-brand-details/8476/zylate,ZOTA HEALTHCARE,//www.medicineindia.org/medicine-manufacturing-company/208/zota-healthcare,69.00
+ZEDOXIL,//www.medicineindia.org/medicine-brand-details/3870/zedoxil,Acron Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/75/acron-pharmaceuticals,78.70
+ZEECEF,//www.medicineindia.org/medicine-brand-details/3706/zeecef,Zee Laboratories,//www.medicineindia.org/medicine-manufacturing-company/110/zee-laboratories,115.00
+ZITHIUM,//www.medicineindia.org/medicine-brand-details/18492/zithium,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,19.00
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,53.00
+ZITHROX,//www.medicineindia.org/medicine-brand-details/18395/zithrox,Macleods Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/85/macleods-pharmaceuticals-pvt-ltd,57.76
+ZITHROCIN,//www.medicineindia.org/medicine-brand-details/5784/zithrocin,Biochem Pharma Industries,//www.medicineindia.org/medicine-manufacturing-company/373/biochem-pharma-industries,59.94
+ZYCIN,//www.medicineindia.org/medicine-brand-details/5787/zycin,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,63.10
+ZILEE,//www.medicineindia.org/medicine-brand-details/5178/zilee,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,27.50
+ZENTOR,//www.medicineindia.org/medicine-brand-details/5177/zentor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,34.50
+ZOXIL,//www.medicineindia.org/medicine-brand-details/3871/zoxil,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,42.57
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,348.00
+ZEMETRIL,//www.medicineindia.org/medicine-brand-details/4022/zemetril,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,366.00
+ZENAD,//www.medicineindia.org/medicine-brand-details/11269/zenad,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,21.75
+ZOTER,//www.medicineindia.org/medicine-brand-details/11270/zoter,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,22.02
+ZOLIUM,//www.medicineindia.org/medicine-brand-details/9137/zolium,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,36.75
+ZYPINE,//www.medicineindia.org/medicine-brand-details/9925/zypine,Neu-Foreva,//www.medicineindia.org/medicine-manufacturing-company/33/neu-foreva,37.00
+ZONAP,//www.medicineindia.org/medicine-brand-details/9139/zonap,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,45.25
+ZOPITRAN,//www.medicineindia.org/medicine-brand-details/9141/zopitran,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,45.30
+ZOLINOX,//www.medicineindia.org/medicine-brand-details/9136/zolinox,Solus,//www.medicineindia.org/medicine-manufacturing-company/522/solus,46.00
+ZICLONE,//www.medicineindia.org/medicine-brand-details/9135/ziclone,Bal Pharma,//www.medicineindia.org/medicine-manufacturing-company/209/bal-pharma,48.00
+ZOPICON,//www.medicineindia.org/medicine-brand-details/9140/zopicon,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,52.00
+ZYNOL,//www.medicineindia.org/medicine-brand-details/12308/zynol,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,6.46
+ZOSPRIN,//www.medicineindia.org/medicine-brand-details/8623/zosprin,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,6.50
+ZETER,//www.medicineindia.org/medicine-brand-details/8682/zeter,Kopran Limited,//www.medicineindia.org/medicine-manufacturing-company/172/kopran-limited,55.00
+ZOGRELL,//www.medicineindia.org/medicine-brand-details/8683/zogrell,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,65.00
+ZENTOR,//www.medicineindia.org/medicine-brand-details/5177/zentor,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,100.00
+ZEEDRON,//www.medicineindia.org/medicine-brand-details/10181/zeedron,Guruchem Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/648/guruchem-laboratories-pvt-ltd,153.00
+ZOFER,//www.medicineindia.org/medicine-brand-details/10182/zofer,Solares (A division of Sun),//www.medicineindia.org/medicine-manufacturing-company/359/solares-a-division-of-sun,164.00
+ZONDAN,//www.medicineindia.org/medicine-brand-details/10184/zondan,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,115.20
+ZETAM,//www.medicineindia.org/medicine-brand-details/10074/zetam,ALLENGE INDIA,//www.medicineindia.org/medicine-manufacturing-company/426/allenge-india,85.00
+ZANOCIN-OD,//www.medicineindia.org/medicine-brand-details/5083/zanocin-od,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,150.00
+ZOVIRAX,//www.medicineindia.org/medicine-brand-details/7016/zovirax,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,161.70
+ZOMET,//www.medicineindia.org/medicine-brand-details/14802/zomet,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,10.00
+ZETFOR,//www.medicineindia.org/medicine-brand-details/14801/zetfor,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,11.00
+ZOPID,//www.medicineindia.org/medicine-brand-details/9158/zopid,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,59.00
+ZOPID,//www.medicineindia.org/medicine-brand-details/9158/zopid,Psyco Remedies,//www.medicineindia.org/medicine-manufacturing-company/152/psyco-remedies,34.00
+ZORPEX,//www.medicineindia.org/medicine-brand-details/12350/zorpex,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,73.60
+ZEN RETARD,//www.medicineindia.org/medicine-brand-details/1405/zen-retard,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,19.20
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,19.39
+ZERODOL-CR,//www.medicineindia.org/medicine-brand-details/1645/zerodol-cr,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,42.50
+ZEPCAR CR,//www.medicineindia.org/medicine-brand-details/1407/zepcar-cr,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,28.00
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,29.48
+ZEN RETARD,//www.medicineindia.org/medicine-brand-details/1405/zen-retard,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,30.00
+ZEPTOL,//www.medicineindia.org/medicine-brand-details/1408/zeptol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,37.06
+ZEN RETARD,//www.medicineindia.org/medicine-brand-details/1405/zen-retard,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,37.23
+ZEPCAR CR,//www.medicineindia.org/medicine-brand-details/1407/zepcar-cr,PENTACARE(ALKEM),//www.medicineindia.org/medicine-manufacturing-company/397/pentacarealkem,38.00
+ZETFOR,//www.medicineindia.org/medicine-brand-details/14801/zetfor,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,0.00
+ZORPEX,//www.medicineindia.org/medicine-brand-details/12350/zorpex,Stancare Div. of Ranbaxy Labs.,//www.medicineindia.org/medicine-manufacturing-company/363/stancare-div-of-ranbaxy-labs,45.00
+ZIDON-DT,//www.medicineindia.org/medicine-brand-details/2520/zidon-dt,Kamron Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/295/kamron-laboratories-limited,19.02
+ZIMAT,//www.medicineindia.org/medicine-brand-details/11165/zimat,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,20.25
+ZEFLOX,//www.medicineindia.org/medicine-brand-details/5232/zeflox,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,18.80
+ZEOF,//www.medicineindia.org/medicine-brand-details/5086/zeof,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,21.00
+ZIPRAX,//www.medicineindia.org/medicine-brand-details/4541/ziprax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,58.80
+ZIFI,//www.medicineindia.org/medicine-brand-details/4539/zifi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,77.50
+ZIPRAX-LB,//www.medicineindia.org/medicine-brand-details/4542/ziprax-lb,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,85.50
+ZATHRIN,//www.medicineindia.org/medicine-brand-details/5781/zathrin,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,14.00
+ZADY,//www.medicineindia.org/medicine-brand-details/5780/zady,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,14.00
+ZYCIN,//www.medicineindia.org/medicine-brand-details/5787/zycin,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,18.00
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,12.50
+ZOVAX,//www.medicineindia.org/medicine-brand-details/3323/zovax,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,16.00
+ZOXIL,//www.medicineindia.org/medicine-brand-details/3871/zoxil,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,19.06
+ZIPRAX,//www.medicineindia.org/medicine-brand-details/4541/ziprax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,115.25
+ZIPRAX-LB,//www.medicineindia.org/medicine-brand-details/4542/ziprax-lb,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,150.00
+ZOYLEX,//www.medicineindia.org/medicine-brand-details/6928/zoylex,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,201.00
+ZIMDAX,//www.medicineindia.org/medicine-brand-details/7194/zimdax,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,29.70
+ZOBID-D,//www.medicineindia.org/medicine-brand-details/1544/zobid-d,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,4.43
+ZADRO,//www.medicineindia.org/medicine-brand-details/3869/zadro,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,23.50
+ZOVAX,//www.medicineindia.org/medicine-brand-details/3323/zovax,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,36.00
+ZOXIL,//www.medicineindia.org/medicine-brand-details/3871/zoxil,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,37.64
+ZEDOXIL,//www.medicineindia.org/medicine-brand-details/3870/zedoxil,Acron Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/75/acron-pharmaceuticals,41.45
+ZOYLEX,//www.medicineindia.org/medicine-brand-details/6928/zoylex,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,336.00
+ZOBID-D,//www.medicineindia.org/medicine-brand-details/1544/zobid-d,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,18.00
+ZIPRAX,//www.medicineindia.org/medicine-brand-details/4541/ziprax,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,35.25
+ZIFI,//www.medicineindia.org/medicine-brand-details/4539/zifi,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,42.50
+ZIPRAX-LB,//www.medicineindia.org/medicine-brand-details/4542/ziprax-lb,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,46.50
+ZOVAX,//www.medicineindia.org/medicine-brand-details/3323/zovax,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,63.00
+ZIMDAX,//www.medicineindia.org/medicine-brand-details/7194/zimdax,USV-Corvette (A Div of USV Ltd.),//www.medicineindia.org/medicine-manufacturing-company/105/usv-corvette-a-div-of-usv-ltd,41.70
+ZADY,//www.medicineindia.org/medicine-brand-details/5780/zady,Mankind Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/251/mankind-pharma-pvt-ltd,93.00
+ZACY-P,//www.medicineindia.org/medicine-brand-details/1737/zacy-p,Comed Chemicals Pvt. ltd.,//www.medicineindia.org/medicine-manufacturing-company/145/comed-chemicals-pvt-ltd,25.00
+ZIMNIC-CV,//www.medicineindia.org/medicine-brand-details/18948/zimnic-cv,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,105.00
+ZOLDAC,//www.medicineindia.org/medicine-brand-details/9337/zoldac,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,15.00
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,17.54
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,19.40
+ZOLDAC,//www.medicineindia.org/medicine-brand-details/9337/zoldac,Zydus Neurosciences,//www.medicineindia.org/medicine-manufacturing-company/523/zydus-neurosciences,20.00
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,21.54
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,24.00
+ZOLAM,//www.medicineindia.org/medicine-brand-details/9335/zolam,Stadmed Private limited,//www.medicineindia.org/medicine-manufacturing-company/122/stadmed-private-limited,33.07
+ZAMITOL-SR,//www.medicineindia.org/medicine-brand-details/9331/zamitol-sr,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,35.00
+ZOLAX,//www.medicineindia.org/medicine-brand-details/9336/zolax,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,40.00
+ZOBID,//www.medicineindia.org/medicine-brand-details/1543/zobid,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,36.00
+ZOMET,//www.medicineindia.org/medicine-brand-details/14802/zomet,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,20.00
+ZIX,//www.medicineindia.org/medicine-brand-details/1646/zix,Jenburkt Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/361/jenburkt-pharmaceuticals-ltd,27.90
+ZOMET,//www.medicineindia.org/medicine-brand-details/14802/zomet,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,16.10
+ZOBETA,//www.medicineindia.org/medicine-brand-details/4388/zobeta,Stallion Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/548/stallion-laboratories-pvt-ltd,150.00
+ZOOMAX,//www.medicineindia.org/medicine-brand-details/4389/zoomax,Divus Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/476/divus-laboratories-limited,225.00
+ZOOMAX,//www.medicineindia.org/medicine-brand-details/4389/zoomax,Divus Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/476/divus-laboratories-limited,375.00
+ZYKINASE,//www.medicineindia.org/medicine-brand-details/8585/zykinase,Indon,//www.medicineindia.org/medicine-manufacturing-company/703/indon,2178.32
+ZEFONE,//www.medicineindia.org/medicine-brand-details/4295/zefone,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,87.00
+ZOSTUM,//www.medicineindia.org/medicine-brand-details/4390/zostum,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,99.00
+ZWITER,//www.medicineindia.org/medicine-brand-details/4594/zwiter,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,330.00
+ZYTAZ,//www.medicineindia.org/medicine-brand-details/4175/zytaz,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,342.21
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,212.00
+ZYKINASE,//www.medicineindia.org/medicine-brand-details/8585/zykinase,Indon,//www.medicineindia.org/medicine-manufacturing-company/703/indon,3898.09
+ZOLADEX LA,//www.medicineindia.org/medicine-brand-details/17086/zoladex-la,Astra Zeneca,//www.medicineindia.org/medicine-manufacturing-company/83/astra-zeneca,25400.00
+ZY-IVGG,//www.medicineindia.org/medicine-brand-details/110/zy-ivgg,Oncomed,//www.medicineindia.org/medicine-manufacturing-company/30/oncomed,995.00
+ZY-HMG,//www.medicineindia.org/medicine-brand-details/15305/zy-hmg,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,895.00
+ZOSTUM,//www.medicineindia.org/medicine-brand-details/4390/zostum,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,195.00
+ZY-HCG,//www.medicineindia.org/medicine-brand-details/15291/zy-hcg,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,240.00
+ZYROP,//www.medicineindia.org/medicine-brand-details/18131/zyrop,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,1000.00
+ZOBID,//www.medicineindia.org/medicine-brand-details/1543/zobid,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,35.12
+ZEFONE,//www.medicineindia.org/medicine-brand-details/4295/zefone,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,40.00
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,54.00
+ZYTAZ,//www.medicineindia.org/medicine-brand-details/4175/zytaz,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,98.64
+ZY-IVGG,//www.medicineindia.org/medicine-brand-details/110/zy-ivgg,Oncomed,//www.medicineindia.org/medicine-manufacturing-company/30/oncomed,1950.00
+ZEPOXIN,//www.medicineindia.org/medicine-brand-details/12996/zepoxin,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,58.00
+ZINULIN,//www.medicineindia.org/medicine-brand-details/15179/zinulin,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,110.08
+ZYROP,//www.medicineindia.org/medicine-brand-details/18131/zyrop,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,1498.00
+ZAVEDOS,//www.medicineindia.org/medicine-brand-details/16909/zavedos,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,5171.25
+ZOSTUM,//www.medicineindia.org/medicine-brand-details/4390/zostum,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,65.00
+ZY-IVGG,//www.medicineindia.org/medicine-brand-details/110/zy-ivgg,Oncomed,//www.medicineindia.org/medicine-manufacturing-company/30/oncomed,604.00
+ZY-HCG,//www.medicineindia.org/medicine-brand-details/15291/zy-hcg,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,350.00
+ZY-HMG,//www.medicineindia.org/medicine-brand-details/15305/zy-hmg,Zydus Biogen,//www.medicineindia.org/medicine-manufacturing-company/31/zydus-biogen,550.00
+ZOCEF,//www.medicineindia.org/medicine-brand-details/3995/zocef,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,110.00
+ZOYLEX,//www.medicineindia.org/medicine-brand-details/6928/zoylex,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,340.00
+ZOYLEX,//www.medicineindia.org/medicine-brand-details/6928/zoylex,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,661.00

@@ -1,0 +1,653 @@
+medicine,description_url,company,company_url,price
+HEPAWIN.,//www.medicineindia.org/medicine-brand-details/14343/hepawin,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,149.00
+HEPATECT-CP,//www.medicineindia.org/medicine-brand-details/94/hepatect-cp,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,3413.00
+HAEMOCI INJ,//www.medicineindia.org/medicine-brand-details/14432/haemoci-inj,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,18.50
+HEMOLOK,//www.medicineindia.org/medicine-brand-details/8492/hemolok,Themis Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/205/themis-pharmaceuticals-ltd,55.00
+HEPLOCK,//www.medicineindia.org/medicine-brand-details/461/heplock,Gland Pharma Ltd.,//www.medicineindia.org/medicine-manufacturing-company/129/gland-pharma-ltd,6.95
+HYOSWIFT,//www.medicineindia.org/medicine-brand-details/2839/hyoswift,IND-SWIFT LIMITED (BIO SCIENCES),//www.medicineindia.org/medicine-manufacturing-company/89/ind-swift-limited-bio-sciences,6.00
+HEMSYL,//www.medicineindia.org/medicine-brand-details/8452/hemsyl,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,20.00
+HUMEGON,//www.medicineindia.org/medicine-brand-details/15294/humegon,Infar (India) Limited,//www.medicineindia.org/medicine-manufacturing-company/3/infar-india-limited,656.50
+HYDROGEN PEROXIDE,//www.medicineindia.org/medicine-brand-details/19529/hydrogen-peroxide,AGRAWAL,//www.medicineindia.org/medicine-manufacturing-company/149/agrawal,0.00
+HARTY,//www.medicineindia.org/medicine-brand-details/21612/harty,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,0.00
+HEY FORTE,//www.medicineindia.org/medicine-brand-details/21686/hey-forte,J S Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/998/j-s-laboratories-ltd,0.00
+HELKOSS D,//www.medicineindia.org/medicine-brand-details/12368/helkoss-d,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,7.00
+HEMEXEL PLUS,//www.medicineindia.org/medicine-brand-details/17925/hemexel-plus,Lifeon Paediatrics Limited,//www.medicineindia.org/medicine-manufacturing-company/248/lifeon-paediatrics-limited,7.22
+HEPASULES-F,//www.medicineindia.org/medicine-brand-details/17939/hepasules-f,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,7.40
+HEPASULES-F.,//www.medicineindia.org/medicine-brand-details/14312/hepasules-f,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,7.91
+HAEMGLOW,//www.medicineindia.org/medicine-brand-details/17924/haemglow,Finecure Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/179/finecure-pharmaceuticals,11.75
+HIPRES-D,//www.medicineindia.org/medicine-brand-details/7354/hipres-d,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,15.25
+HAEMGLOW-Z,//www.medicineindia.org/medicine-brand-details/17953/haemglow-z,Finecure Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/179/finecure-pharmaceuticals,16.80
+HEMSYNERAL TD,//www.medicineindia.org/medicine-brand-details/17923/hemsyneral-td,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,19.14
+HEMEGA TR,//www.medicineindia.org/medicine-brand-details/17916/hemega-tr,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,22.00
+HAEMARANGE,//www.medicineindia.org/medicine-brand-details/18076/haemarange,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,25.00
+HATRIC 2,//www.medicineindia.org/medicine-brand-details/10427/hatric-2,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,27.72
+HEAM-F,//www.medicineindia.org/medicine-brand-details/18012/heam-f,Mimec Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/313/mimec-pharma-pvt-ltd,29.00
+HOVITE CAPS,//www.medicineindia.org/medicine-brand-details/17658/hovite-caps,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,30.00
+HVPOCID-DM,//www.medicineindia.org/medicine-brand-details/12668/hvpocid-dm,UDIK PHARMA,//www.medicineindia.org/medicine-manufacturing-company/353/udik-pharma,32.00
+HEMGLOB-Z,//www.medicineindia.org/medicine-brand-details/17879/hemglob-z,Stallion Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/548/stallion-laboratories-pvt-ltd,35.00
+HB-1,//www.medicineindia.org/medicine-brand-details/17850/hb-1,Rhea Pharma Naturals,//www.medicineindia.org/medicine-manufacturing-company/756/rhea-pharma-naturals,35.00
+HOMOCHECK,//www.medicineindia.org/medicine-brand-details/21669/homocheck,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,35.35
+HEMFER,//www.medicineindia.org/medicine-brand-details/17938/hemfer,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,35.50
+HOMOXID,//www.medicineindia.org/medicine-brand-details/18241/homoxid,Anglo- French Drugs & Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/169/anglo-french-drugs-industries-ltd,39.00
+HOPACE AM 2.5,//www.medicineindia.org/medicine-brand-details/7928/hopace-am-25,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,43.00
+HIGADO,//www.medicineindia.org/medicine-brand-details/14318/higado,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,43.95
+HEMCAP,//www.medicineindia.org/medicine-brand-details/17830/hemcap,Mark Remedies Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/459/mark-remedies-pvt-ltd,45.00
+HELIRAB-D,//www.medicineindia.org/medicine-brand-details/13136/helirab-d,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,45.00
+HAEMINEX.,//www.medicineindia.org/medicine-brand-details/18077/haeminex,Eden Healthcare,//www.medicineindia.org/medicine-manufacturing-company/262/eden-healthcare,45.00
+HOCID-D,//www.medicineindia.org/medicine-brand-details/12667/hocid-d,SAVOY BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/284/savoy-biotech,47.00
+HOPACE-H,//www.medicineindia.org/medicine-brand-details/7963/hopace-h,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,48.00
+HOPACE AM 5,//www.medicineindia.org/medicine-brand-details/7929/hopace-am-5,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,52.00
+HOPACE-H,//www.medicineindia.org/medicine-brand-details/7963/hopace-h,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,72.80
+HAPPI M,//www.medicineindia.org/medicine-brand-details/21580/happi-m,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,74.43
+HIGADO-L,//www.medicineindia.org/medicine-brand-details/14320/higado-l,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,79.50
+HIGADO PLUS,//www.medicineindia.org/medicine-brand-details/14319/higado-plus,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,79.50
+HAPPI-D,//www.medicineindia.org/medicine-brand-details/21581/happi-d,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,88.80
+HOSIT PLUS,//www.medicineindia.org/medicine-brand-details/21659/hosit-plus,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,96.05
+HILIN GM,//www.medicineindia.org/medicine-brand-details/21637/hilin-gm,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,100.00
+HAPPI IT,//www.medicineindia.org/medicine-brand-details/21579/happi-it,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,121.80
+HEALTHERIES OMEGA-3 NATURAL FISH OIL CAP,//www.medicineindia.org/medicine-brand-details/21592/healtheries-omega-3-natural-fish-oil-cap,Perma Healthcare,//www.medicineindia.org/medicine-manufacturing-company/992/perma-healthcare,0.00
+HEMOBION,//www.medicineindia.org/medicine-brand-details/21593/hemobion,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,0.00
+HAEM UP GEMS,//www.medicineindia.org/medicine-brand-details/18028/haem-up-gems,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,105.49
+HEMATRINE,//www.medicineindia.org/medicine-brand-details/17997/hematrine,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,315.00
+HEXIMOX,//www.medicineindia.org/medicine-brand-details/3331/heximox,Bombay Tablet Mfg. Co. Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/199/bombay-tablet-mfg-co-pvt-ltd,84.50
+HEMSI,//www.medicineindia.org/medicine-brand-details/18040/hemsi,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,31.50
+HEMOGOLD,//www.medicineindia.org/medicine-brand-details/21594/hemogold,Srushti Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/993/srushti-pharmaceuticals,0.00
+HEPP FORTE,//www.medicineindia.org/medicine-brand-details/18030/hepp-forte,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,34.97
+HAEMATINGA,//www.medicineindia.org/medicine-brand-details/17922/haematinga,Inga Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/91/inga-pharmaceuticals-pvt-ltd,36.00
+HEPATOGLOBINE CAPS,//www.medicineindia.org/medicine-brand-details/17926/hepatoglobine-caps,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,45.00
+HAEM UP GEMS,//www.medicineindia.org/medicine-brand-details/18028/haem-up-gems,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,46.00
+HOPECARD- AM,//www.medicineindia.org/medicine-brand-details/7930/hopecard-am,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,36.00
+HEMFAST,//www.medicineindia.org/medicine-brand-details/18029/hemfast,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,5.57
+HYCIBEX CAP,//www.medicineindia.org/medicine-brand-details/17501/hycibex-cap,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,10.20
+HYCIBEX-Z,//www.medicineindia.org/medicine-brand-details/17761/hycibex-z,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,11.70
+HIPENOX,//www.medicineindia.org/medicine-brand-details/3421/hipenox,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,25.06
+Hb-RICH 300,//www.medicineindia.org/medicine-brand-details/18000/hb-rich-300,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,29.00
+HOPECARD,//www.medicineindia.org/medicine-brand-details/7878/hopecard,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,17.00
+HOPACE,//www.medicineindia.org/medicine-brand-details/7877/hopace,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,32.50
+HYPNOTEX,//www.medicineindia.org/medicine-brand-details/9117/hypnotex,PCI Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/398/pci-pharmaceuticals,9.90
+HYTROL am 10,//www.medicineindia.org/medicine-brand-details/7826/hytrol-am-10,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,39.30
+HOPACE,//www.medicineindia.org/medicine-brand-details/7877/hopace,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,93.00
+HOPECARD,//www.medicineindia.org/medicine-brand-details/7878/hopecard,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,94.00
+HER-NMP,//www.medicineindia.org/medicine-brand-details/21603/her-nmp,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,0.00
+HANSEPRAN,//www.medicineindia.org/medicine-brand-details/6431/hansepran,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,26.29
+HOPECARD,//www.medicineindia.org/medicine-brand-details/7878/hopecard,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,32.00
+HOPACE,//www.medicineindia.org/medicine-brand-details/7877/hopace,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,58.00
+HIZAC,//www.medicineindia.org/medicine-brand-details/9582/hizac,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,26.00
+HYPOCID,//www.medicineindia.org/medicine-brand-details/12524/hypocid,UDIK PHARMA,//www.medicineindia.org/medicine-manufacturing-company/353/udik-pharma,28.00
+HOCID,//www.medicineindia.org/medicine-brand-details/12523/hocid,SAVOY BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/284/savoy-biotech,39.00
+HER-NMP,//www.medicineindia.org/medicine-brand-details/21603/her-nmp,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,0.00
+HOSTACYCLINE,//www.medicineindia.org/medicine-brand-details/5863/hostacycline,Aventis Pharma,//www.medicineindia.org/medicine-manufacturing-company/10/aventis-pharma,12.00
+HYCIMOX,//www.medicineindia.org/medicine-brand-details/3248/hycimox,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,35.50
+HIPEN P,//www.medicineindia.org/medicine-brand-details/21638/hipen-p,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,36.00
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,41.26
+HALCLOR,//www.medicineindia.org/medicine-brand-details/4010/halclor,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,205.00
+HYPNOTEX,//www.medicineindia.org/medicine-brand-details/9117/hypnotex,PCI Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/398/pci-pharmaceuticals,7.31
+HYPNONEX,//www.medicineindia.org/medicine-brand-details/9115/hypnonex,NEXUS (INDIA),//www.medicineindia.org/medicine-manufacturing-company/543/nexus-india,8.00
+HYTROL am 5,//www.medicineindia.org/medicine-brand-details/7827/hytrol-am-5,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,28.00
+HOPECARD,//www.medicineindia.org/medicine-brand-details/7878/hopecard,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,58.00
+HOPACE,//www.medicineindia.org/medicine-brand-details/7877/hopace,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,88.00
+HANSEPRAN,//www.medicineindia.org/medicine-brand-details/6431/hansepran,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,12.65
+HILIN,//www.medicineindia.org/medicine-brand-details/11364/hilin,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,125.00
+HIPEN P,//www.medicineindia.org/medicine-brand-details/21638/hipen-p,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,0.00
+HOSTACYCLINE,//www.medicineindia.org/medicine-brand-details/5863/hostacycline,Aventis Pharma,//www.medicineindia.org/medicine-manufacturing-company/10/aventis-pharma,23.00
+HYCIMOX,//www.medicineindia.org/medicine-brand-details/3248/hycimox,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,57.50
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,69.04
+HONDREA,//www.medicineindia.org/medicine-brand-details/17023/hondrea,Cytomed (Alkem Laboratories Ltd.),//www.medicineindia.org/medicine-manufacturing-company/667/cytomed-alkem-laboratories-ltd,140.00
+HYTAS,//www.medicineindia.org/medicine-brand-details/17025/hytas,Novatech,//www.medicineindia.org/medicine-manufacturing-company/751/novatech,145.00
+HYDAB,//www.medicineindia.org/medicine-brand-details/17024/hydab,Dabur Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/237/dabur-pharmaceuticals-ltd,145.00
+HYDROX,//www.medicineindia.org/medicine-brand-details/3816/hydrox,WINSOME LAB,//www.medicineindia.org/medicine-manufacturing-company/271/winsome-lab,44.00
+HYTROL am 7.5,//www.medicineindia.org/medicine-brand-details/7828/hytrol-am-75,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,29.00
+HUMALOG MIX 25,//www.medicineindia.org/medicine-brand-details/21665/humalog-mix-25,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,0.00
+HUMALOG MIX 50,//www.medicineindia.org/medicine-brand-details/21666/humalog-mix-50,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,2040.00
+HUMINSULIN-R,//www.medicineindia.org/medicine-brand-details/15154/huminsulin-r,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1044.00
+HUMINSULIN 30:70,//www.medicineindia.org/medicine-brand-details/15187/huminsulin-3070,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1044.00
+HUMINSULIN-N,//www.medicineindia.org/medicine-brand-details/15164/huminsulin-n,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1087.50
+HUMALOG,//www.medicineindia.org/medicine-brand-details/15202/humalog,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1920.00
+HUMATROPE 18,//www.medicineindia.org/medicine-brand-details/15502/humatrope-18,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,7500.00
+HUMATROPE 36,//www.medicineindia.org/medicine-brand-details/15503/humatrope-36,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,15000.00
+HUMINSULIN 30:70,//www.medicineindia.org/medicine-brand-details/15187/huminsulin-3070,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,147.00
+HELIGO,//www.medicineindia.org/medicine-brand-details/13192/heligo,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,63.25
+HALODERM,//www.medicineindia.org/medicine-brand-details/21574/haloderm,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,0.00
+HH DERM,//www.medicineindia.org/medicine-brand-details/22122/hh-derm,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,0.00
+HH ZOLE,//www.medicineindia.org/medicine-brand-details/22123/hh-zole,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,0.00
+HALOTOP,//www.medicineindia.org/medicine-brand-details/21576/halotop,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,42.00
+HHSONE,//www.medicineindia.org/medicine-brand-details/21625/hhsone,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,74.95
+HALOBET-S,//www.medicineindia.org/medicine-brand-details/21614/halobet-s,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,85.00
+HH FUDIC,//www.medicineindia.org/medicine-brand-details/21622/hh-fudic,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,94.95
+HALOBET,//www.medicineindia.org/medicine-brand-details/21572/halobet,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,96.00
+HALOVATE-F,//www.medicineindia.org/medicine-brand-details/21618/halovate-f,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,104.00
+HIRUDOID,//www.medicineindia.org/medicine-brand-details/16705/hirudoid,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,43.46
+HALOTOP,//www.medicineindia.org/medicine-brand-details/21576/halotop,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,0.00
+HQ LITE,//www.medicineindia.org/medicine-brand-details/21661/hq-lite,Palsons Drugs & Chem Indust,//www.medicineindia.org/medicine-manufacturing-company/830/palsons-drugs-chem-indust,0.00
+HAPPY NAP CREAM,//www.medicineindia.org/medicine-brand-details/21582/happy-nap-cream,Apex Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/206/apex-laboratories-pvt-ltd,56.00
+HALONOVA,//www.medicineindia.org/medicine-brand-details/21575/halonova,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,81.00
+HALOBET,//www.medicineindia.org/medicine-brand-details/21572/halobet,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,96.00
+HALOX CREAM,//www.medicineindia.org/medicine-brand-details/21577/halox-cream,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,105.00
+HALOBET,//www.medicineindia.org/medicine-brand-details/21572/halobet,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,0.00
+HALOTOP,//www.medicineindia.org/medicine-brand-details/21576/halotop,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,0.00
+HALOX CREAM,//www.medicineindia.org/medicine-brand-details/21577/halox-cream,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,0.00
+HH MITE,//www.medicineindia.org/medicine-brand-details/21623/hh-mite,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,0.00
+HQ-3,//www.medicineindia.org/medicine-brand-details/21662/hq-3,Palsons Drugs & Chem Indust,//www.medicineindia.org/medicine-manufacturing-company/830/palsons-drugs-chem-indust,0.00
+HYDE.,//www.medicineindia.org/medicine-brand-details/21673/hyde,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,42.70
+HIRUDOID,//www.medicineindia.org/medicine-brand-details/16705/hirudoid,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,0.00
+HIDRATE,//www.medicineindia.org/medicine-brand-details/21631/hidrate,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,0.00
+HYCLEAN,//www.medicineindia.org/medicine-brand-details/21787/hyclean,Ranbaxy Laboratories-Dermalend,//www.medicineindia.org/medicine-manufacturing-company/821/ranbaxy-laboratories-dermalend,78.91
+HUMIDUS,//www.medicineindia.org/medicine-brand-details/21723/humidus,Curatio Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/880/curatio-pharmaceuticals,108.00
+HIRUDOID,//www.medicineindia.org/medicine-brand-details/16705/hirudoid,CFL Pharmaceuticals Limited,//www.medicineindia.org/medicine-manufacturing-company/157/cfl-pharmaceuticals-limited,0.00
+HALOBET-MZ,//www.medicineindia.org/medicine-brand-details/21613/halobet-mz,Ajantha Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/339/ajantha-pharmaceuticals,45.00
+HALOVATE,//www.medicineindia.org/medicine-brand-details/18836/halovate,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,97.00
+HALOVATE,//www.medicineindia.org/medicine-brand-details/18836/halovate,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,125.00
+HIFEN,//www.medicineindia.org/medicine-brand-details/16294/hifen,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,45.00
+HYDROZOLE,//www.medicineindia.org/medicine-brand-details/22119/hydrozole,GSK Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/874/gsk-pharmaceuticals,74.00
+HYDROCORT,//www.medicineindia.org/medicine-brand-details/16518/hydrocort,PFISCAR INDIA,//www.medicineindia.org/medicine-manufacturing-company/81/pfiscar-india,37.00
+HERPEX,//www.medicineindia.org/medicine-brand-details/7005/herpex,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,78.80
+HIFEN (Hetero Healthcare Limited),//www.medicineindia.org/medicine-brand-details/21632/hifen-hetero-healthcare-limited,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,47.00
+HALOCEF,//www.medicineindia.org/medicine-brand-details/4011/halocef,Otsira Genetica (A Div. of Aristo Pharma Ltd.),//www.medicineindia.org/medicine-manufacturing-company/474/otsira-genetica-a-div-of-aristo-pharma-ltd,59.97
+HIFEN (Hetero Healthcare Limited),//www.medicineindia.org/medicine-brand-details/21632/hifen-hetero-healthcare-limited,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,29.00
+HAEMO DIALYSIS FLUID,//www.medicineindia.org/medicine-brand-details/582/haemo-dialysis-fluid,Core Health care Ltd.,//www.medicineindia.org/medicine-manufacturing-company/38/core-health-care-ltd,269.47
+HAEMO DIALYSIS FLUID,//www.medicineindia.org/medicine-brand-details/582/haemo-dialysis-fluid,Core Health care Ltd.,//www.medicineindia.org/medicine-manufacturing-company/38/core-health-care-ltd,159.57
+HYTOSOL,//www.medicineindia.org/medicine-brand-details/16771/hytosol,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,19.50
+HYPERSOL-5,//www.medicineindia.org/medicine-brand-details/21660/hypersol-5,Jawa Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/939/jawa-pharmaceuticals,33.37
+HYPOTEARS PLUS,//www.medicineindia.org/medicine-brand-details/15943/hypotears-plus,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,49.20
+HEPATOGLOBINE DROPS,//www.medicineindia.org/medicine-brand-details/17902/hepatoglobine-drops,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,39.00
+HICOPE,//www.medicineindia.org/medicine-brand-details/21630/hicope,Mankind Pharmaceuticals-Lifestar,//www.medicineindia.org/medicine-manufacturing-company/824/mankind-pharmaceuticals-lifestar,0.00
+HYNASAL DPS.,//www.medicineindia.org/medicine-brand-details/16770/hynasal-dps,DWD Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/222/dwd-pharmaceuticals-ltd,18.00
+Hb FAST,//www.medicineindia.org/medicine-brand-details/17813/hb-fast,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,29.50
+HOVITE DROPS,//www.medicineindia.org/medicine-brand-details/17659/hovite-drops,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,36.50
+HOMARIN FORTE,//www.medicineindia.org/medicine-brand-details/15903/homarin-forte,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,14.60
+HOMIDE,//www.medicineindia.org/medicine-brand-details/15904/homide,Warren Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/58/warren-pharmaceuticals-pvt-ltd,29.45
+HARFLOX DPS,//www.medicineindia.org/medicine-brand-details/15604/harflox-dps,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,11.80
+HYVISC,//www.medicineindia.org/medicine-brand-details/15976/hyvisc,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,650.00
+HYVISC PLUS,//www.medicineindia.org/medicine-brand-details/15977/hyvisc-plus,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,811.85
+HAEM UP DPS.,//www.medicineindia.org/medicine-brand-details/17809/haem-up-dps,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,36.00
+HYLO COMOD,//www.medicineindia.org/medicine-brand-details/21675/hylo-comod,Ursa Pharma,//www.medicineindia.org/medicine-manufacturing-company/996/ursa-pharma,0.00
+HYVISC FORTE,//www.medicineindia.org/medicine-brand-details/21680/hyvisc-forte,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,182.00
+HYMOIST,//www.medicineindia.org/medicine-brand-details/21677/hymoist,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,57.40
+HYVISC,//www.medicineindia.org/medicine-brand-details/15976/hyvisc,Milmet Pharma Ltd,//www.medicineindia.org/medicine-manufacturing-company/489/milmet-pharma-ltd,91.00
+HYPERSOL-6,//www.medicineindia.org/medicine-brand-details/21678/hypersol-6,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,0.00
+HYDENT GEL,//www.medicineindia.org/medicine-brand-details/18302/hydent-gel,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,47.00
+HYDENT- K GEL,//www.medicineindia.org/medicine-brand-details/18295/hydent-k-gel,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,50.00
+HYGINA GEL,//www.medicineindia.org/medicine-brand-details/18339/hygina-gel,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,0.00
+HEXI GEL,//www.medicineindia.org/medicine-brand-details/21607/hexi-gel,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,28.00
+HYCID,//www.medicineindia.org/medicine-brand-details/13283/hycid,Acron Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/75/acron-pharmaceuticals,29.00
+HEALIN-V GEL,//www.medicineindia.org/medicine-brand-details/16830/healin-v-gel,Speciality Meditech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/433/speciality-meditech-pvt-ltd,34.00
+HIFENAC,//www.medicineindia.org/medicine-brand-details/1613/hifenac,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,34.80
+HYDENT GEL,//www.medicineindia.org/medicine-brand-details/18302/hydent-gel,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,29.00
+HYDENT- K GEL,//www.medicineindia.org/medicine-brand-details/18295/hydent-k-gel,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,33.20
+HEMOLOK,//www.medicineindia.org/medicine-brand-details/8492/hemolok,Themis Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/205/themis-pharmaceuticals-ltd,165.00
+HEMOLOK,//www.medicineindia.org/medicine-brand-details/8492/hemolok,Themis Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/205/themis-pharmaceuticals-ltd,35.00
+HEMOLOK,//www.medicineindia.org/medicine-brand-details/8492/hemolok,Themis Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/205/themis-pharmaceuticals-ltd,90.00
+HUSKY GRANULES,//www.medicineindia.org/medicine-brand-details/13494/husky-granules,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,65.00
+HUSKY GRANULES,//www.medicineindia.org/medicine-brand-details/13494/husky-granules,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,4.50
+HEPA-MERZ,//www.medicineindia.org/medicine-brand-details/14341/hepa-merz,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,114.25
+HUMAN ALBUMIN,//www.medicineindia.org/medicine-brand-details/206/human-albumin,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,4450.00
+HUMAN ALBUMIN,//www.medicineindia.org/medicine-brand-details/206/human-albumin,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,2426.00
+HUMAN ALBUMIN,//www.medicineindia.org/medicine-brand-details/206/human-albumin,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,3413.00
+HUMAN ALBUMIN,//www.medicineindia.org/medicine-brand-details/206/human-albumin,Paviour Pharma,//www.medicineindia.org/medicine-manufacturing-company/29/paviour-pharma,998.00
+HERMIN-T,//www.medicineindia.org/medicine-brand-details/17312/hermin-t,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,231.45
+HERMIN,//www.medicineindia.org/medicine-brand-details/17311/hermin,Alembic Ltd.,//www.medicineindia.org/medicine-manufacturing-company/52/alembic-ltd,275.00
+HESTAR 200,//www.medicineindia.org/medicine-brand-details/194/hestar-200,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,415.00
+HESTAR,//www.medicineindia.org/medicine-brand-details/193/hestar,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,420.00
+HEPACOR,//www.medicineindia.org/medicine-brand-details/14340/hepacor,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,44.50
+HESTAR 200,//www.medicineindia.org/medicine-brand-details/194/hestar-200,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,175.00
+HESTAR,//www.medicineindia.org/medicine-brand-details/193/hestar,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,230.00
+HEPACOR,//www.medicineindia.org/medicine-brand-details/14340/hepacor,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,133.00
+HEPA-MERZ,//www.medicineindia.org/medicine-brand-details/14341/hepa-merz,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,159.70
+HESTAR,//www.medicineindia.org/medicine-brand-details/193/hestar,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,400.00
+HESTAR 200,//www.medicineindia.org/medicine-brand-details/194/hestar-200,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,305.00
+HESTAR 200 bags,//www.medicineindia.org/medicine-brand-details/195/hestar-200-bags,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,360.00
+HESTAR,//www.medicineindia.org/medicine-brand-details/193/hestar,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,285.00
+HESTAR-450,//www.medicineindia.org/medicine-brand-details/198/hestar-450,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,265.00
+HESTAR,//www.medicineindia.org/medicine-brand-details/193/hestar,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,315.00
+HESTAR-400,//www.medicineindia.org/medicine-brand-details/197/hestar-400,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,285.00
+HESTAR-200,//www.medicineindia.org/medicine-brand-details/196/hestar-200,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,400.00
+HAPPI,//www.medicineindia.org/medicine-brand-details/12772/happi,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,65.00
+HI-COBAL,//www.medicineindia.org/medicine-brand-details/21626/hi-cobal,SAF Fermion Ltd.,//www.medicineindia.org/medicine-manufacturing-company/484/saf-fermion-ltd,0.00
+HYMELOSE-PFS,//www.medicineindia.org/medicine-brand-details/15942/hymelose-pfs,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,120.00
+HONVAN,//www.medicineindia.org/medicine-brand-details/17061/honvan,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,48.20
+HIFENAC,//www.medicineindia.org/medicine-brand-details/1613/hifenac,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,0.00
+HAEMACCEL,//www.medicineindia.org/medicine-brand-details/191/haemaccel,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,0.00
+HYDERGINE,//www.medicineindia.org/medicine-brand-details/10026/hydergine,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,174.60
+HALONIX,//www.medicineindia.org/medicine-brand-details/11432/halonix,IRM Pharma,//www.medicineindia.org/medicine-manufacturing-company/369/irm-pharma,1562.51
+HEPASHIELD,//www.medicineindia.org/medicine-brand-details/46/hepashield,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,150.00
+HB VAC,//www.medicineindia.org/medicine-brand-details/44/hb-vac,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,195.00
+HYMELOSE-PFS,//www.medicineindia.org/medicine-brand-details/15942/hymelose-pfs,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,274.86
+HUMALOG KWIK PEN,//www.medicineindia.org/medicine-brand-details/21664/humalog-kwik-pen,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,0.00
+HEPARINE,//www.medicineindia.org/medicine-brand-details/460/heparine,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,20.00
+HUCOG-HP,//www.medicineindia.org/medicine-brand-details/21663/hucog-hp,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,0.00
+HEMOSTAT,//www.medicineindia.org/medicine-brand-details/8449/hemostat,MERIDIAN MEDICARE,//www.medicineindia.org/medicine-manufacturing-company/269/meridian-medicare,20.00
+HAVRIX,//www.medicineindia.org/medicine-brand-details/53/havrix,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,1552.80
+HYOSPAS,//www.medicineindia.org/medicine-brand-details/2838/hyospas,Neon Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/50/neon-laboratories-ltd,0.00
+HEPASHIELD,//www.medicineindia.org/medicine-brand-details/46/hepashield,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,222.23
+HUCOG-HP,//www.medicineindia.org/medicine-brand-details/21663/hucog-hp,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,0.00
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,14.20
+HYPROGRES,//www.medicineindia.org/medicine-brand-details/15329/hyprogres,Global Medisciences Limited (Intraways Division),//www.medicineindia.org/medicine-manufacturing-company/534/global-medisciences-limited-intraways-division,46.00
+HIMOLAN,//www.medicineindia.org/medicine-brand-details/8453/himolan,Karnataka Antibiotics & Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/228/karnataka-antibiotics-pharmaceuticals-ltd,13.15
+HEMOCID,//www.medicineindia.org/medicine-brand-details/8549/hemocid,Biddle Sawyer,//www.medicineindia.org/medicine-manufacturing-company/518/biddle-sawyer,54.10
+HIBOR,//www.medicineindia.org/medicine-brand-details/8347/hibor,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,281.00
+HIBOR,//www.medicineindia.org/medicine-brand-details/8347/hibor,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,470.00
+HAVRIX,//www.medicineindia.org/medicine-brand-details/53/havrix,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,712.00
+HERCEPTIN,//www.medicineindia.org/medicine-brand-details/21639/herceptin,Roche Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/787/roche-pharmaceuticals,0.00
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,2.63
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,24.36
+HYPROGRES,//www.medicineindia.org/medicine-brand-details/15329/hyprogres,Global Medisciences Limited (Intraways Division),//www.medicineindia.org/medicine-manufacturing-company/534/global-medisciences-limited-intraways-division,74.00
+HIBOR,//www.medicineindia.org/medicine-brand-details/8347/hibor,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,576.00
+HUCOG-HP,//www.medicineindia.org/medicine-brand-details/21663/hucog-hp,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,0.00
+HEPARINE,//www.medicineindia.org/medicine-brand-details/460/heparine,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,64.00
+HAVRIX,//www.medicineindia.org/medicine-brand-details/53/havrix,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,906.00
+HIBOR,//www.medicineindia.org/medicine-brand-details/8347/hibor,Elder Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/88/elder-pharmaceuticals-ltd,681.00
+HIBEST,//www.medicineindia.org/medicine-brand-details/23/hibest,Aventis Pasteur,//www.medicineindia.org/medicine-manufacturing-company/1/aventis-pasteur,526.00
+HUMAPEN,//www.medicineindia.org/medicine-brand-details/15209/humapen,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1285.00
+Hb FAST.,//www.medicineindia.org/medicine-brand-details/18078/hb-fast,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,18.50
+HYCIMOX,//www.medicineindia.org/medicine-brand-details/3248/hycimox,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,15.95
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,20.20
+HELIPAC KIT,//www.medicineindia.org/medicine-brand-details/13201/helipac-kit,Protech Biosystems,//www.medicineindia.org/medicine-manufacturing-company/180/protech-biosystems,25.00
+HP KIT,//www.medicineindia.org/medicine-brand-details/13202/hp-kit,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,45.00
+HELIKIT,//www.medicineindia.org/medicine-brand-details/13200/helikit,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,24.16
+HEXINOL,//www.medicineindia.org/medicine-brand-details/16115/hexinol,AGRAWAL,//www.medicineindia.org/medicine-manufacturing-company/149/agrawal,18.00
+HEAM-F PLUS,//www.medicineindia.org/medicine-brand-details/18102/heam-f-plus,Mimec Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/313/mimec-pharma-pvt-ltd,60.00
+HEMFER.,//www.medicineindia.org/medicine-brand-details/18032/hemfer,Alkem Laboratries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/117/alkem-laboratries-ltd,60.00
+Hb-RICH,//www.medicineindia.org/medicine-brand-details/17898/hb-rich,Merind Limited,//www.medicineindia.org/medicine-manufacturing-company/72/merind-limited,57.00
+HAEMATINGA.,//www.medicineindia.org/medicine-brand-details/17897/haematinga,Inga Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/91/inga-pharmaceuticals-pvt-ltd,44.90
+HEPATOGLOBINE LIQUID,//www.medicineindia.org/medicine-brand-details/18044/hepatoglobine-liquid,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,91.00
+HEPATOGLOBINE LIQUID,//www.medicineindia.org/medicine-brand-details/18044/hepatoglobine-liquid,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,103.00
+HISTAKOF,//www.medicineindia.org/medicine-brand-details/10561/histakof,Kresp (A Division of Kopran),//www.medicineindia.org/medicine-manufacturing-company/537/kresp-a-division-of-kopran,16.00
+HEXIDE LIQ.,//www.medicineindia.org/medicine-brand-details/18318/hexide-liq,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,31.50
+HH SALIC,//www.medicineindia.org/medicine-brand-details/21624/hh-salic,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,0.00
+HHSONE,//www.medicineindia.org/medicine-brand-details/21625/hhsone,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,104.00
+HALOTOP,//www.medicineindia.org/medicine-brand-details/21576/halotop,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,87.00
+HALOX-S,//www.medicineindia.org/medicine-brand-details/21617/halox-s,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,159.00
+HYDE.,//www.medicineindia.org/medicine-brand-details/21673/hyde,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,55.55
+HYPHORAL,//www.medicineindia.org/medicine-brand-details/16281/hyphoral,Innova (IPCA),//www.medicineindia.org/medicine-manufacturing-company/431/innova-ipca,108.00
+HIDRATE LOTION,//www.medicineindia.org/medicine-brand-details/21722/hidrate-lotion,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,124.00
+HAIR 4U SCALP LOTION,//www.medicineindia.org/medicine-brand-details/21571/hair-4u-scalp-lotion,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,186.10
+HALOX CREAM,//www.medicineindia.org/medicine-brand-details/21577/halox-cream,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,140.00
+HIFEN,//www.medicineindia.org/medicine-brand-details/16294/hifen,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,40.00
+HEXIDINE,//www.medicineindia.org/medicine-brand-details/21619/hexidine,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,29.75
+HEXIDINE,//www.medicineindia.org/medicine-brand-details/21619/hexidine,Icpa Health Products,//www.medicineindia.org/medicine-manufacturing-company/973/icpa-health-products,55.25
+HH SALIC,//www.medicineindia.org/medicine-brand-details/21624/hh-salic,H & H Pharma,//www.medicineindia.org/medicine-manufacturing-company/942/h-h-pharma,0.00
+HALOTOP-S,//www.medicineindia.org/medicine-brand-details/21615/halotop-s,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,78.00
+HALOX-S,//www.medicineindia.org/medicine-brand-details/21617/halox-s,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,93.00
+HEALIN,//www.medicineindia.org/medicine-brand-details/16141/healin,Speciality Meditech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/433/speciality-meditech-pvt-ltd,30.00
+HALOVATE,//www.medicineindia.org/medicine-brand-details/18836/halovate,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,116.30
+HEXIMAR B,//www.medicineindia.org/medicine-brand-details/21620/heximar-b,Shalaks Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/65/shalaks-pharmaceuticals-pvt-ltd,336.00
+HALOX-S,//www.medicineindia.org/medicine-brand-details/21617/halox-s,Ranbaxy Laboratories-Main,//www.medicineindia.org/medicine-manufacturing-company/851/ranbaxy-laboratories-main,164.00
+HALOTOP-S,//www.medicineindia.org/medicine-brand-details/21615/halotop-s,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,0.00
+HALOVATE,//www.medicineindia.org/medicine-brand-details/18836/halovate,Glenmark Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/166/glenmark-pharmaceuticals-ltd,149.90
+HERPERAX,//www.medicineindia.org/medicine-brand-details/7003/herperax,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,54.00
+HEMSI PD,//www.medicineindia.org/medicine-brand-details/21640/hemsi-pd,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,31.23
+HALOCEF,//www.medicineindia.org/medicine-brand-details/4011/halocef,Otsira Genetica (A Div. of Aristo Pharma Ltd.),//www.medicineindia.org/medicine-manufacturing-company/474/otsira-genetica-a-div-of-aristo-pharma-ltd,41.04
+HUMALOG MIX 25,//www.medicineindia.org/medicine-brand-details/21665/humalog-mix-25,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,0.00
+HUMALOG MIX 50,//www.medicineindia.org/medicine-brand-details/21666/humalog-mix-50,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,544.00
+HUMALOG,//www.medicineindia.org/medicine-brand-details/15202/humalog,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,0.00
+HUMYL,//www.medicineindia.org/medicine-brand-details/21671/humyl,FDC Ltd.,//www.medicineindia.org/medicine-manufacturing-company/96/fdc-ltd,161.00
+HEPA-PRO POWDER,//www.medicineindia.org/medicine-brand-details/21595/hepa-pro-powder,British Biologicals,//www.medicineindia.org/medicine-manufacturing-company/754/british-biologicals,200.00
+HEPAGARD,//www.medicineindia.org/medicine-brand-details/21596/hepagard,United Biotech,//www.medicineindia.org/medicine-manufacturing-company/49/united-biotech,108.00
+HEPACOR,//www.medicineindia.org/medicine-brand-details/14340/hepacor,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,0.00
+HEPA-MERZ,//www.medicineindia.org/medicine-brand-details/14341/hepa-merz,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,79.35
+HEALIN,//www.medicineindia.org/medicine-brand-details/16141/healin,Speciality Meditech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/433/speciality-meditech-pvt-ltd,225.00
+HEXIN MOUTH WASH,//www.medicineindia.org/medicine-brand-details/21621/hexin-mouth-wash,Sandhika Pharmaceutical,//www.medicineindia.org/medicine-manufacturing-company/995/sandhika-pharmaceutical,0.00
+HYDROGEN PEROXIDE,//www.medicineindia.org/medicine-brand-details/19529/hydrogen-peroxide,AGRAWAL,//www.medicineindia.org/medicine-manufacturing-company/149/agrawal,0.00
+HEALIN,//www.medicineindia.org/medicine-brand-details/16141/healin,Speciality Meditech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/433/speciality-meditech-pvt-ltd,70.00
+HAEMACCEL,//www.medicineindia.org/medicine-brand-details/191/haemaccel,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,125.00
+HYDROGEN PEROXIDE,//www.medicineindia.org/medicine-brand-details/19529/hydrogen-peroxide,AGRAWAL,//www.medicineindia.org/medicine-manufacturing-company/149/agrawal,0.00
+HAEMACCEL,//www.medicineindia.org/medicine-brand-details/191/haemaccel,Piramal Healthcare Ltd.,//www.medicineindia.org/medicine-manufacturing-company/107/piramal-healthcare-ltd,242.00
+HAIREX,//www.medicineindia.org/medicine-brand-details/16680/hairex,Kramer,//www.medicineindia.org/medicine-manufacturing-company/332/kramer,196.00
+HYGINA GARGLE,//www.medicineindia.org/medicine-brand-details/18319/hygina-gargle,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,21.25
+HEMOLOK,//www.medicineindia.org/medicine-brand-details/8492/hemolok,Themis Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/205/themis-pharmaceuticals-ltd,150.00
+HEALEX PLUS,//www.medicineindia.org/medicine-brand-details/21720/healex-plus,Shreya Life Sciences Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/352/shreya-life-sciences-pvt-ltd,130.45
+HEALZ SPRAY,//www.medicineindia.org/medicine-brand-details/16079/healz-spray,Orange Health Care,//www.medicineindia.org/medicine-manufacturing-company/216/orange-health-care,65.00
+HIGADO,//www.medicineindia.org/medicine-brand-details/14318/higado,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,59.95
+HIGADO,//www.medicineindia.org/medicine-brand-details/14318/higado,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,109.95
+HARFLOX-T,//www.medicineindia.org/medicine-brand-details/13753/harflox-t,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,23.50
+HIFEN-CV,//www.medicineindia.org/medicine-brand-details/21633/hifen-cv,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,59.00
+HITT,//www.medicineindia.org/medicine-brand-details/13665/hitt,G NINE FORMULATIONS,//www.medicineindia.org/medicine-manufacturing-company/616/g-nine-formulations,25.40
+HIBEND,//www.medicineindia.org/medicine-brand-details/7139/hibend,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,15.00
+HYMIN,//www.medicineindia.org/medicine-brand-details/7140/hymin,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,14.00
+HAMYCIN,//www.medicineindia.org/medicine-brand-details/18381/hamycin,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,22.00
+HAEMGLOW.,//www.medicineindia.org/medicine-brand-details/17963/haemglow,Finecure Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/179/finecure-pharmaceuticals,30.50
+HICOPE,//www.medicineindia.org/medicine-brand-details/21630/hicope,Mankind Pharmaceuticals-Lifestar,//www.medicineindia.org/medicine-manufacturing-company/824/mankind-pharmaceuticals-lifestar,0.00
+HYKOPHOS,//www.medicineindia.org/medicine-brand-details/17441/hykophos,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,18.90
+HYCIBEX SYR,//www.medicineindia.org/medicine-brand-details/17440/hycibex-syr,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,22.50
+HIGADO-L,//www.medicineindia.org/medicine-brand-details/14320/higado-l,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,69.95
+HOVITE SYRUP,//www.medicineindia.org/medicine-brand-details/17660/hovite-syrup,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,47.50
+HAEM UP -PM,//www.medicineindia.org/medicine-brand-details/17810/haem-up-pm,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,54.00
+HbRon,//www.medicineindia.org/medicine-brand-details/17814/hbron,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,55.70
+HAEMINEX,//www.medicineindia.org/medicine-brand-details/17812/haeminex,Eden Healthcare,//www.medicineindia.org/medicine-manufacturing-company/262/eden-healthcare,58.00
+HAEMARANGE IPC,//www.medicineindia.org/medicine-brand-details/17811/haemarange-ipc,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,64.00
+Hb FAST,//www.medicineindia.org/medicine-brand-details/17813/hb-fast,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,64.15
+HAEMGLOW.,//www.medicineindia.org/medicine-brand-details/17963/haemglow,Finecure Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/179/finecure-pharmaceuticals,47.50
+HAPENZ,//www.medicineindia.org/medicine-brand-details/21578/hapenz,Tablets (India) Limited,//www.medicineindia.org/medicine-manufacturing-company/40/tablets-india-limited,0.00
+HEPTAGIS,//www.medicineindia.org/medicine-brand-details/21600/heptagis,Surya Pharmaceuticals Ltd-Aegis,//www.medicineindia.org/medicine-manufacturing-company/835/surya-pharmaceuticals-ltd-aegis,0.00
+HYGIRON,//www.medicineindia.org/medicine-brand-details/17983/hygiron,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,33.25
+HYKOPHOS,//www.medicineindia.org/medicine-brand-details/17441/hykophos,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,34.82
+HAEM UP,//www.medicineindia.org/medicine-brand-details/18031/haem-up,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,35.00
+HYCIBEX SYR,//www.medicineindia.org/medicine-brand-details/17440/hycibex-syr,Pharmed Limited,//www.medicineindia.org/medicine-manufacturing-company/197/pharmed-limited,38.50
+HANZYME,//www.medicineindia.org/medicine-brand-details/14299/hanzyme,Hands Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/504/hands-pharmaceuticals,43.90
+HEMSI,//www.medicineindia.org/medicine-brand-details/18040/hemsi,Serum International Ltd.,//www.medicineindia.org/medicine-manufacturing-company/479/serum-international-ltd,54.50
+HEPP FORTE,//www.medicineindia.org/medicine-brand-details/18030/hepp-forte,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,65.00
+HATRIC,//www.medicineindia.org/medicine-brand-details/11183/hatric,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,17.91
+HYKOPHOS,//www.medicineindia.org/medicine-brand-details/17441/hykophos,Leben Laboratories Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/61/leben-laboratories-pvt-ltd,60.84
+HISTARINE,//www.medicineindia.org/medicine-brand-details/21650/histarine,Kentreck Labs Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/76/kentreck-labs-pvt-ltd,29.00
+HEPAWIN.,//www.medicineindia.org/medicine-brand-details/14343/hepawin,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,74.90
+HEPAFORD,//www.medicineindia.org/medicine-brand-details/21597/hepaford,Leeford Healthcare Ltd,//www.medicineindia.org/medicine-manufacturing-company/994/leeford-healthcare-ltd,0.00
+HICET-AX,//www.medicineindia.org/medicine-brand-details/21628/hicet-ax,Micro Labs-Nova,//www.medicineindia.org/medicine-manufacturing-company/891/micro-labs-nova,16.80
+HEPATOGLOBINE MIKROS,//www.medicineindia.org/medicine-brand-details/21598/hepatoglobine-mikros,Raptakos Brett & Co. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/46/raptakos-brett-co-ltd,42.00
+HEPA-MERZ,//www.medicineindia.org/medicine-brand-details/14341/hepa-merz,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,78.00
+HETRAZAN,//www.medicineindia.org/medicine-brand-details/7204/hetrazan,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,21.18
+HICET,//www.medicineindia.org/medicine-brand-details/11138/hicet,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,16.00
+HYSARTAS,//www.medicineindia.org/medicine-brand-details/8050/hysartas,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,0.00
+HERFLAV,//www.medicineindia.org/medicine-brand-details/21604/herflav,Torrent Pharmaceuticals-Axon,//www.medicineindia.org/medicine-manufacturing-company/859/torrent-pharmaceuticals-axon,0.00
+HAPPI XT,//www.medicineindia.org/medicine-brand-details/21611/happi-xt,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,0.00
+HI-MOM,//www.medicineindia.org/medicine-brand-details/21627/hi-mom,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,0.00
+HICET-L,//www.medicineindia.org/medicine-brand-details/21629/hicet-l,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,0.00
+HOMIN,//www.medicineindia.org/medicine-brand-details/21656/homin,Icon Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/862/icon-life-sciences,0.00
+HYALORAL,//www.medicineindia.org/medicine-brand-details/21672/hyaloral,Nouveau Medicament,//www.medicineindia.org/medicine-manufacturing-company/960/nouveau-medicament,0.00
+HAUTVIT,//www.medicineindia.org/medicine-brand-details/21688/hautvit,Salve Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/823/salve-pharmaceuticals,0.00
+HOSIT-XT,//www.medicineindia.org/medicine-brand-details/21753/hosit-xt,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,0.00
+HB-4,//www.medicineindia.org/medicine-brand-details/22527/hb-4,Ordain Health Care Pvt Ltd,//www.medicineindia.org/medicine-manufacturing-company/308/ordain-health-care-pvt-ltd,0.00
+HEXAVIT,//www.medicineindia.org/medicine-brand-details/17656/hexavit,Indian Drugs & Pharmaceuticals Ltd. (IDPL),//www.medicineindia.org/medicine-manufacturing-company/79/indian-drugs-pharmaceuticals-ltd-idpl,3.13
+HIFLAM,//www.medicineindia.org/medicine-brand-details/1206/hiflam,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,8.00
+HALORAN PLUS,//www.medicineindia.org/medicine-brand-details/1953/haloran-plus,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,12.08
+HISTAPLUS,//www.medicineindia.org/medicine-brand-details/704/histaplus,PARK PHARMA,//www.medicineindia.org/medicine-manufacturing-company/219/park-pharma,19.00
+HEXIDOL PLUS,//www.medicineindia.org/medicine-brand-details/9871/hexidol-plus,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,20.65
+HD-A,//www.medicineindia.org/medicine-brand-details/9376/hd-a,OCTANE BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/272/octane-biotech,24.00
+HIFENAC-P,//www.medicineindia.org/medicine-brand-details/1702/hifenac-p,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,25.00
+HEXIDOL FORTE,//www.medicineindia.org/medicine-brand-details/9870/hexidol-forte,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,26.10
+HATRIC 3,//www.medicineindia.org/medicine-brand-details/21584/hatric-3,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,32.00
+HICET-DC,//www.medicineindia.org/medicine-brand-details/10408/hicet-dc,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,32.50
+HIFENAC-MR,//www.medicineindia.org/medicine-brand-details/21635/hifenac-mr,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,33.00
+HYZOLE- DP,//www.medicineindia.org/medicine-brand-details/13040/hyzole-dp,OBSURGE BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/455/obsurge-biotech,35.00
+H-VIT,//www.medicineindia.org/medicine-brand-details/21570/h-vit,Systopic Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/142/systopic-laboratories-p-ltd,37.50
+HIFENAC-D,//www.medicineindia.org/medicine-brand-details/21634/hifenac-d,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,39.00
+Hb FAST.,//www.medicineindia.org/medicine-brand-details/18078/hb-fast,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,40.00
+HAEM UP -PM.,//www.medicineindia.org/medicine-brand-details/18075/haem-up-pm,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,42.00
+HEPALON,//www.medicineindia.org/medicine-brand-details/14357/hepalon,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,42.80
+HbRon.,//www.medicineindia.org/medicine-brand-details/18079/hbron,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,43.00
+HOPECARD-H,//www.medicineindia.org/medicine-brand-details/7964/hopecard-h,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,43.13
+HIPRIL-A,//www.medicineindia.org/medicine-brand-details/7632/hipril-a,Carsyon (Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/690/carsyon-div-of-microlabs,43.80
+Hb FAST Z,//www.medicineindia.org/medicine-brand-details/18101/hb-fast-z,Biological E. Limited,//www.medicineindia.org/medicine-manufacturing-company/7/biological-e-limited,44.00
+HINAC MR,//www.medicineindia.org/medicine-brand-details/11637/hinac-mr,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,45.00
+HARFLOX-T,//www.medicineindia.org/medicine-brand-details/13753/harflox-t,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,45.00
+HOLD,//www.medicineindia.org/medicine-brand-details/17657/hold,Salud Care (I) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/412/salud-care-i-pvt-ltd,49.95
+HEPAREK,//www.medicineindia.org/medicine-brand-details/14342/heparek,REKVINA PHARMA,//www.medicineindia.org/medicine-manufacturing-company/240/rekvina-pharma,51.00
+HEALDASE-P,//www.medicineindia.org/medicine-brand-details/21590/healdase-p,Mascot Health Series Pvt.Ltd.,//www.medicineindia.org/medicine-manufacturing-company/991/mascot-health-series-pvtltd,52.00
+HEALON-P,//www.medicineindia.org/medicine-brand-details/21591/healon-p,Mascot Health Series Pvt.Ltd.,//www.medicineindia.org/medicine-manufacturing-company/991/mascot-health-series-pvtltd,58.00
+HOSIT,//www.medicineindia.org/medicine-brand-details/21658/hosit,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,58.90
+HEALAR D,//www.medicineindia.org/medicine-brand-details/11338/healar-d,BIOSTRASS HEALTH,//www.medicineindia.org/medicine-manufacturing-company/482/biostrass-health,59.00
+HEALASE- D,//www.medicineindia.org/medicine-brand-details/1859/healase-d,PARAS LAB,//www.medicineindia.org/medicine-manufacturing-company/191/paras-lab,60.00
+HEPAWIN,//www.medicineindia.org/medicine-brand-details/14358/hepawin,Wave Bio-Tech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/273/wave-bio-tech-pvt-ltd,64.90
+HCQS,//www.medicineindia.org/medicine-brand-details/6815/hcqs,IPCA Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/156/ipca-laboratories-ltd,66.00
+HANUFLOX OZ,//www.medicineindia.org/medicine-brand-details/14098/hanuflox-oz,RAVIAN H. CARE,//www.medicineindia.org/medicine-manufacturing-company/382/ravian-h-care,69.00
+HITARGET-AM,//www.medicineindia.org/medicine-brand-details/21654/hitarget-am,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,69.00
+HQTOR,//www.medicineindia.org/medicine-brand-details/18536/hqtor,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,70.00
+HIMOCIN - OZ,//www.medicineindia.org/medicine-brand-details/14099/himocin-oz,RATCHET BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/328/ratchet-biotech,70.00
+HITARGET-H,//www.medicineindia.org/medicine-brand-details/21655/hitarget-h,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,70.00
+HEPA-MERZ,//www.medicineindia.org/medicine-brand-details/14341/hepa-merz,Win Medicare,//www.medicineindia.org/medicine-manufacturing-company/387/win-medicare,74.70
+HIPRO TZ,//www.medicineindia.org/medicine-brand-details/13913/hipro-tz,RATCHET BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/328/ratchet-biotech,75.00
+HICIP-TZ,//www.medicineindia.org/medicine-brand-details/13912/hicip-tz,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,75.00
+HISTA AM,//www.medicineindia.org/medicine-brand-details/21646/hista-am,NRI Vision Care,//www.medicineindia.org/medicine-manufacturing-company/903/nri-vision-care,78.00
+HILIN ACE,//www.medicineindia.org/medicine-brand-details/21636/hilin-ace,Dr. Reddy`s Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/42/dr-reddys-laboratories-ltd,80.00
+HARPOON-TZ,//www.medicineindia.org/medicine-brand-details/13987/harpoon-tz,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,95.30
+HIFEN PLUS,//www.medicineindia.org/medicine-brand-details/21670/hifen-plus,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,99.00
+HIFEN LXX,//www.medicineindia.org/medicine-brand-details/21687/hifen-lxx,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,119.90
+HIBRID,//www.medicineindia.org/medicine-brand-details/3384/hibrid,Shreya Life Sciences Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/352/shreya-life-sciences-pvt-ltd,162.00
+HOSIT-L,//www.medicineindia.org/medicine-brand-details/21668/hosit-l,Emcure Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/147/emcure-pharmaceuticals-ltd,193.70
+HERFEM,//www.medicineindia.org/medicine-brand-details/22766/herfem,Torrent Pharmaceuticals-Axon,//www.medicineindia.org/medicine-manufacturing-company/859/torrent-pharmaceuticals-axon,75.00
+HERVOTE,//www.medicineindia.org/medicine-brand-details/21606/hervote,Torrent Pharmaceuticals-Axon,//www.medicineindia.org/medicine-manufacturing-company/859/torrent-pharmaceuticals-axon,0.00
+HEPASULFOL-AA,//www.medicineindia.org/medicine-brand-details/11321/hepasulfol-aa,Franco Indian Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/170/franco-indian-pharmaceuticals-ltd,43.08
+HERHOPE,//www.medicineindia.org/medicine-brand-details/21605/herhope,Torrent Pharmaceuticals-Axon,//www.medicineindia.org/medicine-manufacturing-company/859/torrent-pharmaceuticals-axon,0.00
+HEXAVIT,//www.medicineindia.org/medicine-brand-details/17656/hexavit,Indian Drugs & Pharmaceuticals Ltd. (IDPL),//www.medicineindia.org/medicine-manufacturing-company/79/indian-drugs-pharmaceuticals-ltd-idpl,116.90
+HEPALON,//www.medicineindia.org/medicine-brand-details/14357/hepalon,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,25.70
+HORN-O,//www.medicineindia.org/medicine-brand-details/21657/horn-o,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,38.00
+HEXIDOL KIT 1.5,//www.medicineindia.org/medicine-brand-details/9878/hexidol-kit-15,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,13.20
+HEXIDOL KIT 5,//www.medicineindia.org/medicine-brand-details/9879/hexidol-kit-5,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,19.80
+HOPECARD-H,//www.medicineindia.org/medicine-brand-details/7964/hopecard-h,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,34.00
+HIFEN-CV,//www.medicineindia.org/medicine-brand-details/21633/hifen-cv,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,169.00
+HICON,//www.medicineindia.org/medicine-brand-details/500/hicon,Systopic Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/142/systopic-laboratories-p-ltd,28.00
+HALIDOL,//www.medicineindia.org/medicine-brand-details/9851/halidol,Biddle Sawyer,//www.medicineindia.org/medicine-manufacturing-company/518/biddle-sawyer,1.96
+HALOXEL,//www.medicineindia.org/medicine-brand-details/9854/haloxel,S.P. PHARMA,//www.medicineindia.org/medicine-manufacturing-company/505/sp-pharma,5.00
+HALOPACE,//www.medicineindia.org/medicine-brand-details/9852/halopace,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,6.50
+HALOBID,//www.medicineindia.org/medicine-brand-details/21573/halobid,Crescent Therapeutics Limited,//www.medicineindia.org/medicine-manufacturing-company/817/crescent-therapeutics-limited,8.65
+HIPRAZOLE,//www.medicineindia.org/medicine-brand-details/9284/hiprazole,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,12.00
+HALIDACE,//www.medicineindia.org/medicine-brand-details/9850/halidace,Baroda Pharma Pvt.Ltd,//www.medicineindia.org/medicine-manufacturing-company/392/baroda-pharma-pvtltd,10.00
+HYTRIN,//www.medicineindia.org/medicine-brand-details/7301/hytrin,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,89.00
+HYDERGINE,//www.medicineindia.org/medicine-brand-details/10026/hydergine,Novartis,//www.medicineindia.org/medicine-manufacturing-company/80/novartis,477.00
+HALIDOL,//www.medicineindia.org/medicine-brand-details/9851/halidol,Biddle Sawyer,//www.medicineindia.org/medicine-manufacturing-company/518/biddle-sawyer,4.10
+HALOPACE,//www.medicineindia.org/medicine-brand-details/9852/halopace,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,11.00
+HEXIDOL,//www.medicineindia.org/medicine-brand-details/9855/hexidol,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,13.80
+HALOBID,//www.medicineindia.org/medicine-brand-details/21573/halobid,Crescent Therapeutics Limited,//www.medicineindia.org/medicine-manufacturing-company/817/crescent-therapeutics-limited,15.00
+HALIDACE,//www.medicineindia.org/medicine-brand-details/9850/halidace,Baroda Pharma Pvt.Ltd,//www.medicineindia.org/medicine-manufacturing-company/392/baroda-pharma-pvtltd,16.00
+HICOPE,//www.medicineindia.org/medicine-brand-details/21630/hicope,Mankind Pharmaceuticals-Lifestar,//www.medicineindia.org/medicine-manufacturing-company/824/mankind-pharmaceuticals-lifestar,0.00
+HYRAX,//www.medicineindia.org/medicine-brand-details/21679/hyrax,Palsons Drugs & Chem Indust,//www.medicineindia.org/medicine-manufacturing-company/830/palsons-drugs-chem-indust,0.00
+HYDROZE,//www.medicineindia.org/medicine-brand-details/9436/hydroze,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,7.00
+HYDROX TAB,//www.medicineindia.org/medicine-brand-details/21674/hydrox-tab,Monichem,//www.medicineindia.org/medicine-manufacturing-company/946/monichem,12.50
+HISTALONG,//www.medicineindia.org/medicine-brand-details/11067/histalong,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,15.47
+HISTEESE,//www.medicineindia.org/medicine-brand-details/11068/histeese,Micro Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/202/micro-labs-ltd,16.65
+HELIRAB,//www.medicineindia.org/medicine-brand-details/12773/helirab,Brown & Burk Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/348/brown-burk-pharmaceuticals-ltd,18.00
+HYOSWIFT,//www.medicineindia.org/medicine-brand-details/2839/hyoswift,IND-SWIFT LIMITED (BIO SCIENCES),//www.medicineindia.org/medicine-manufacturing-company/89/ind-swift-limited-bio-sciences,26.00
+HISNOFIL,//www.medicineindia.org/medicine-brand-details/11139/hisnofil,Rextar,//www.medicineindia.org/medicine-manufacturing-company/390/rextar,26.50
+HICET,//www.medicineindia.org/medicine-brand-details/11138/hicet,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,27.25
+HALOBID,//www.medicineindia.org/medicine-brand-details/21573/halobid,Crescent Therapeutics Limited,//www.medicineindia.org/medicine-manufacturing-company/817/crescent-therapeutics-limited,36.70
+HAPPI,//www.medicineindia.org/medicine-brand-details/12772/happi,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,38.00
+HEXIDOL,//www.medicineindia.org/medicine-brand-details/9855/hexidol,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,40.00
+HIPRIL,//www.medicineindia.org/medicine-brand-details/7837/hipril,Carsyon (Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/690/carsyon-div-of-microlabs,43.80
+HISONE TAB,//www.medicineindia.org/medicine-brand-details/269/hisone-tab,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,45.00
+HYTROL,//www.medicineindia.org/medicine-brand-details/7807/hytrol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,46.00
+HEALAR,//www.medicineindia.org/medicine-brand-details/2287/healar,BIOSTRASS HEALTH,//www.medicineindia.org/medicine-manufacturing-company/482/biostrass-health,48.00
+HETRAZAN,//www.medicineindia.org/medicine-brand-details/7204/hetrazan,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,10.50
+HELMINTOL,//www.medicineindia.org/medicine-brand-details/7036/helmintol,Medley Pharmaceuticals Pvt. Ltd,//www.medicineindia.org/medicine-manufacturing-company/108/medley-pharmaceuticals-pvt-ltd,11.00
+HIFENAC,//www.medicineindia.org/medicine-brand-details/1613/hifenac,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,19.00
+HILID,//www.medicineindia.org/medicine-brand-details/1025/hilid,RATCHET BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/328/ratchet-biotech,19.00
+HYTHALTON,//www.medicineindia.org/medicine-brand-details/8167/hythalton,SPPL (Sarabhai Piramal Pharmaceuticals Ltd.),//www.medicineindia.org/medicine-manufacturing-company/87/sppl-sarabhai-piramal-pharmaceuticals-ltd,23.80
+HANUFLOX,//www.medicineindia.org/medicine-brand-details/4960/hanuflox,RAVIAN H. CARE,//www.medicineindia.org/medicine-manufacturing-company/382/ravian-h-care,29.00
+HANSEPRAN,//www.medicineindia.org/medicine-brand-details/6431/hansepran,Nicholas Piramal India Ltd. (NPIL),//www.medicineindia.org/medicine-manufacturing-company/44/nicholas-piramal-india-ltd-npil,30.70
+HIPRES,//www.medicineindia.org/medicine-brand-details/2726/hipres,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,35.25
+HEPTAVIR,//www.medicineindia.org/medicine-brand-details/21601/heptavir,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,80.00
+HIVIR,//www.medicineindia.org/medicine-brand-details/6933/hivir,SAIN MEDICAMENTS,//www.medicineindia.org/medicine-manufacturing-company/519/sain-medicaments,103.00
+HEPITEC,//www.medicineindia.org/medicine-brand-details/6932/hepitec,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,490.00
+HYDRAZIDE,//www.medicineindia.org/medicine-brand-details/8166/hydrazide,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,7.22
+HYDRIDE,//www.medicineindia.org/medicine-brand-details/8192/hydride,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,10.00
+HISTALOC,//www.medicineindia.org/medicine-brand-details/21649/histaloc,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,40.00
+HISTAFREE,//www.medicineindia.org/medicine-brand-details/21647/histafree,Mankind Pharmaceuticals-Discovery,//www.medicineindia.org/medicine-manufacturing-company/852/mankind-pharmaceuticals-discovery,49.90
+HISTAGRA,//www.medicineindia.org/medicine-brand-details/11298/histagra,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,70.00
+HICOX,//www.medicineindia.org/medicine-brand-details/2165/hicox,Systopic Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/142/systopic-laboratories-p-ltd,72.50
+HONVAN,//www.medicineindia.org/medicine-brand-details/17061/honvan,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,146.74
+HYDROX DT,//www.medicineindia.org/medicine-brand-details/3817/hydrox-dt,WINSOME LAB,//www.medicineindia.org/medicine-manufacturing-company/271/winsome-lab,18.00
+HYCEF,//www.medicineindia.org/medicine-brand-details/3672/hycef,Grandix Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/394/grandix-pharmaceuticals-ltd,29.80
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,4.98
+HYTIDE,//www.medicineindia.org/medicine-brand-details/12263/hytide,EMBIOTIC LAB,//www.medicineindia.org/medicine-manufacturing-company/182/embiotic-lab,5.00
+HELKOSS,//www.medicineindia.org/medicine-brand-details/12261/helkoss,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,6.37
+HIROX,//www.medicineindia.org/medicine-brand-details/5609/hirox,MEDIZONE,//www.medicineindia.org/medicine-manufacturing-company/286/medizone,59.00
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,0.00
+HISTIGO,//www.medicineindia.org/medicine-brand-details/21652/histigo,Molekule India Pvt Ltd,//www.medicineindia.org/medicine-manufacturing-company/912/molekule-india-pvt-ltd,62.00
+HISTAVERT,//www.medicineindia.org/medicine-brand-details/21651/histavert,Pulse Pharma,//www.medicineindia.org/medicine-manufacturing-company/820/pulse-pharma,82.50
+HISTAKIND,//www.medicineindia.org/medicine-brand-details/21648/histakind,MANKIND PHARMA PVT. LTD (MAGNET LABS),//www.medicineindia.org/medicine-manufacturing-company/507/mankind-pharma-pvt-ltd-magnet-labs,91.00
+HISTAGRA,//www.medicineindia.org/medicine-brand-details/11298/histagra,Khandelwal Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/98/khandelwal-laboratories-ltd,100.00
+HEXYDYL,//www.medicineindia.org/medicine-brand-details/10274/hexydyl,Elite Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/136/elite-pharma-pvt-ltd,9.00
+HYTRIN,//www.medicineindia.org/medicine-brand-details/7301/hytrin,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,142.00
+HYTROL,//www.medicineindia.org/medicine-brand-details/7807/hytrol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,15.00
+HIPRIL,//www.medicineindia.org/medicine-brand-details/7837/hipril,Carsyon (Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/690/carsyon-div-of-microlabs,20.80
+HT,//www.medicineindia.org/medicine-brand-details/9583/ht,GENESIS BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/291/genesis-biotech,24.00
+HITARGET,//www.medicineindia.org/medicine-brand-details/21653/hitarget,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,32.50
+HYZOLE-20,//www.medicineindia.org/medicine-brand-details/12774/hyzole-20,OBSURGE BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/455/obsurge-biotech,39.00
+HELIRAB,//www.medicineindia.org/medicine-brand-details/12773/helirab,Brown & Burk Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/348/brown-burk-pharmaceuticals-ltd,39.00
+HAPPI,//www.medicineindia.org/medicine-brand-details/12772/happi,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,71.00
+HISONE TAB,//www.medicineindia.org/medicine-brand-details/269/hisone-tab,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,90.00
+HARPOON,//www.medicineindia.org/medicine-brand-details/4961/harpoon,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,30.04
+HIFENAC,//www.medicineindia.org/medicine-brand-details/1613/hifenac,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,33.00
+HYDROQUIN,//www.medicineindia.org/medicine-brand-details/6816/hydroquin,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,62.00
+HERPEX,//www.medicineindia.org/medicine-brand-details/7005/herpex,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,68.60
+HYPHORAL.,//www.medicineindia.org/medicine-brand-details/6487/hyphoral,Makers Labs,//www.medicineindia.org/medicine-manufacturing-company/211/makers-labs,131.15
+HERPERAX TAB,//www.medicineindia.org/medicine-brand-details/7004/herperax-tab,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,42.00
+HICOPE,//www.medicineindia.org/medicine-brand-details/21630/hicope,Mankind Pharmaceuticals-Lifestar,//www.medicineindia.org/medicine-manufacturing-company/824/mankind-pharmaceuticals-lifestar,0.00
+HYRAX,//www.medicineindia.org/medicine-brand-details/21679/hyrax,Palsons Drugs & Chem Indust,//www.medicineindia.org/medicine-manufacturing-company/830/palsons-drugs-chem-indust,0.00
+HIPRES,//www.medicineindia.org/medicine-brand-details/2726/hipres,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,11.20
+HYDROZE,//www.medicineindia.org/medicine-brand-details/9436/hydroze,Unichem Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/19/unichem-laboratories-ltd,12.00
+HYDIL,//www.medicineindia.org/medicine-brand-details/9435/hydil,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,12.75
+HYDRAZIDE,//www.medicineindia.org/medicine-brand-details/8166/hydrazide,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,12.84
+HYTEN,//www.medicineindia.org/medicine-brand-details/2727/hyten,SAIN MEDICAMENTS,//www.medicineindia.org/medicine-manufacturing-company/519/sain-medicaments,14.00
+HYXIN,//www.medicineindia.org/medicine-brand-details/21681/hyxin,Grefith,//www.medicineindia.org/medicine-manufacturing-company/997/grefith,17.50
+HYDRIDE,//www.medicineindia.org/medicine-brand-details/8192/hydride,Cardicare (A div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/115/cardicare-a-div-of-microlabs,18.50
+HYDROX TAB,//www.medicineindia.org/medicine-brand-details/21674/hydrox-tab,Monichem,//www.medicineindia.org/medicine-manufacturing-company/946/monichem,18.50
+HIBESOR,//www.medicineindia.org/medicine-brand-details/2725/hibesor,Blue Cross Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/67/blue-cross-laboratories-ltd,7.60
+HICIP,//www.medicineindia.org/medicine-brand-details/4800/hicip,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,35.00
+HEMSTAT,//www.medicineindia.org/medicine-brand-details/8451/hemstat,Aglowmed Limited,//www.medicineindia.org/medicine-manufacturing-company/247/aglowmed-limited,39.50
+HEMKLOT,//www.medicineindia.org/medicine-brand-details/8447/hemklot,Prisma Health Care,//www.medicineindia.org/medicine-manufacturing-company/502/prisma-health-care,45.00
+HAEMOCI TAB,//www.medicineindia.org/medicine-brand-details/8446/haemoci-tab,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,45.00
+HEMOSTAT,//www.medicineindia.org/medicine-brand-details/8449/hemostat,MERIDIAN MEDICARE,//www.medicineindia.org/medicine-manufacturing-company/269/meridian-medicare,48.00
+H-STAT,//www.medicineindia.org/medicine-brand-details/8455/h-stat,OBSURGE BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/455/obsurge-biotech,49.00
+HEMOSTOP,//www.medicineindia.org/medicine-brand-details/8450/hemostop,NAVIL,//www.medicineindia.org/medicine-manufacturing-company/497/navil,50.00
+HEMSYL,//www.medicineindia.org/medicine-brand-details/8452/hemsyl,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,58.00
+HEMOLATE,//www.medicineindia.org/medicine-brand-details/8448/hemolate,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,58.00
+HAEMOCI-TX,//www.medicineindia.org/medicine-brand-details/8509/haemoci-tx,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,120.00
+HELMAPAR,//www.medicineindia.org/medicine-brand-details/7050/helmapar,VOSTOK&WILCURE,//www.medicineindia.org/medicine-manufacturing-company/296/vostokwilcure,9.00
+HIFEN TAB,//www.medicineindia.org/medicine-brand-details/6647/hifen-tab,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,155.00
+HEPEXA,//www.medicineindia.org/medicine-brand-details/21599/hepexa,Eris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/832/eris-life-sciences,0.00
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,9.26
+HELKOSS,//www.medicineindia.org/medicine-brand-details/12261/helkoss,Lupin Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/95/lupin-laboratories-ltd,11.14
+HITARGET,//www.medicineindia.org/medicine-brand-details/21653/hitarget,Panacea Biotec Ltd.,//www.medicineindia.org/medicine-manufacturing-company/5/panacea-biotec-ltd,0.00
+HD-SR,//www.medicineindia.org/medicine-brand-details/9377/hd-sr,OCTANE BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/272/octane-biotech,27.00
+HYMIN,//www.medicineindia.org/medicine-brand-details/7140/hymin,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,7.50
+HIBEND,//www.medicineindia.org/medicine-brand-details/7139/hibend,Hiral Labs Ltd.,//www.medicineindia.org/medicine-manufacturing-company/366/hiral-labs-ltd,10.00
+HARPOON,//www.medicineindia.org/medicine-brand-details/4961/harpoon,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,0.00
+HEPTRAL,//www.medicineindia.org/medicine-brand-details/21602/heptral,Abbott India-Lenbrook,//www.medicineindia.org/medicine-manufacturing-company/969/abbott-india-lenbrook,0.00
+HARFLOX,//www.medicineindia.org/medicine-brand-details/5196/harflox,Taurus Laboratories Pvt Ltd.,//www.medicineindia.org/medicine-manufacturing-company/121/taurus-laboratories-pvt-ltd,19.87
+HICETAM,//www.medicineindia.org/medicine-brand-details/10055/hicetam,REDSON LAB,//www.medicineindia.org/medicine-manufacturing-company/78/redson-lab,43.00
+HERPERAX TAB,//www.medicineindia.org/medicine-brand-details/7004/herperax-tab,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,152.00
+HELMAX,//www.medicineindia.org/medicine-brand-details/7138/helmax,UNIMAX LAB,//www.medicineindia.org/medicine-manufacturing-company/326/unimax-lab,220.00
+HARPOON,//www.medicineindia.org/medicine-brand-details/4961/harpoon,E.Merck (India) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/119/emerck-india-ltd,45.57
+"HOSTACORTIN "" H""",//www.medicineindia.org/medicine-brand-details/2353/hostacortin-h,Aventis Pharma,//www.medicineindia.org/medicine-manufacturing-company/10/aventis-pharma,4.25
+HYPNORIL,//www.medicineindia.org/medicine-brand-details/9116/hypnoril,RELIANCE FORMULATIONS,//www.medicineindia.org/medicine-manufacturing-company/134/reliance-formulations,7.50
+HALIDOL,//www.medicineindia.org/medicine-brand-details/9851/halidol,Biddle Sawyer,//www.medicineindia.org/medicine-manufacturing-company/518/biddle-sawyer,9.25
+HALOPACE,//www.medicineindia.org/medicine-brand-details/9852/halopace,Psychotropics India Limited (PIL),//www.medicineindia.org/medicine-manufacturing-company/297/psychotropics-india-limited-pil,20.00
+HATRIC,//www.medicineindia.org/medicine-brand-details/11183/hatric,Aristo Pharmaceutical Ltd.,//www.medicineindia.org/medicine-manufacturing-company/45/aristo-pharmaceutical-ltd,20.37
+HYTROL,//www.medicineindia.org/medicine-brand-details/7807/hytrol,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,25.00
+HISTACHEK,//www.medicineindia.org/medicine-brand-details/11184/histachek,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,25.00
+HALOBID,//www.medicineindia.org/medicine-brand-details/21573/halobid,Crescent Therapeutics Limited,//www.medicineindia.org/medicine-manufacturing-company/817/crescent-therapeutics-limited,25.90
+HISONE TAB,//www.medicineindia.org/medicine-brand-details/269/hisone-tab,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,27.00
+HEXIDOL,//www.medicineindia.org/medicine-brand-details/9855/hexidol,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,28.30
+HIPRIL,//www.medicineindia.org/medicine-brand-details/7837/hipril,Carsyon (Div. of Microlabs),//www.medicineindia.org/medicine-manufacturing-company/690/carsyon-div-of-microlabs,38.00
+HALOPIDOL,//www.medicineindia.org/medicine-brand-details/9853/halopidol,Janssen-Cilag,//www.medicineindia.org/medicine-manufacturing-company/525/janssen-cilag,42.05
+HYTRIN,//www.medicineindia.org/medicine-brand-details/7301/hytrin,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,283.00
+HALIDACE,//www.medicineindia.org/medicine-brand-details/9850/halidace,Baroda Pharma Pvt.Ltd,//www.medicineindia.org/medicine-manufacturing-company/392/baroda-pharma-pvtltd,36.00
+HETRAZAN,//www.medicineindia.org/medicine-brand-details/7204/hetrazan,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,3.51
+HALORAN,//www.medicineindia.org/medicine-brand-details/1512/haloran,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,4.35
+HIBESOR,//www.medicineindia.org/medicine-brand-details/2725/hibesor,Blue Cross Laboratories Ltd.,//www.medicineindia.org/medicine-manufacturing-company/67/blue-cross-laboratories-ltd,13.00
+HIPRES,//www.medicineindia.org/medicine-brand-details/2726/hipres,Cipla Limited,//www.medicineindia.org/medicine-manufacturing-company/71/cipla-limited,20.00
+HONYGRA,//www.medicineindia.org/medicine-brand-details/14517/honygra,BENNET PHARMA,//www.medicineindia.org/medicine-manufacturing-company/230/bennet-pharma,71.50
+HORN,//www.medicineindia.org/medicine-brand-details/6747/horn,Dey`s Medical Stores (Mfg.) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/236/deys-medical-stores-mfg-ltd,40.00
+HICIP,//www.medicineindia.org/medicine-brand-details/4800/hicip,Intra Labs,//www.medicineindia.org/medicine-manufacturing-company/73/intra-labs,54.00
+HIPRO,//www.medicineindia.org/medicine-brand-details/4801/hipro,RATCHET BIOTECH,//www.medicineindia.org/medicine-manufacturing-company/328/ratchet-biotech,58.00
+HAEMOCI TAB,//www.medicineindia.org/medicine-brand-details/8446/haemoci-tab,Ochoa Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/405/ochoa-laboratories-p-ltd,65.00
+H-PLUG,//www.medicineindia.org/medicine-brand-details/8454/h-plug,ALCHEMIST,//www.medicineindia.org/medicine-manufacturing-company/306/alchemist,74.00
+HEMSTAT,//www.medicineindia.org/medicine-brand-details/8451/hemstat,Aglowmed Limited,//www.medicineindia.org/medicine-manufacturing-company/247/aglowmed-limited,75.00
+HEMOSTAT,//www.medicineindia.org/medicine-brand-details/8449/hemostat,MERIDIAN MEDICARE,//www.medicineindia.org/medicine-manufacturing-company/269/meridian-medicare,90.00
+HEMOLATE,//www.medicineindia.org/medicine-brand-details/8448/hemolate,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,98.00
+HEMSYL,//www.medicineindia.org/medicine-brand-details/8452/hemsyl,Indoco Remedies Ltd.,//www.medicineindia.org/medicine-manufacturing-company/63/indoco-remedies-ltd,112.00
+HAPPYCEF,//www.medicineindia.org/medicine-brand-details/21583/happycef,Ronyd Healthcare,//www.medicineindia.org/medicine-manufacturing-company/914/ronyd-healthcare,399.90
+HELICLAR,//www.medicineindia.org/medicine-brand-details/5825/heliclar,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,260.00
+HYPOPHOS,//www.medicineindia.org/medicine-brand-details/11919/hypophos,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,95.00
+HISTAVERT,//www.medicineindia.org/medicine-brand-details/21651/histavert,Pulse Pharma,//www.medicineindia.org/medicine-manufacturing-company/820/pulse-pharma,43.50
+HERPERAX TAB,//www.medicineindia.org/medicine-brand-details/7004/herperax-tab,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,275.00
+HICOX,//www.medicineindia.org/medicine-brand-details/2165/hicox,Systopic Laboratories (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/142/systopic-laboratories-p-ltd,49.50
+HAEM UP CHEW TAB.,//www.medicineindia.org/medicine-brand-details/17808/haem-up-chew-tab,Cadila Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/27/cadila-pharmaceuticals-ltd,27.00
+HEARTIL,//www.medicineindia.org/medicine-brand-details/7741/heartil,Life Medicare & Biotech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/48/life-medicare-biotech-pvt-ltd,55.00
+HEARTIL,//www.medicineindia.org/medicine-brand-details/7741/heartil,Life Medicare & Biotech Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/48/life-medicare-biotech-pvt-ltd,48.00
+HIFEN (Hetero Healthcare Limited),//www.medicineindia.org/medicine-brand-details/21632/hifen-hetero-healthcare-limited,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,45.00
+HIDROX,//www.medicineindia.org/medicine-brand-details/3815/hidrox,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,26.20
+HIFEN (Hetero Healthcare Limited),//www.medicineindia.org/medicine-brand-details/21632/hifen-hetero-healthcare-limited,Hetero Healthcare Limited,//www.medicineindia.org/medicine-manufacturing-company/990/hetero-healthcare-limited,79.00
+HERPERAX TAB,//www.medicineindia.org/medicine-brand-details/7004/herperax-tab,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,42.00
+HIPEN,//www.medicineindia.org/medicine-brand-details/3247/hipen,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,36.40
+HIDROX,//www.medicineindia.org/medicine-brand-details/3815/hidrox,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,45.20
+HERPERAX TAB,//www.medicineindia.org/medicine-brand-details/7004/herperax-tab,Micro Nova Pharmaceuticals Ltd,//www.medicineindia.org/medicine-manufacturing-company/303/micro-nova-pharmaceuticals-ltd,0.00
+HIDROX,//www.medicineindia.org/medicine-brand-details/3815/hidrox,Hygeia Pharmaceuticals,//www.medicineindia.org/medicine-manufacturing-company/574/hygeia-pharmaceuticals,77.30
+HERPEX,//www.medicineindia.org/medicine-brand-details/7005/herpex,Torrent Pharmaceuticals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/112/torrent-pharmaceuticals-ltd,166.50
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,30.05
+HISTAC,//www.medicineindia.org/medicine-brand-details/12262/histac,Ranbaxy Laboratories Limited,//www.medicineindia.org/medicine-manufacturing-company/132/ranbaxy-laboratories-limited,3.26
+HISTALONG,//www.medicineindia.org/medicine-brand-details/11067/histalong,Manufacturer Not Mentioned,//www.medicineindia.org/medicine-manufacturing-company/43/manufacturer-not-mentioned,10.50
+HALORAN,//www.medicineindia.org/medicine-brand-details/1512/haloran,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,8.57
+HIFENAC,//www.medicineindia.org/medicine-brand-details/1613/hifenac,Intas Pharmaceuticals Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/17/intas-pharmaceuticals-pvt-ltd,36.54
+HIPENOX,//www.medicineindia.org/medicine-brand-details/3421/hipenox,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,17.37
+HIPENOX,//www.medicineindia.org/medicine-brand-details/3421/hipenox,Zydus Cadila,//www.medicineindia.org/medicine-manufacturing-company/26/zydus-cadila,28.79
+HYCOSON,//www.medicineindia.org/medicine-brand-details/270/hycoson,Astra Zeneca,//www.medicineindia.org/medicine-manufacturing-company/83/astra-zeneca,32.00
+HUMSTARD,//www.medicineindia.org/medicine-brand-details/18435/humstard,CADILA H,//www.medicineindia.org/medicine-manufacturing-company/155/cadila-h,145.00
+HUMAN LONGACT,//www.medicineindia.org/medicine-brand-details/15162/human-longact,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,155.00
+HUMAN FASTACT,//www.medicineindia.org/medicine-brand-details/15152/human-fastact,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,155.00
+HUMAN-MIXACT,//www.medicineindia.org/medicine-brand-details/15186/human-mixact,U.S.V Ltd.,//www.medicineindia.org/medicine-manufacturing-company/346/usv-ltd,199.46
+HB VAC,//www.medicineindia.org/medicine-brand-details/44/hb-vac,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,2585.00
+HOLOXAN-UROMITEXAN,//www.medicineindia.org/medicine-brand-details/16892/holoxan-uromitexan,German Remedies Limited,//www.medicineindia.org/medicine-manufacturing-company/307/german-remedies-limited,460.10
+HISTAGLOBULIN,//www.medicineindia.org/medicine-brand-details/99/histaglobulin,Serum Institute of India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/2/serum-institute-of-india-ltd,77.10
+HISTOGLOB,//www.medicineindia.org/medicine-brand-details/106/histoglob,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,72.75
+HIBERIX,//www.medicineindia.org/medicine-brand-details/22/hiberix,Glaxo Smithkline,//www.medicineindia.org/medicine-manufacturing-company/8/glaxo-smithkline,400.00
+Hib TITER I.M.,//www.medicineindia.org/medicine-brand-details/21/hib-titer-im,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,500.00
+Hib TITER,//www.medicineindia.org/medicine-brand-details/20/hib-titer,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,500.00
+HEALON,//www.medicineindia.org/medicine-brand-details/15987/healon,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,1550.00
+HEALON,//www.medicineindia.org/medicine-brand-details/15987/healon,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,1936.00
+HALTAX,//www.medicineindia.org/medicine-brand-details/4050/haltax,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,34.99
+HICEF,//www.medicineindia.org/medicine-brand-details/4261/hicef,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,99.00
+HEALON GV,//www.medicineindia.org/medicine-brand-details/15988/healon-gv,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,2075.00
+HEALON GV,//www.medicineindia.org/medicine-brand-details/15988/healon-gv,Pharmacia India (P) Ltd.,//www.medicineindia.org/medicine-manufacturing-company/35/pharmacia-india-p-ltd,2574.00
+HAEMOPROT,//www.medicineindia.org/medicine-brand-details/8498/haemoprot,Troikaa Parenterals Ltd.,//www.medicineindia.org/medicine-manufacturing-company/104/troikaa-parenterals-ltd,975.00
+HEPAGEN-PLUS,//www.medicineindia.org/medicine-brand-details/45/hepagen-plus,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,97.00
+HEPLOCK,//www.medicineindia.org/medicine-brand-details/461/heplock,Gland Pharma Ltd.,//www.medicineindia.org/medicine-manufacturing-company/129/gland-pharma-ltd,14.00
+Hib TITER I.M.,//www.medicineindia.org/medicine-brand-details/21/hib-titer-im,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,3500.00
+HEPAGLOB,//www.medicineindia.org/medicine-brand-details/93/hepaglob,Inca (Sun),//www.medicineindia.org/medicine-manufacturing-company/28/inca-sun,800.00
+HEPABIG,//www.medicineindia.org/medicine-brand-details/92/hepabig,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,1998.00
+HYDROCORTISONE SODIUM SUCCINATE INJ. B.P.,//www.medicineindia.org/medicine-brand-details/271/hydrocortisone-sodium-succinate-inj-bp,Lyka Hetro Labs. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/84/lyka-hetro-labs-ltd,33.60
+HYCORT,//www.medicineindia.org/medicine-brand-details/18577/hycort,Ind-Swift Ltd.,//www.medicineindia.org/medicine-manufacturing-company/70/ind-swift-ltd,40.00
+HUMINSULIN-N,//www.medicineindia.org/medicine-brand-details/15164/huminsulin-n,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,463.00
+HUMINSULIN 30:70,//www.medicineindia.org/medicine-brand-details/15187/huminsulin-3070,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,463.00
+HUMINSULIN 50:50,//www.medicineindia.org/medicine-brand-details/15188/huminsulin-5050,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,463.00
+HUMINSULIN-R,//www.medicineindia.org/medicine-brand-details/15154/huminsulin-r,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,463.00
+HUMAN MIXTARD.,//www.medicineindia.org/medicine-brand-details/15184/human-mixtard,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,508.15
+HUMAN MONOTARD,//www.medicineindia.org/medicine-brand-details/15171/human-monotard,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,508.15
+HUMAN MIXTARD 30,//www.medicineindia.org/medicine-brand-details/15182/human-mixtard-30,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,508.15
+HUMAN ACTRAPID,//www.medicineindia.org/medicine-brand-details/15151/human-actrapid,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,508.15
+HUMAN MIXTARD 50,//www.medicineindia.org/medicine-brand-details/15183/human-mixtard-50,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,517.35
+HEPAGEN-PLUS,//www.medicineindia.org/medicine-brand-details/45/hepagen-plus,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,528.00
+HEPAREN,//www.medicineindia.org/medicine-brand-details/458/heparen,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,32.00
+HUCOG,//www.medicineindia.org/medicine-brand-details/15281/hucog,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,539.86
+HUMOG,//www.medicineindia.org/medicine-brand-details/15295/humog,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,892.50
+HYMELOSE,//www.medicineindia.org/medicine-brand-details/15941/hymelose,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,54.85
+HYMELOSE,//www.medicineindia.org/medicine-brand-details/15941/hymelose,Klar Sehen Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/59/klar-sehen-pvt-ltd,68.00
+HUMIN,//www.medicineindia.org/medicine-brand-details/207/humin,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,4097.00
+HEPASHIELD,//www.medicineindia.org/medicine-brand-details/46/hepashield,Pfizer Limited,//www.medicineindia.org/medicine-manufacturing-company/15/pfizer-limited,1925.00
+HEPAGEN-PLUS,//www.medicineindia.org/medicine-brand-details/45/hepagen-plus,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,159.00
+HB VAC,//www.medicineindia.org/medicine-brand-details/44/hb-vac,Zydus Vaccicare,//www.medicineindia.org/medicine-manufacturing-company/14/zydus-vaccicare,295.00
+HUMIN,//www.medicineindia.org/medicine-brand-details/207/humin,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,0.00
+HEPAGEN-PLUS,//www.medicineindia.org/medicine-brand-details/45/hepagen-plus,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,997.00
+HEPAGLOB,//www.medicineindia.org/medicine-brand-details/93/hepaglob,Inca (Sun),//www.medicineindia.org/medicine-manufacturing-company/28/inca-sun,1400.00
+HEPABIG,//www.medicineindia.org/medicine-brand-details/92/hepabig,VHB Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/12/vhb-life-sciences,3890.00
+HUCOG,//www.medicineindia.org/medicine-brand-details/15281/hucog,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,233.10
+HEMAX,//www.medicineindia.org/medicine-brand-details/18128/hemax,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,882.00
+HALTAX,//www.medicineindia.org/medicine-brand-details/4050/haltax,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,15.57
+HEPARIN,//www.medicineindia.org/medicine-brand-details/459/heparin,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,0.00
+HUMATROPE 4,//www.medicineindia.org/medicine-brand-details/15504/humatrope-4,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,1500.00
+HUMINSULIN-N,//www.medicineindia.org/medicine-brand-details/15164/huminsulin-n,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,145.00
+HUMAN MONOTARD,//www.medicineindia.org/medicine-brand-details/15171/human-monotard,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,145.00
+HUMINSULIN-R,//www.medicineindia.org/medicine-brand-details/15154/huminsulin-r,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,158.00
+HUMINSULIN 50:50,//www.medicineindia.org/medicine-brand-details/15188/huminsulin-5050,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,158.00
+HUMINSULIN 30:70,//www.medicineindia.org/medicine-brand-details/15187/huminsulin-3070,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,158.00
+HUMAN ACTRAPID,//www.medicineindia.org/medicine-brand-details/15151/human-actrapid,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,158.58
+HUMAN MIXTARD,//www.medicineindia.org/medicine-brand-details/15181/human-mixtard,Abbott Laboratories (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/309/abbott-laboratories-india-pvt-ltd,158.66
+HUMAN INSULATARD,//www.medicineindia.org/medicine-brand-details/15161/human-insulatard,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,158.68
+HUMAN MIXTARD 30,//www.medicineindia.org/medicine-brand-details/15182/human-mixtard-30,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,169.04
+HUMAN ZINULIN,//www.medicineindia.org/medicine-brand-details/15172/human-zinulin,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,189.84
+HUMAN RAPIDICA,//www.medicineindia.org/medicine-brand-details/15153/human-rapidica,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,189.84
+HUMAN RAPIMIX,//www.medicineindia.org/medicine-brand-details/15185/human-rapimix,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,190.02
+HUMAN PRODICA,//www.medicineindia.org/medicine-brand-details/15163/human-prodica,Sarabhai Chemicals,//www.medicineindia.org/medicine-manufacturing-company/113/sarabhai-chemicals,190.04
+HUMAN MIXTARD 50,//www.medicineindia.org/medicine-brand-details/15183/human-mixtard-50,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,197.62
+HUMAN MIXTARD.,//www.medicineindia.org/medicine-brand-details/15184/human-mixtard,Novo Nordisk Pharma India Ltd.,//www.medicineindia.org/medicine-manufacturing-company/131/novo-nordisk-pharma-india-ltd,197.62
+HUMAN MIXACT,//www.medicineindia.org/medicine-brand-details/21667/human-mixact,USV-Condor,//www.medicineindia.org/medicine-manufacturing-company/801/usv-condor,199.46
+HUMINSULIN-L,//www.medicineindia.org/medicine-brand-details/15173/huminsulin-l,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,218.00
+HUMALOG,//www.medicineindia.org/medicine-brand-details/15202/humalog,Eli Lilly and Company (India) Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/127/eli-lilly-and-company-india-pvt-ltd,410.00
+HEMAX,//www.medicineindia.org/medicine-brand-details/18128/hemax,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,1750.00
+Hib TITER,//www.medicineindia.org/medicine-brand-details/20/hib-titer,Wyeth Lederle Limited,//www.medicineindia.org/medicine-manufacturing-company/9/wyeth-lederle-limited,3200.00
+HAMOSTAT,//www.medicineindia.org/medicine-brand-details/8548/hamostat,Samarth Pharma Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/57/samarth-pharma-pvt-ltd,73.00
+HALTAX,//www.medicineindia.org/medicine-brand-details/4050/haltax,Hindustan Antibiotics Ltd.,//www.medicineindia.org/medicine-manufacturing-company/100/hindustan-antibiotics-ltd,21.78
+HUCOG,//www.medicineindia.org/medicine-brand-details/15281/hucog,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,396.90
+HEPARIN,//www.medicineindia.org/medicine-brand-details/459/heparin,Sun Pharmaceuticals Industries Ltd.,//www.medicineindia.org/medicine-manufacturing-company/34/sun-pharmaceuticals-industries-ltd,69.00
+HEPAREN,//www.medicineindia.org/medicine-brand-details/458/heparen,Claris Life Sciences,//www.medicineindia.org/medicine-manufacturing-company/41/claris-life-sciences,97.00
+HUMOG,//www.medicineindia.org/medicine-brand-details/15295/humog,Bharat Serum & Vaccines Pvt. Ltd.,//www.medicineindia.org/medicine-manufacturing-company/23/bharat-serum-vaccines-pvt-ltd,577.50
+HIB-MULTIPACK,//www.medicineindia.org/medicine-brand-details/24/hib-multipack,Aventis Pasteur,//www.medicineindia.org/medicine-manufacturing-company/1/aventis-pasteur,3900.00
