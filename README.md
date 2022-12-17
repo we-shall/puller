@@ -1,2 +1,3 @@
 # puller
-A bot to scrape data from different websites
+
+A python script to scrape a website
